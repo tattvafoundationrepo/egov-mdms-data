@@ -3493,13 +3493,13 @@
          "name": "Detailed Code-Create",
          "url": "url",
          "parentModule": "",
-         "displayName": "Create Detailed Code",
+         "displayName": "Create Detailed Code 1",
          "orderNumber": 1,
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Chartofaccounts.Detailed Codes.Create Detailed Code",
+         "path": "Finance.Masters.Chartofaccounts.Detailed Codes.Create Detailed Code 1",
          "navigationURL": "services/EGF/masters/chartOfAccounts-addNew.action"
       },
       {
