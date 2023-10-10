@@ -3493,7 +3493,7 @@
          "name": "Detailed Code-Create",
          "url": "url",
          "parentModule": "",
-         "displayName": "Create Detailad Code",
+         "displayName": "Create Detailed Code",
          "orderNumber": 1,
          "enabled": true,
          "serviceCode": "FinanceMaster",
