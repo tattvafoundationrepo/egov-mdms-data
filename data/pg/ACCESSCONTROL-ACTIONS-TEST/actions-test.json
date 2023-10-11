@@ -3493,13 +3493,13 @@
          "name": "Detailed Code-Create",
          "url": "url",
          "parentModule": "",
-         "displayName": "Bank Book",
+         "displayName": "Bank Book 1",
          "orderNumber": 1,
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Chartofaccounts.Detailed Codes.Bank Book",
+         "path": "Finance.Masters.Chartofaccounts.Detailed Codes.Bank Book 1",
          "navigationURL": "services/EGF/masters/chartOfAccounts-addNew.action"
       },
       {
