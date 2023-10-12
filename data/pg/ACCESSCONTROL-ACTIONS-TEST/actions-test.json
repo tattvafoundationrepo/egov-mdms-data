@@ -3489,18 +3489,18 @@
          "navigationURL": "services/EGF/eGov_COA.jsp"
       },
       {
-         "id": 1616,
-         "name": "Detailed Code-Create",
-         "url": "url",
-         "parentModule": "",
-         "displayName": "Bank Book 1",
-         "orderNumber": 1,
-         "enabled": true,
-         "serviceCode": "FinanceMaster",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Chartofaccounts.Detailed Codes.Bank Book 1",
-         "navigationURL": "services/EGF/masters/chartOfAccounts-addNew.action"
+      "id": 1616,
+      "name": "Detailed Code-Create",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Create Detailed Code",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Chartofaccounts.Detailed Codes.Create Detailed Code",
+      "navigationURL": "services/EGF/masters/chartOfAccounts-addNew.action"
       },
       {
          "id": 1617,
@@ -14968,6 +14968,48 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },   	
+    {
+      "id": 2549,
+      "name": "Secondary COA-Create",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Create Secondary COA",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Chartofaccounts.Secondary COA.Create Secondary COA",
+      "navigationURL": "services/EGF/masters/secondaryChartOfAccounts-addSecNew.action"
+    },
+    {
+      "id": 2550,
+      "name": "Secondary COA-View",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "View Secondary COA",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Chartofaccounts.Secondary COA.View Secondary COA",
+      "navigationURL": "services/EGF/masters/secondaryChartOfAccounts-viewSecCode.action"
+    },
+    {
+      "id": 2551,
+      "name": "Secondary COA-Modify",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Modify Secondary COA",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Chartofaccounts.Secondary COA.Modify Secondary COA",
+      "navigationURL": "services/EGF/masters/secondaryChartOfAccounts-editSecCode.action"
     }
    ]
 }
