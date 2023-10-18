@@ -15010,6 +15010,21 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Chartofaccounts.Secondary COA.Modify Secondary COA",
       "navigationURL": "services/EGF/masters/secondaryChartOfAccounts-editSecCode.action"
-    }
+    },
+    {
+      "id": 2552,
+      "name": "Financial Cash to Bank Transfer",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Cash to Bank Transfer",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceBill",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Transactions.Contra Entries.Cash to Bank Transfer",
+      "navigationURL": "services/EGF/contra/contraCTB-newform.action"
+    } 
+	   
    ]
 }
