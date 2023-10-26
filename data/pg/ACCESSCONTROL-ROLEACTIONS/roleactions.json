@@ -26088,6 +26088,18 @@
       "actionid": 2552,
       "actioncode": "",
       "tenantId": "pb"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2553,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 2553,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
