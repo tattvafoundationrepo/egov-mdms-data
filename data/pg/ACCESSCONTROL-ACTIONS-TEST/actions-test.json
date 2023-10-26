@@ -4089,49 +4089,7 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Transactions.Payments.Surrender RTGS",
          "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearchForRTGSSurrender.action"
-      },
-      {
-         "id": 1659,
-         "name": "Create Contractor",
-         "url": "url",
-         "parentModule": "",
-         "displayName": "Create Contractor",
-         "orderNumber": 1,
-         "enabled": true,
-         "serviceCode": "FinanceMaster",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Contractor.Create Contractor",
-         "navigationURL": "services/EGF/contractor/newform"
-      },
-      {
-         "id": 1660,
-         "name": "View Contractor",
-         "url": "url",
-         "parentModule": "",
-         "displayName": "View Contractor",
-         "orderNumber": 2,
-         "enabled": true,
-         "serviceCode": "FinanceMaster",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Contractor. View Contractor",
-         "navigationURL": "services/EGF/contractor/search/view"
-      },
-      {
-         "id": 1661,
-         "name": "Modify Contractor",
-         "url": "url",
-         "parentModule": "",
-         "displayName": "Modify Contractor",
-         "orderNumber": 3,
-         "enabled": true,
-         "serviceCode": "FinanceMaster",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.Contractor.Modify Contractor",
-         "navigationURL": "services/EGF/contractor/search/edit"
-      },
+      },      
       {
          "id": 1662,
          "name": "Create Supplier",
@@ -15024,7 +14982,21 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Transactions.Contra Entries.Cash to Bank Transfer",
       "navigationURL": "services/EGF/contra/contraCTB-newform.action"
-    } 
+    },
+    {
+         "id": 2553,
+         "name": "Contractor",
+         "url": "url",
+         "parentModule": "",
+         "displayName": "Contractor",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.Contractor",
+         "navigationURL": "services/EGF/contractor/search/edit"
+      }
 	   
    ]
 }
