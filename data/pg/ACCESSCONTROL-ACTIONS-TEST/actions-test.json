@@ -14989,7 +14989,7 @@
          "url": "url",
          "parentModule": "",
          "displayName": "Contractor",
-         "orderNumber": 1,
+         "orderNumber": 11,
          "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
