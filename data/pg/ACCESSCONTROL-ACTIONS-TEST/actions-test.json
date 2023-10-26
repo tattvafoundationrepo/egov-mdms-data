@@ -14987,7 +14987,7 @@
          "id": 2553,
          "name": "Contractor",
          "url": "url",
-         "parentModule": "",
+         "parentModule": "Masters",
          "displayName": "Contractor",
          "orderNumber": 11,
          "enabled": true,
