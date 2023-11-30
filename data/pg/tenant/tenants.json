@@ -320,10 +320,10 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "dehradun",
-        "localName": "dehradun",
+        "name": "Dehradun",
+        "localName": "Dehradun",
         "districtCode": "49",
-        "districtName": "dehradun",
+        "districtName": "Dehradun",
         "districtTenantCode": "pg.dehradun",
         "regionName": "Gharwal",
         "ulbGrade": "Municipal Corporation",
@@ -332,7 +332,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "248430",
-        "ddrName": "DDR dehradun"
+        "ddrName": "Dehradun"
       },
       "address": "dehradun NagarNigam",
       "contactNumber": "8455931965",
