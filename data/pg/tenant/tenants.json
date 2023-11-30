@@ -303,6 +303,40 @@
       "address": "Dhenkanal Municipality",
       "contactNumber": "9438256399",
       "helpLineNumber": "9438256399"
+    },
+    {
+      "code": "pg.dehradun",
+      "name": "Dehradun",
+      "description": "Dehradun NagarNigam",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.dehradun/logo.png",
+      "imageId": null,
+      "domainUrl": https://digit.dev-tattvafoundation.org/,
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "null",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "dehradun",
+        "localName": "dehradun",
+        "districtCode": "49",
+        "districtName": "dehradun",
+        "districtTenantCode": "pg.dehradun",
+        "regionName": "Gharwal",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 30.3165° N,
+        "latitude": 78.0322° E,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248430",
+        "ddrName": "DDR dehradun"
+      },
+      "address": "dehradun NagarNigam",
+      "contactNumber": "8455931965",
+      "helpLineNumber": "8787024615"
     }
    ]
 }
