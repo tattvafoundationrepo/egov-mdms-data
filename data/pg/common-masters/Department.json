@@ -66,6 +66,81 @@
       "name": "Works Branch",
       "code": "DEPT_35",
       "active": true
+    },
+    {
+      "name": "General Administration ",
+      "code": "DEPT_36",
+      "active": true
+    },
+    {
+      "name": "Accounts and Audit Department",
+      "code": "DEPT_37",
+      "active": true
+    },
+    {
+      "name": "Law Department",
+      "code": "DEPT_38",
+      "active": true
+    },
+    {
+      "name": "Establishment Department ",
+      "code": "DEPT_39",
+      "active": true
+    },
+    {
+      "name": "Assessment and Taxation Department",
+      "code": "DEPT_40",
+      "active": true
+    },
+    {
+      "name": "Planning and Regulation Department",
+      "code": "DEPT_41",
+      "active": true
+    },
+    {
+      "name": "Public Works Department",
+      "code": "DEPT_42",
+      "active": true
+    },
+    {
+      "name": "Health Department",
+      "code": "DEPT_43",
+      "active": true
+    },
+    {
+      "name": "Sanitation and Solid Waste Management Department",
+      "code": "DEPT_44",
+      "active": true
+    },
+    {
+      "name": "Public Lighting Department",
+      "code": "DEPT_45",
+      "active": true
+    },
+    {
+      "name": "Registration of births and deaths Department ",
+      "code": "DEPT_46",
+      "active": true
+    },
+    {
+      "name": "Municipal Properties Department",
+      "code": "DEPT_47",
+      "active": true
+    },
+    {
+      "name": "License Department",
+      "code": "DEPT_48",
+      "active": true
+    },
+    {
+      "name": "Water Supply Department ",
+      "code": "DEPT_49",
+      "active": true
+    },
+    {
+      "name": "Drainage and Sewerage Department",
+      "code": "DEPT_50",
+      "active": true
     }
   ]
 }
