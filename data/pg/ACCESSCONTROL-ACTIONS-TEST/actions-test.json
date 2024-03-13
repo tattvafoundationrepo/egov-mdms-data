@@ -15024,7 +15024,20 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Contractor.Modify Contractor",
          "navigationURL": "services/EGF/contractor/search/edit"
-      }
-	   
+      },
+      {
+         "id": 2554,
+         "name": "Cash Flow",
+         "navigationURL": "services/EGF/report/CashFlowReport-generateCashFlowReport.action",
+         "url": "url",
+         "parentModule": "EGF",
+         "displayName": "Cash Flow",
+         "orderNumber": 3,
+         "enabled": true,
+         "serviceCode": "FinanceReport",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Reports.Financial Statements.Cash Flow"
+      }   
    ]
 }
