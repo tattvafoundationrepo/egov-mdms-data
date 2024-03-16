@@ -15028,7 +15028,7 @@
       {
          "id": 2554,
          "name": "Cash Flow",
-         "navigationURL": "services/EGF/report/CashFlowReport-generateCashFlowReport.action",
+         "navigationURL": "services/EGF/report/cashFlowReport-generateCashFlowReport.action",
          "url": "url",
          "parentModule": "EGF",
          "displayName": "Cash Flow",
