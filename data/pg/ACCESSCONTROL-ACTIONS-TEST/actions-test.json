@@ -15038,6 +15038,20 @@
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Reports.Financial Statements.Cash Flow"
-      }   
+      },
+      {
+         "id": 2555,
+         "name": "Receipts and Paymnents",
+         "navigationURL": "services/EGF/report/receiptsandPaymentsReport-generateReceiptandPaymentsReport.action",
+         "url": "url",
+         "parentModule": "EGF",
+         "displayName": "Receipts and Payments",
+         "orderNumber": 4,
+         "enabled": true,
+         "serviceCode": "FinanceReport",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Reports.Financial Statements.Receipts and Payments"
+      }
    ]
 }
