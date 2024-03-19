@@ -8512,12 +8512,6 @@
     },
     {
       "rolecode": "GRO",
-      "actionid": 1557,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "GRO",
       "actionid": 1558,
       "actioncode": "",
       "tenantId": "pg"
@@ -8879,12 +8873,6 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 9999,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1577,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -11445,20 +11433,8 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "GRO",
-      "actionid": 1775,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "DGRO",
       "actionid": 1775,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "PT_CEMP",
-      "actionid": 1776,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -11932,12 +11908,6 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 1807,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1808,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -13136,12 +13106,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1879,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "TL_APPROVER",
       "actionid": 1879,
       "actioncode": "",
@@ -13502,12 +13466,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1911,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "TL_CEMP",
       "actionid": 1912,
       "actioncode": "",
@@ -13581,12 +13539,6 @@
     },
     {
       "rolecode": "CITIZEN",
-      "actionid": 1921,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE",
       "actionid": 1921,
       "actioncode": "",
       "tenantId": "pg"
@@ -13702,18 +13654,6 @@
     {
       "rolecode": "CSR",
       "actionid": 1925,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1926,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CSR",
-      "actionid": 1927,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -20396,12 +20336,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "SUPERUSER",
-      "actionid": 2179,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "WS_CEMP",
       "actionid": 2179,
       "actioncode": "",
@@ -23596,12 +23530,6 @@
     {
       "rolecode": "BPAREG_DOC_VERIFIER",
       "actionid": 698,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 2318,
       "actioncode": "",
       "tenantId": "pg"
     },
