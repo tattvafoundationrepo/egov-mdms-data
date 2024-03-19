@@ -10339,20 +10339,6 @@
       "path": ""
     },
     {
-      "id": 2178,
-      "name": "BillGenieSearch",
-      "url": "url",
-      "displayName": "BillGenie",
-      "orderNumber": 5,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "BG",
-      "code": "null",
-      "navigationURL": "abg/billSearch",
-      "path": "BillGenie.BillGenie",
-      "leftIcon": "action:receipt"
-    },
-    {
       "id": 2179,
       "name": "CurrentBillCancellationSearch",
       "url": "url",
