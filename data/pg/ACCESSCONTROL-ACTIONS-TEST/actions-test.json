@@ -15038,6 +15038,48 @@
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Reports.Financial Statements.Receipts and Payments"
+      },
+      {
+         "id": 2556,
+         "name": "uddgrantscreate",
+         "url": "url",
+         "displayName": "Create UDD Scheme",
+         "orderNumber": 16,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "navigationURL": "services/EGF/uddgrants/newform",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.UDD Grants.Create UDD Scheme"
+      },
+      {
+         "id": 2557,
+         "name": "uddgrantsview",
+         "url": "url",
+         "displayName": "View UDD Scheme",
+         "orderNumber": 17,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "navigationURL": "services/EGF/uddgrants/search/view",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.UDD Grants.View UDD Scheme"
+      },
+      {
+         "id": 2558,
+         "name": "uddgrantsmodify",
+         "url": "url",
+         "displayName": "Modify UDD Scheme",
+         "orderNumber": 18,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "FinanceMaster",
+         "navigationURL": "services/EGF/uddgrnats/search/edit",
+         "code": "null",
+         "leftIcon": "editor:insert-chart",
+         "path": "Finance.Masters.UDD Grants.Modify UDD Scheme"
       }
    ]
 }
