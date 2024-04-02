@@ -26106,6 +26106,24 @@
       "actionid": 2555,
       "actioncode": "",
       "tenantId": "pg"
-    }
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2556,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2557,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2558,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
   ]
 }
