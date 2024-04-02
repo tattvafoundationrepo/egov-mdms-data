@@ -615,6 +615,23 @@
         "code": "pg.cityc"
       }
       ]
+    },
+    {
+      "module": "BR",
+      "code": "BR",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        }
+      ]
     }
   ]
 }
