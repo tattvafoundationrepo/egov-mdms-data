@@ -338,6 +338,21 @@
       "contactNumber": "8455931965",
       "helpLineNumber": "8787024615"
     },
+      {
+      "code": "pg.doiwala",
+      "name": "Doiwala",
+      "description": "Doiwala NagarPalika",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.dehradun/logo.png",
+      "imageId": null,
+      "domainUrl": "https://digit.dev-tattvafoundation.org/",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "null",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
      "city": {
         "name": "Doiwala",
         "localName": "Doiwala",
