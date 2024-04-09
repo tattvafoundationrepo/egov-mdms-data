@@ -1,9 +1,9 @@
 {
-    "tenantId": "pg.dehradun",
+    "tenantId": "pg.doiwala",
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
-        "tenantId": "pg.dehradun",
+        "tenantId": "pg.doiwala",
         "reminderInterval": 12345
       },
       {
