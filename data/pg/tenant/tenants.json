@@ -337,6 +337,25 @@
       "address": "dehradun NagarNigam",
       "contactNumber": "8455931965",
       "helpLineNumber": "8787024615"
+    },
+     "city": {
+        "name": "Doiwala",
+        "localName": "Doiwala",
+        "districtCode": "50",
+        "districtName": "Doiwala",
+        "districtTenantCode": "pg.doiwala",
+        "regionName": "Gharwal",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 30.3165,
+        "latitude": 78.0322,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "248430",
+        "ddrName": "Doiwala"
+      },
+      "address": "doiwala NagarPalika",
+      "contactNumber": "8455931965",
+      "helpLineNumber": "8787024615"
     }
    ]
 }
