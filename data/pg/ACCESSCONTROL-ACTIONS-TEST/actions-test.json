@@ -15076,7 +15076,7 @@
          "parentModule": "",
          "enabled": true,
          "serviceCode": "FinanceMaster",
-         "navigationURL": "services/EGF/uddgrnats/search/edit",
+         "navigationURL": "services/EGF/uddgrants/search/edit",
          "code": "null",
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.UDD Grants.Modify UDD Scheme"
