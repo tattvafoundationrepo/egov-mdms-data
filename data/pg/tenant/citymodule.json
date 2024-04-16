@@ -620,20 +620,15 @@
       ]
     },
     {
-      "module": "BR",
-      "code": "BR",
+      "module": "BMC",
+      "code": "BMC",
       "active": true,
       "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
         }
+        
       ]
     }
   ]
