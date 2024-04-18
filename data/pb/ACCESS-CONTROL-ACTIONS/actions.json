@@ -1,0 +1,36 @@
+{
+      "id": 2382,
+      "name": "Birth registration module create",
+      "url": "/birth-registration/birth-services/v1/registration/_create",
+      "parentModule": "",
+      "displayName": "Birth registration",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "BTR",
+      "code": "null",
+      "path": ""
+    },
+  {
+    "id": 2383,
+    "name": "Birth registration module update",
+    "url": "/birth-registration/birth-services/v1/registration/_update",
+    "parentModule": "",
+    "displayName": "Birth registration",
+    "orderNumber": 0,
+    "enabled": true,
+    "serviceCode": "BTR",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 2384,
+    "name": "Birth registration module search",
+    "url": "/birth-registration/birth-services/v1/registration/_search",
+    "parentModule": "",
+    "displayName": "Birth registration",
+    "orderNumber": 0,
+    "enabled": true,
+    "serviceCode": "BTR",
+    "code": "null",
+    "path": ""
+  }
