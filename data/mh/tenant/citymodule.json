@@ -1,0 +1,14 @@
+{
+  "tenantId": "mh",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "BMC",
+      "code": "BMC",
+      "tenants": [
+        {
+          "code": "mh.mumbai"
+        }
+      ]
+    }
+  }
