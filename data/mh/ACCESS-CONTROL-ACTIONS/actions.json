@@ -33,4 +33,41 @@
     "serviceCode": "BTR",
     "code": "null",
     "path": ""
+  },
+{
+      "id": 2385,
+      "name": "Bmc registration module create",
+      "url": "/bmc-registration/bmc-services/v1/registration/_create",
+      "parentModule": "",
+      "displayName": "Bmc registration",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "BMC",
+      "code": "null",
+      "path": ""
+    },
+  {
+    "id": 2386,
+    "name": "Bmc registration module update",
+    "url": "/bmc-registration/bmc-services/v1/registration/_update",
+    "parentModule": "",
+    "displayName": "Bmc registration",
+    "orderNumber": 0,
+    "enabled": true,
+    "serviceCode": "BMC",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 2387,
+    "name": "Bmc registration module search",
+    "url": "/bmc-registration/bmc-services/v1/registration/_search",
+    "parentModule": "",
+    "displayName": "Bmc registration",
+    "orderNumber": 0,
+    "enabled": true,
+    "serviceCode": "BMC",
+    "code": "null",
+    "path": ""
   }
+
