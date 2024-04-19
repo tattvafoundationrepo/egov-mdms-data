@@ -15,4 +15,22 @@
       "actionid": 2384,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2385,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2386,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2387,
+      "actioncode": "",
+      "tenantId": "mh"
     }
