@@ -70,8 +70,8 @@
     },
    {
       "module": "Finance",
-      "code": "Finance",
-      "active": false,
+      "code": "erp",
+      "active": true,
       "order":4,
       "tenants": [
         {
