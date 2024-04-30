@@ -614,8 +614,8 @@
       ]
     },
     {
-      "module": "BMC",
-      "code": "BMC",
+      "module": "Wwf",
+      "code": "Wwf",
       "active": true,
       "order": 1,
       "tenants": [
