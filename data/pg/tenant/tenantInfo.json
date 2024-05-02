@@ -1,9 +1,9 @@
 {
-  "tenantId": "uk",
+  "tenantId": "pg",
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "uk.dehradun",
+      "code": "pg.dehradun",
       "districtCode": "Dhradun",
       "population": "156716",
       "malePopulation": "82045",
@@ -13,7 +13,7 @@
       "languagesSpoken": ["PN", "HN", "EN"]
     },
     {
-      "code": "uk.haldwani",
+      "code": "pg.haldwani",
       "districtCode": "Haldwani",
       "population": "116449",
       "malePopulation": "62554",
@@ -24,7 +24,7 @@
     },
   
     {
-      "code": "uk.haridwar",
+      "code": "pg.haridwar",
       "districtCode": "Haridwar",
       "population": "17331",
       "malePopulation": "10521",
@@ -34,7 +34,7 @@
       "languagesSpoken": ["GR", "PN", "HN"]
     },
     {
-      "code": "uk.roorkee",
+      "code": "pg.roorkee",
       "districtCode": "Roorkee",
       "population": "12507",
       "malePopulation": "6810",
@@ -44,7 +44,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "uk.rudrapur",
+      "code": "pg.rudrapur",
       "districtCode": "Rudrapur",
       "population": "12507",
       "malePopulation": "6810",
