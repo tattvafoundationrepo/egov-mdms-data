@@ -6,7 +6,7 @@
       "name": "dehradun",
       "description": "Dehradun",
       "pincode": [143001,143002,143003,143004,143005],
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.dehradun/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.dehradun/logo.png",
       "imageId": null,
       "domainUrl": "https://www.egovernments.org",
       "type": "CITY",
@@ -39,7 +39,7 @@
       "name": "Haldwani",
       "description": "haldwani",
       "pincode": [143006,143007,143008,143009,143010],
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.haldwani/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.haldwani/logo.png",
       "imageId": null,
       "domainUrl": "https://www.egovernments.org",
       "type": "CITY",
@@ -55,7 +55,7 @@
         "localName": null,
         "districtCode": "Haldwani",
         "districtName": "haldwani District",
-        "districtTenantCode": "pg.haldwani",
+        "districtTenantCode": "uk.haldwani",
         "regionName": "haldwani Region",
         "ulbGrade": "Municipal Corporation",
         "longitude": 74.8722642,
@@ -73,7 +73,7 @@
       "code": "uk.rudrapur",
       "name": "haridwar",
       "description": null,
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.haridwar/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.haridwar/logo.png",
       "imageId": null,
       "domainUrl": "https://www.egovernments.org",
       "type": "CITY",
@@ -104,10 +104,10 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.cityd",
+      "code": "uk.cityd",
       "name": "roorkee",
       "description": null,
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.roorkee/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.roorkee/logo.png",
       "imageId": null,
       "domainUrl": "https://www.egovernments.org",
       "type": "CITY",
@@ -141,7 +141,7 @@
       "code": "uk.rudrapur",
       "name": "rudrapur",
       "description": null,
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.rudrapur/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.rudrapur/logo.png",
       "imageId": null,
       "domainUrl": "https://www.egovernments.org",
       "type": "CITY",
@@ -175,13 +175,13 @@
       "code": "uk",
       "name": "State",
       "description": "State",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/uk-egov-assets/uk.citya/logo.png",
       "imageId": null,
       "domainUrl": "www.stae.gov.in",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "pg.state@gmail.com",
+      "emailId": "uk.state@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 5.00 PM"
       },
@@ -190,7 +190,7 @@
         "localName": "Demo State",
         "districtCode": "0",
         "districtName": "State- District",
-        "districtTenantCode": "pg",
+        "districtTenantCode": "uk",
         "regionName": "State- Region",
         "ulbGrade": "ST",
         "longitude": 75.3412,
@@ -204,11 +204,11 @@
       "contactNumber": "0978-7645345"
     },
     {
-      "code": "pg.balasore",
+      "code": "uk.balasore",
       "name": "Balasore Municipality",
       "description": "",
       "pincode": [756001,756002,756019,756025,756056],
-      "logoId": "https://uat.digit.org/pg-egov-assets/Balasore%20logo.jpg",
+      "logoId": "https://uat.digit.org/uk-egov-assets/Balasore%20logo.juk",
       "imageId": null,
       "domainUrl": "http://balasoremunicipality.in/",
       "type": "",
@@ -223,7 +223,7 @@
         "localName": "Balasore",
         "districtCode": "8",
         "districtName": "Balasore District",
-        "districtTenantCode": "pg.balasore",
+        "districtTenantCode": "uk.balasore",
         "regionName": "Balasore Region",
         "ulbGrade": "B",
         "longitude": null ,
@@ -237,7 +237,7 @@
       "contactNumber": ""
     },
     {
-      "code": "pg.berhampur",
+      "code": "uk.berhampur",
       "name": "Berhampur Municipal Corporation",
       "description": "Berhampur Municipal Corporation",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
@@ -256,7 +256,7 @@
         "localName": "Berhampur",
         "districtCode": "7",
         "districtName": "Ganjam",
-        "districtTenantCode": "pg.berhampur",
+        "districtTenantCode": "uk.berhampur",
         "regionName": "Berhampur Region",
         "ulbGrade": "B801881",
         "longitude": 0,
@@ -271,7 +271,7 @@
       "helpLineNumber": "0680-2250280"
     },
     {
-      "code": "pg.dhenkanal",
+      "code": "uk.dhenkanal",
       "name": "Dhenkanal Municipality",
       "description": "Dhenkanal Municipality",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
@@ -290,7 +290,7 @@
         "localName": "Dhenkanal",
         "districtCode": "6",
         "districtName": "Dhenkanal",
-        "districtTenantCode": "pg.dhenkanal",
+        "districtTenantCode": "uk.dhenkanal",
         "regionName": "Dhenkanal Region",
         "ulbGrade": "B",
         "longitude": 0,
@@ -305,10 +305,10 @@
       "helpLineNumber": "9438256399"
     },
     {
-      "code": "pg.dehradun",
+      "code": "uk.dehradun",
       "name": "Dehradun",
       "description": "Dehradun NagarNigam",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.dehradun/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.dehradun/logo.png",
       "imageId": null,
       "domainUrl": "https://digit.dev-tattvafoundation.org/",
       "type": "CITY",
@@ -324,7 +324,7 @@
         "localName": "Dehradun",
         "districtCode": "49",
         "districtName": "Dehradun",
-        "districtTenantCode": "pg.dehradun",
+        "districtTenantCode": "uk.dehradun",
         "regionName": "Gharwal",
         "ulbGrade": "Municipal Corporation",
         "longitude": 30.3165,
@@ -339,10 +339,10 @@
       "helpLineNumber": "8787024615"
     },
       {
-      "code": "pg.doiwala",
+      "code": "uk.doiwala",
       "name": "Doiwala",
       "description": "Doiwala NagarPalika",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.dehradun/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.dehradun/logo.png",
       "imageId": null,
       "domainUrl": "https://digit.dev-tattvafoundation.org/",
       "type": "CITY",
@@ -358,7 +358,7 @@
         "localName": "Doiwala",
         "districtCode": "50",
         "districtName": "Doiwala",
-        "districtTenantCode": "pg.doiwala",
+        "districtTenantCode": "uk.doiwala",
         "regionName": "Gharwal",
         "ulbGrade": "Municipal Corporation",
         "longitude": 30.3165,
@@ -373,10 +373,10 @@
       "helpLineNumber": "8787024615"
     },
     {
-      "code": "pg.haldwani",
+      "code": "uk.haldwani",
       "name": "Haldwani",
       "description": "Haldwani",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.haldwani/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.haldwani/logo.png",
       "imageId": null,
       "domainUrl": "http://www.nagarnigamhaldwani.in/",
       "type": "CITY",
@@ -406,10 +406,10 @@
       "contactNumber": "(05946) 220035"
     },
     {
-      "code": "pg.haridwar",
+      "code": "uk.haridwar",
       "name": "Haridwar",
       "description": "Haridwar",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.haridwar/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.haridwar/logo.png",
       "imageId": null,
       "domainUrl": "http://www.haridwarnagarnigam.com/",
       "type": "CITY",
@@ -439,10 +439,10 @@
       "contactNumber": "(01334) 227006"
     },
     {
-      "code": "pg.roorkee",
+      "code": "uk.roorkee",
       "name": "Roorkee",
       "description": "Roorkee",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.roorkee/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.roorkee/logo.png",
       "imageId": null,
       "domainUrl": "http://www.nagarnigamroorkee.com/",
       "type": "CITY",
@@ -472,10 +472,10 @@
       "contactNumber": "(01332) 272666"
     },
     {
-      "code": "pg.rudrapur",
+      "code": "uk.rudrapur",
       "name": "Rudrapur",
       "description": "Rudrapur",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.rudrapur/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.rudrapur/logo.png",
       "imageId": null,
       "domainUrl": "http://www.nagarnigamrudrapur.com/",
       "type": "CITY",
@@ -505,10 +505,10 @@
       "contactNumber": "(5944) 242400"
     },
     {
-      "code": "pg.kashipur",
+      "code": "uk.kashipur",
       "name": "Kashipur",
       "description": "Kashipur",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.kashipur/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.kashipur/logo.png",
       "imageId": null,
       "domainUrl": "http://www.nagarnigamkashipur.com/",
       "type": "CITY",
@@ -538,10 +538,10 @@
       "contactNumber": "(05947) 2575514"
     },
     {
-      "code": "pg.rishikesh",
+      "code": "uk.rishikesh",
       "name": "Rishikesh",
       "description": "Rishikesh",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.rishikesh/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.rishikesh/logo.png",
       "imageId": null,
       "domainUrl": "http://nagarnigamrishikesh.org/",
       "type": "CITY",
@@ -571,10 +571,10 @@
       "contactNumber": "(0135) 2431472"
     },
     {
-      "code": "pg.kotdwar",
+      "code": "uk.kotdwar",
       "name": "Kotdwar",
       "description": "Kotdwar",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.kotdwar/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.kotdwar/logo.png",
       "imageId": null,
       "domainUrl": null,
       "type": "CITY",
@@ -604,16 +604,16 @@
       "contactNumber": "(01382) 222028"
     },
     {
-      "code": "pg.mahuwadawara",
+      "code": "uk.mahuwadawara",
       "name": "Mahuwadawara",
       "description": "Mahuwadawara",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.kotdwar/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.kotdwar/logo.png",
       "imageId": null,
       "domainUrl": "",
       "type": "CITY",
       "twitterUrl": "",
       "facebookUrl": "",
-      "emailId": "eonpmahua-urban@pg.gov.in",
+      "emailId": "eonpmahua-urban@uk.gov.in",
       "OfficeTimings": {
         "Mon - Sat": "10.00 AM - 5.00 PM"
       },
@@ -637,10 +637,10 @@
       "contactNumber": ""
     },
     {
-      "code": "pg.shaktigarh",
+      "code": "uk.shaktigarh",
       "name": "Shaktigarh",
       "description": "Shaktigarh",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.shaktigarh/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.shaktigarh/logo.png",
       "imageId": null,
       "domainUrl": "",
       "type": "CITY",
@@ -670,10 +670,10 @@
       "contactNumber": ""
     },
     {
-      "code": "pg.jaspur",
+      "code": "uk.jaspur",
       "name": "Jaspur",
       "description": "Jaspur",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.jaspur/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.jaspur/logo.png",
       "imageId": null,
       "domainUrl": "",
       "type": "CITY",
@@ -699,14 +699,14 @@
         "municipalityName": "Jaspur Nagar Palika Parishad",
         "ddrName": "UdhamSinghNagar"
       },
-      "address": "Nagar Palika Jaspur , Uddham SIngh Nagar,pg",
+      "address": "Nagar Palika Jaspur , Uddham SIngh Nagar,uk",
       "contactNumber": ""
     },
     {
-      "code": "pg.almora",
+      "code": "uk.almora",
       "name": "Almora",
       "description": "Almora",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.almora/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.almora/logo.png",
       "imageId": null,
       "domainUrl": "",
       "type": "CITY",
@@ -736,10 +736,10 @@
       "contactNumber": "05962 237734"
     },
     {
-      "code": "pg.chamba",
+      "code": "uk.chamba",
       "name": "Chamba",
       "description": "Chamba",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.chamba/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.chamba/logo.png",
       "imageId": null,
       "domainUrl": "",
       "type": "CITY",
@@ -769,10 +769,10 @@
       "contactNumber": "01376 255308"
     },
     {
-      "code": "pg.uttarkashi",
+      "code": "uk.uttarkashi",
       "name": "Uttarkashi",
       "description": "Uttarkashi",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.uttarkashi/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.uttarkashi/logo.png",
       "imageId": null,
       "domainUrl": "NA",
       "type": "CITY",
@@ -802,10 +802,10 @@
       "contactNumber": ""
     },
     {
-      "code": "pg.joshimath",
+      "code": "uk.joshimath",
       "name": "Joshimath",
       "description": "Joshimath",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.joshimath/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.joshimath/logo.png",
       "imageId": null,
       "domainUrl": "NA",
       "type": "CITY",
@@ -835,10 +835,10 @@
       "contactNumber": "01389 222122"
     },
     {
-      "code": "pg.karnaprayag",
+      "code": "uk.karnaprayag",
       "name": "Karnaprayag",
       "description": "Karnaprayag",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.karnaprayag/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.karnaprayag/logo.png",
       "imageId": null,
       "domainUrl": "NA",
       "type": "CITY",
@@ -868,10 +868,10 @@
       "contactNumber": "1363244084"
     },
     {
-      "code": "pg.pokhari",
+      "code": "uk.pokhari",
       "name": "Pokhari",
       "description": "Pokhari",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.pokhari/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.pokhari/logo.png",
       "imageId": null,
       "domainUrl": "NA",
       "type": "CITY",
@@ -901,16 +901,16 @@
       "contactNumber": "NA"
     },
     {
-      "code": "pg.augustmuni",
+      "code": "uk.augustmuni",
       "name": "Augustmuni",
       "description": "Augustmuni",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.augustmuni/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.augustmuni/logo.png",
       "imageId": null,
       "domainUrl": "NA",
       "type": "CITY",
       "twitterUrl": "",
       "facebookUrl": "",
-      "emailId": "eonpaug-mb@pg.gov.in",
+      "emailId": "eonpaug-mb@uk.gov.in",
       "OfficeTimings": {
         "Mon - Sat": "10.00 AM - 5.00 PM"
       },
@@ -934,22 +934,22 @@
       "contactNumber": "7533907987"
     },
     {
-      "code": "pg.pghimath",
-      "name": "pghimath",
-      "description": "pghimath",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.pghimath/logo.png",
+      "code": "uk.ukhimath",
+      "name": "ukhimath",
+      "description": "ukhimath",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.ukhimath/logo.png",
       "imageId": null,
       "domainUrl": "NA",
       "type": "CITY",
       "twitterUrl": "",
       "facebookUrl": "",
-      "emailId": "nppghimath@gmail.com",
+      "emailId": "npukhimath@gmail.com",
       "OfficeTimings": {
         "Mon - Sat": "10.00 AM - 5.00 PM"
       },
       "city": {
-        "name": "pghimath",
-        "localName": "pghimath",
+        "name": "ukhimath",
+        "localName": "ukhimath",
         "districtCode": "54",
         "districtName": "Rudraprayag",
         "regionName": "Gharwal",
@@ -960,17 +960,17 @@
         "captcha": null,
         "code": "262901",
         "regionCode": "1",
-        "municipalityName": "pghimath Nagar Panchayat",
+        "municipalityName": "ukhimath Nagar Panchayat",
         "ddrName": "Rudraprayag"
       },
-      "address": "Nagar Panchayat pgimath",
+      "address": "Nagar Panchayat ukimath",
       "contactNumber": ""
     },
     {
-      "code": "pg.lohaghat",
+      "code": "uk.lohaghat",
       "name": "Lohaghat",
       "description": "Lohaghat",
-      "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.lohaghat/logo.png",
+      "logoId": "https://nagarsewa.uk.gov.in/ukd-assets/uk.lohaghat/logo.png",
       "imageId": null,
       "domainUrl": "NA",
       "type": "CITY",
