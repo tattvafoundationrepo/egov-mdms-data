@@ -1,10 +1,10 @@
 {
-  "tenantId": "pg",
+  "tenantId": "uk",
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "pg.citya",
-      "districtCode": "CITYA",
+      "code": "uk.dehradun",
+      "districtCode": "Dhradun",
       "population": "156716",
       "malePopulation": "82045",
       "femalePopultion": "74671",
@@ -13,8 +13,8 @@
       "languagesSpoken": ["PN", "HN", "EN"]
     },
     {
-      "code": "pg.cityb",
-      "districtCode": "CITYB",
+      "code": "uk.haldwani",
+      "districtCode": "Haldwani",
       "population": "116449",
       "malePopulation": "62554",
       "femalePopultion": "53895",
@@ -24,8 +24,8 @@
     },
   
     {
-      "code": "pg.cityc",
-      "districtCode": "CITYC",
+      "code": "uk.haridwar",
+      "districtCode": "Haridwar",
       "population": "17331",
       "malePopulation": "10521",
       "femalePopultion": "6810",
@@ -34,8 +34,8 @@
       "languagesSpoken": ["GR", "PN", "HN"]
     },
     {
-      "code": "pg.cityd",
-      "districtCode": "CITYD",
+      "code": "uk.roorkee",
+      "districtCode": "Roorkee",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",
@@ -44,8 +44,8 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.citye",
-      "districtCode": "CITYE",
+      "code": "uk.rudrapur",
+      "districtCode": "Rudrapur",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",
