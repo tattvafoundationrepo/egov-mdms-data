@@ -2,9 +2,9 @@
   "tenantId": "pg",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "pg.dehradun",
-      "name": "dehradun",
-      "description": "Dehradun",
+      "code": "pg.citya",
+      "name": "City A",
+      "description": "City A",
       "pincode": [143001,143002,143003,143004,143005],
       "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.dehradun/logo.png",
       "imageId": null,
@@ -17,12 +17,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "dehradun",
-        "localName": "dehradun",
+        "name": "City A",
+        "localName": "City A",
         "districtCode": "CITYA",
-        "districtName": "dehradun District",
-        "districtTenantCode": "pg.dehradun",
-        "regionName": "dehradun Region",
+        "districtName": "City A District",
+        "districtTenantCode": "pg.citya",
+        "regionName": "City A Region",
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
@@ -31,13 +31,13 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "dehradun Municipal Corporation",
+      "address": "City A Municipal Corporation",
       "contactNumber": "001-2345876"
     },
     {
-      "code": "pg.haldwani",
-      "name": "Haldwani",
-      "description": "haldwani",
+      "code": "pg.cityb",
+      "name": "City B",
+      "description": "City B",
       "pincode": [143006,143007,143008,143009,143010],
       "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.haldwani/logo.png",
       "imageId": null,
@@ -51,12 +51,12 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "haldwani",
+        "name": "City B",
         "localName": null,
-        "districtCode": "Haldwani",
-        "districtName": "haldwani District",
-        "districtTenantCode": "pg.haldwani",
-        "regionName": "haldwani Region",
+        "districtCode": "CITYB",
+        "districtName": "City B District",
+        "districtTenantCode": "pg.cityb",
+        "regionName": "City B Region",
         "ulbGrade": "Municipal Corporation",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
@@ -65,13 +65,13 @@
         "code": "107",
         "ddrName": "DDR B"
       },
-      "address": "haldwani Municipal Corporation Address",
+      "address": "City B Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.rudrapur",
-      "name": "haridwar",
+      "code": "pg.cityc",
+      "name": "City C",
       "description": null,
       "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.haridwar/logo.png",
       "imageId": null,
@@ -85,12 +85,12 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "haridwar",
-        "localName": "haridwar",
-        "districtCode": "Haridwar",
-        "districtName": "haridwar District",
-        "districtTenantCode": "pg.haridwar",
-        "regionName": "haridwar Region",
+        "name": "City C",
+        "localName": "City C",
+        "districtCode": "CITYC",
+        "districtName": "City C District",
+        "districtTenantCode": "pg.cityc",
+        "regionName": "City C Region",
         "ulbGrade": "Municipal Corporation",
         "longitude": 73.8722642,
         "latitude": 31.6339793,
@@ -99,13 +99,13 @@
         "code": "108",
         "ddrName": "DDR C"
       },
-      "address": "haridwar Municipal Corporation Address",
+      "address": "City C Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
       "code": "pg.cityd",
-      "name": "roorkee",
+      "name": "City D",
       "description": null,
       "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.roorkee/logo.png",
       "imageId": null,
@@ -119,12 +119,12 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "roorkee",
-        "localName": "roorkee",
-        "districtCode": "Roorkee",
-        "districtName": "roorkee District",
-        "districtTenantCode": "pg.roorkee",
-        "regionName": "roorkee Region",
+        "name": "City D",
+        "localName": "City D",
+        "districtCode": "CITYD",
+        "districtName": "City D District",
+        "districtTenantCode": "pg.cityd",
+        "regionName": "City D Region",
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.8722642,
         "latitude": 35.6339793,
@@ -133,13 +133,13 @@
         "code": "109",
         "ddrName": "DDR D"
       },
-      "address": "roorkee Municipal Corporation Address",
+      "address": "City D Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.rudrapur",
-      "name": "rudrapur",
+      "code": "pg.citye",
+      "name": "City E",
       "description": null,
       "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.rudrapur/logo.png",
       "imageId": null,
@@ -153,12 +153,12 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "rudrapur",
-        "localName": "rudrapur",
-        "districtCode": "Rudrapur",
-        "districtName": "rudrapur District",
-        "districtTenantCode": "pg.rudrapur",
-        "regionName": "rudrapur Region",
+        "name": "City E",
+        "localName": "City E",
+        "districtCode": "CITYE",
+        "districtName": "City E District",
+        "districtTenantCode": "pg.citye",
+        "regionName": "City E Region",
         "ulbGrade": "Municipal Corporation",
         "longitude": 76.8722642,
         "latitude": 36.6339793,
@@ -167,7 +167,7 @@
         "code": "110",
         "ddrName": "DDR E"
       },
-      "address": "rudrapur Municipal Corporation Address",
+      "address": "City E Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
     },
