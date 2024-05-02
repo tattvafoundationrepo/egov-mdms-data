@@ -75,19 +75,19 @@
       "order":4,
       "tenants": [
         {
-          "code": "uk.dehradun"
+          "code": "pg.dehradun"
         },
         {
-          "code": "uk.haldwani"
+          "code": "pg.haldwani"
         },
 	{
-          "code": "uk.haridwar"
+          "code": "pg.haridwar"
         },      
 	{
-          "code": "uk.roorkee"
+          "code": "pg.roorkee"
         },
         {
-          "code": "uk.rudrapur"
+          "code": "pg.rudrapur"
         }
       ]
     },
