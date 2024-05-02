@@ -75,19 +75,19 @@
       "order":4,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "uk.dehradun"
         },
         {
-          "code": "pg.almora"
+          "code": "uk.haldwani"
         },
 	{
-          "code": "pg.nainital"
+          "code": "uk.haridwar"
         },      
 	{
-          "code": "pg.dehradun"
+          "code": "uk.roorkee"
         },
         {
-          "code": "pg.doiwala"
+          "code": "uk.rudrapur"
         }
       ]
     },
