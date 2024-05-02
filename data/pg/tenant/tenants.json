@@ -1,8 +1,8 @@
 {
-  "tenantId": "uk",
+  "tenantId": "pg",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "uk.dehradun",
+      "code": "pg.dehradun",
       "name": "dehradun",
       "description": "Dehradun",
       "pincode": [143001,143002,143003,143004,143005],
@@ -21,7 +21,7 @@
         "localName": "dehradun",
         "districtCode": "CITYA",
         "districtName": "dehradun District",
-        "districtTenantCode": "uk.dehradun",
+        "districtTenantCode": "pg.dehradun",
         "regionName": "dehradun Region",
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
@@ -35,7 +35,7 @@
       "contactNumber": "001-2345876"
     },
     {
-      "code": "uk.haldwani",
+      "code": "pg.haldwani",
       "name": "Haldwani",
       "description": "haldwani",
       "pincode": [143006,143007,143008,143009,143010],
@@ -70,7 +70,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "uk.rudrapur",
+      "code": "pg.rudrapur",
       "name": "haridwar",
       "description": null,
       "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.haridwar/logo.png",
@@ -89,7 +89,7 @@
         "localName": "haridwar",
         "districtCode": "Haridwar",
         "districtName": "haridwar District",
-        "districtTenantCode": "uk.haridwar",
+        "districtTenantCode": "pg.haridwar",
         "regionName": "haridwar Region",
         "ulbGrade": "Municipal Corporation",
         "longitude": 73.8722642,
@@ -123,7 +123,7 @@
         "localName": "roorkee",
         "districtCode": "Roorkee",
         "districtName": "roorkee District",
-        "districtTenantCode": "uk.roorkee",
+        "districtTenantCode": "pg.roorkee",
         "regionName": "roorkee Region",
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.8722642,
@@ -138,7 +138,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "uk.rudrapur",
+      "code": "pg.rudrapur",
       "name": "rudrapur",
       "description": null,
       "logoId": "https://nagarsewa.pg.gov.in/pgd-assets/pg.rudrapur/logo.png",
@@ -157,7 +157,7 @@
         "localName": "rudrapur",
         "districtCode": "Rudrapur",
         "districtName": "rudrapur District",
-        "districtTenantCode": "uk.rudrapur",
+        "districtTenantCode": "pg.rudrapur",
         "regionName": "rudrapur Region",
         "ulbGrade": "Municipal Corporation",
         "longitude": 76.8722642,
@@ -172,7 +172,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "uk",
+      "code": "pg",
       "name": "State",
       "description": "State",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
