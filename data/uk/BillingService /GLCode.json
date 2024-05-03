@@ -1,16 +1,16 @@
 {
-	"tenantId": "uk.citya",
+	"tenantId": "uk.dehradun",
 	"moduleName": "BillingService",
 	"GLCode": [
 	{
 		"code": "BIRTH_CERT",
 		"glcode": null,
-		"cb": "uk.citya"
+		"cb": "uk.dehradun"
 	},
 	{
 		"code": "DEATH_CERT",
 		"glcode": null,
-		"cb": "uk.citya"
+		"cb": "uk.dehradun"
 	}
 	]
 }
