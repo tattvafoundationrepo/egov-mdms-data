@@ -1005,8 +1005,8 @@
       "collectionModesNotAllowed": [
         "DD"
       ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": true,
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Finance"
