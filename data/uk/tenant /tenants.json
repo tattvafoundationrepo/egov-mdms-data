@@ -3473,7 +3473,7 @@
       "description": "State",
       "logoId": "https://s3.ap-south-1.amazonaws.com/uk-egov-assets/uk/logo.png",
       "imageId": null,
-      "domainUrl": "www.stae.gov.in",
+      "domainUrl": "www.state.gov.in",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
@@ -3483,7 +3483,7 @@
       },
       "city": {
         "name": "State",
-        "localName": "Demo State",
+        "localName": "Uttarakhand",
         "districtCode": "0",
         "districtName": "State- District",
         "districtTenantCode": "uk",
