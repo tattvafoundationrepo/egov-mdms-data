@@ -9,6 +9,9 @@
         {
           "code": "uk.dehradun"
         },
+	 {
+          "code": "uk"
+        },
         {
           "code": "uk.haldwani"
         },
@@ -318,6 +321,9 @@
         {
           "code": "uk.haridwar"
         },
+	 {
+          "code": "uk"
+        },
         {
           "code": "uk.haldwani"
         },
@@ -581,6 +587,9 @@
       "tenants": [
         {
           "code": "uk.dehradun"
+        },
+	 {
+          "code": "uk"
         },
         {
           "code": "uk.haldwani"
@@ -903,6 +912,9 @@
         {
           "code": "uk.dehradun"
         },
+	 {
+          "code": "uk"
+        },
         {
           "code": "uk.haldwani"
         },
@@ -1223,6 +1235,9 @@
       "tenants": [
         {
           "code": "uk.dehradun"
+        },
+	 {
+          "code": "uk"
         },
         {
           "code": "uk.haldwani"
@@ -1567,6 +1582,9 @@
       "tenants": [
         {
           "code": "uk.dehradun"
+        },
+	 {
+          "code": "uk"
         },
         {
           "code": "uk.haldwani"
@@ -2862,6 +2880,9 @@
         {
           "code": "uk.dehradun"
         },
+	 {
+          "code": "uk"
+        },
         {
           "code": "uk.haldwani"
         },
@@ -3181,6 +3202,9 @@
       "tenants": [
         {
           "code": "uk.dehradun"
+        },
+	 {
+          "code": "uk"
         },
         {
           "code": "uk.haldwani"
