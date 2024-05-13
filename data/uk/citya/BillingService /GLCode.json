@@ -1,16 +1,16 @@
 {
-    "tenantId": "uk.citya",
+    "tenantId": "uk.doiwala",
     "moduleName": "BillingService",
     "GLCode": [
         {
             "code": "BIRTH_CERT",
             "glcode": null,
-            "cb": "uk.citya"
+            "cb": "uk.doiwala"
         },
         {
             "code": "DEATH_CERT",
             "glcode": null,
-            "cb": "uk.citya"
+            "cb": "uk.doiwala"
         }
     ]
 }
