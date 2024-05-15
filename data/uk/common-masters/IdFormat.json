@@ -3,10 +3,6 @@
     "moduleName": "common-masters",
     "IdFormat": [
         {
-            "format": "[mm/yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "misc.voucher.id"
-        },
-        {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "watercharges.metered.receipt.id"
         },
