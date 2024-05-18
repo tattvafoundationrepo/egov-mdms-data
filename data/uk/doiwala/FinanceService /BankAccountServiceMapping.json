@@ -9,6 +9,14 @@
       "bankBranch": "HDFC001",
       "tenantId": "uk.doiwala"
     },
+
+    {
+      "businessDetails": "DISP_FIXED_ASSET.BUILDING",
+      "bankAccount": "111111111111",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "AUPGB001",
+      "tenantId": "uk.doiwala"
+    },
     
     {
       "businessDetails": "REV_GRANTS",
