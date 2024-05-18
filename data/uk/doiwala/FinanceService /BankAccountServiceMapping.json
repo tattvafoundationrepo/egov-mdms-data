@@ -3,6 +3,14 @@
   "moduleName": "FinanceModule",
   "BankAccountServiceMapping": [
    {
+      "businessDetails": "PT.MUTATION",
+      "bankAccount": "222222222222",
+      "bank": "HDFC Bank",
+      "bankBranch": "HDFC001",
+      "tenantId": "uk.doiwala"
+    },
+    
+    {
       "businessDetails": "REV_GRANTS",
       "bankAccount": "111111111111",
       "bank": "Allahabad UP Gramin Bank",
