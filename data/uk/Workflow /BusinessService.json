@@ -296,6 +296,133 @@
           ]
         }
       ]
-    }
+    },
+        {
+            "tenantId": "uk",
+            "businessService": "ptr",
+            "business": "pet-services",
+            "businessServiceSla": null,
+            "states": [
+                {
+                    "sla": null,
+                    "state": null,
+                    "applicationStatus": null,
+                    "docUploadRequired": true,
+                    "isStartState": true,
+                    "isTerminateState": false,
+                    "isStateUpdatable": true,
+                    "actions": [
+                        {
+                            "action": "APPLY",
+                            "nextState": "APPLIED",
+                            "roles": [
+                                "CITIZEN",
+                                "PTR_CEMP"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sla": null,
+                    "state": "APPLIED",
+                    "applicationStatus": "APPLIED",
+                    "docUploadRequired": false,
+                    "isStartState": false,
+                    "isTerminateState": true,
+                    "isStateUpdatable": false,
+                    "actions": [
+                        {
+                            "action": "VERIFY",
+                            "nextState": "DOCVERIFIED",
+                            "roles": [
+                                "EMPLOYEE",
+                                "PTR_CEMP",
+                                "PTR_VERIFIER"
+                            ]
+                        },
+                        {
+                            "action": "REJECT",
+                            "nextState": "REJECTED",
+                            "roles": [
+                                "EMPLOYEE",
+                                "PTR_CEMP",
+                                "PTR_VERIFIER"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sla": null,
+                    "state": "DOCVERIFIED",
+                    "applicationStatus": "DOCVERIFIED",
+                    "docUploadRequired": false,
+                    "isStartState": false,
+                    "isTerminateState": true,
+                    "isStateUpdatable": false,
+                    "actions": [
+                        {
+                            "action": "APPROVE",
+                            "nextState": "APPROVED",
+                            "roles": [
+                                "EMPLOYEE",
+                                "PTR_CEMP",
+                                "PTR_APPROVER"
+                            ]
+                        },
+                        {
+                            "action": "REJECT",
+                            "nextState": "REJECTED",
+                            "roles": [
+                                "EMPLOYEE",
+                                "PTR_CEMP",
+                                "PTR_APPROVER"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sla": null,
+                    "state": "APPROVED",
+                    "applicationStatus": "APPROVED",
+                    "docUploadRequired": false,
+                    "isStartState": false,
+                    "isTerminateState": false,
+                    "isStateUpdatable": false,
+                    "actions": [
+                        {
+                            "action": "PAY",
+                            "nextState": "REGISTRATIONCOMPLETED",
+                            "roles": [
+                                "SYSTEM_PAYMENT",
+                                "CITIZEN",
+                                "EMPLOYEE",
+                                "PTR_CEMP"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sla": null,
+                    "state": "REJECTED",
+                    "applicationStatus": "REJECTED",
+                    "docUploadRequired": false,
+                    "isStartState": false,
+                    "isTerminateState": true,
+                    "isStateUpdatable": false,
+                    "actions": null
+                },
+                {
+                    "sla": null,
+                    "state": "REGISTRATIONCOMPLETED",
+                    "applicationStatus": "REGISTRATIONCOMPLETED",
+                    "docUploadRequired": false,
+                    "isStartState": false,
+                    "isTerminateState": true,
+                    "isStateUpdatable": false,
+                    "actions": null
+                }
+            ]
+        }
+    
   ]
 }
