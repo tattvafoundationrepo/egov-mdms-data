@@ -26124,6 +26124,30 @@
       "actionid": 2558,
       "actioncode": "",
       "tenantId": "uk"
+    },
+	  {
+      "rolecode": "PTR_VERIFIER",
+      "actionid": 2609,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "PTR_VERIFIER",
+      "actionid": 2610,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "PTR_APPROVER",
+      "actionid": 2609,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "PTR_APPROVER",
+      "actionid": 2610,
+      "actioncode": "",
+      "tenantId": "uk"
     }
   ]
 }
