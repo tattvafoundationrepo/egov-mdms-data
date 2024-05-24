@@ -26127,13 +26127,19 @@
     },
 	  {
       "rolecode": "PTR_VERIFIER",
-      "actionid": 2609,
+      "actionid": 2608,
       "actioncode": "",
       "tenantId": "uk"
     },
     {
       "rolecode": "PTR_VERIFIER",
-      "actionid": 2610,
+      "actionid": 2609,
+      "actioncode": "",
+      "tenantId": "uk"
+    },
+    {
+      "rolecode": "PTR_APPROVER",
+      "actionid": 2608,
       "actioncode": "",
       "tenantId": "uk"
     },
@@ -26181,13 +26187,13 @@
     },
     {
       "rolecode": "PTR_APPROVER",
-      "actionid": 2613,
+      "actionid": 2614,
       "actioncode": "",
       "tenantId": "uk"
     },
     {
       "rolecode": "PTR_VERIFIER",
-      "actionid": 2614,
+      "actionid": 2613,
       "actioncode": "",
       "tenantId": "uk"
     },
