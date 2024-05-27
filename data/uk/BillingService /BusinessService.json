@@ -1974,20 +1974,15 @@
       "type": "Adhoc"
     },
     {
-      "fromDate": 1554057000000,
-      "toDate": 1869676199000,
-      "periodCycle": "TENYEARS",
-      "service": "pet-services",
-      "code": "PET10YRS2019",
-      "financialYear": "2019-29"
-    },
-    {
-      "fromDate": 1554057000000,
-      "toDate": 1869676199000,
-      "periodCycle": "TENYEARS",
-      "service": "pet-services",
-      "code": "PET10YRS2019",
-      "financialYear": "2019-29"
+      "businessService": "pet-services",
+      "code": "pet-services",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
     }
   ]
 }
