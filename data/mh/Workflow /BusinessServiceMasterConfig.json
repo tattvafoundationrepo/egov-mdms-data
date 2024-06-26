@@ -1,0 +1,12 @@
+{
+    "tenantId": "mh",
+    "moduleName": "Workflow",
+    "BusinessServiceMasterConfig": [
+        {
+        "businessService": "PTR",
+        "active": "true",
+        "isStatelevel": "true"
+      }
+        
+    ]
+  }
