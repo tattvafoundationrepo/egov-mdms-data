@@ -1,0 +1,127 @@
+{
+  "tenantId": "mh",
+  "moduleName": "Workflow",
+  "BusinessService": [
+      {
+            "tenantId": "mh",
+            "businessService": "BMC",
+            "business": "bmc-schemes",
+            "businessServiceSla": null,
+            "states": [
+                {
+                    "sla": null,
+                    "state": null,
+                    "applicationStatus": null,
+                    "docUploadRequired": true,
+                    "isStartState": true,
+                    "isTerminateState": false,
+                    "isStateUpdatable": true,
+                    "actions": [
+                        {
+                            "action": "APPLY",
+                            "nextState": "APPLIED",
+                            "roles": [
+                                "CITIZEN",
+                                "APP_VERIFIER"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sla": null,
+                    "state": "APPLIED",
+                    "applicationStatus": "APPLIED",
+                    "docUploadRequired": false,
+                    "isStartState": false,
+                    "isTerminateState": true,
+                    "isStateUpdatable": false,
+                    "actions": [
+                        {
+                            "action": "VERIFY",
+                            "nextState": "DOCVERIFIED",
+                            "roles": [
+                                "EMPLOYEE",                                
+                                "APP_VERIFIER"
+                            ]
+                        },
+                        {
+                            "action": "REJECT",
+                            "nextState": "REJECTED",
+                            "roles": [
+                                "EMPLOYEE",                                
+                                "APP_VERIFIER"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sla": null,
+                    "state": "DOCVERIFIED",
+                    "applicationStatus": "DOCVERIFIED",
+                    "docUploadRequired": false,
+                    "isStartState": false,
+                    "isTerminateState": true,
+                    "isStateUpdatable": false,
+                    "actions": [
+                        {
+                            "action": "APPROVE",
+                            "nextState": "APPROVED",
+                            "roles": [
+                                "EMPLOYEE",                                
+                                "APP_VERIFIER"
+                            ]
+                        },
+                        {
+                            "action": "REJECT",
+                            "nextState": "REJECTED",
+                            "roles": [
+                                "EMPLOYEE",                                
+                                "APP_VERIFIER"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sla": null,
+                    "state": "APPROVED",
+                    "applicationStatus": "APPROVED",
+                    "docUploadRequired": false,
+                    "isStartState": false,
+                    "isTerminateState": false,
+                    "isStateUpdatable": false,
+                    "actions": [
+                        {
+                            "action": "PAY",
+                            "nextState": "REGISTRATIONCOMPLETED",
+                            "roles": [
+                                "EMPLOYEE",                                
+                                "APP_VERIFIER"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sla": null,
+                    "state": "REJECTED",
+                    "applicationStatus": "REJECTED",
+                    "docUploadRequired": false,
+                    "isStartState": false,
+                    "isTerminateState": true,
+                    "isStateUpdatable": false,
+                    "actions": null
+                },
+                {
+                    "sla": null,
+                    "state": "REGISTRATIONCOMPLETED",
+                    "applicationStatus": "REGISTRATIONCOMPLETED",
+                    "docUploadRequired": false,
+                    "isStartState": false,
+                    "isTerminateState": true,
+                    "isStateUpdatable": false,
+                    "actions": null
+                }
+            ]
+        }
+    
+  ]
+}
