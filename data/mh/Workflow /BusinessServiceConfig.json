@@ -1,0 +1,10 @@
+{
+  "tenantId": "mh",
+  "moduleName": "Workflow",
+  "BusinessServiceConfig": [
+    {
+      "code": "BMC",
+      "isStateLevel": true
+    }
+  ]
+}
