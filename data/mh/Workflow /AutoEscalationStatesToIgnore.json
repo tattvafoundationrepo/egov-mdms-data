@@ -1,0 +1,11 @@
+{
+    "tenantId": "mh",
+    "moduleName": "Workflow",
+    "AutoEscalationStatesToIgnore": [
+      {
+        "businessService": "BMC",
+        "module": "bmc-schemes",
+        "state": ["INITIATED","PENDINGAPPROVAL"]
+      }
+    ]
+  }
