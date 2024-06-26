@@ -1,0 +1,36 @@
+{
+    "tenantId": "mh",
+    "moduleName": "Workflow",
+    "AutoEscalation": [
+      {
+        "businessService": "BMC",
+        "module": "bmc-schemes",
+        "state": "PENDINGATLME",
+        "action": "FORWARD",
+        "active": "true",
+        "stateSLA": 0.01,
+        "businessSLA": null,
+        "topic": "bmc-auto-escalation"
+      },
+      {
+        "businessService": "BMC",
+        "module": "bmc-schemes",
+        "state": "PENDINGFORASSIGNMENT",
+        "action": "ASSIGNEDBYAUTOESCALATION",
+        "active": "true",
+        "stateSLA": 0.01,
+        "businessSLA": null,
+        "topic": "bmc-auto-escalation"
+      },
+      {
+        "businessService": "BMC",
+        "module": "bmc-schemes",
+        "state": "REJECTED",
+        "action": "CANCEL",
+        "active": "true",
+        "stateSLA": 0.01,
+        "businessSLA": null,
+        "topic": "bmc-auto-escalation"
+      }
+    ]
+  }
