@@ -1,0 +1,816 @@
+{
+  "tenantId": "mh.mumbai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mumbai",
+        "localname": "Mumbai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "mh.mumbai",
+        "children": [
+          {
+            "id": "8f047fe7-b9ea-479d-8742-2030ecff37c7",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z-1",
+            "children": [
+              {
+                "id": "1611e8cc-c631-43f4-8972-3574aee2ed06",
+                "boundaryNum": 1,
+                "name": "WARD A",
+                "localname": "WARD A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-A",
+                "children": [
+                  {
+                    "id": "faa264b6-4d4a-4285-8552-f7114ccbf661",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD A",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_03",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f18bce59-b249-4149-b992-d69f92ad4598",
+                "boundaryNum": 1,
+                "name": "WARD B",
+                "localname": "WARD B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-B",
+                "children": [
+                  {
+                    "id": "224bd5b2-50d1-4741-a7b9-8dabc09ed192",
+                    "boundaryNum": 1,
+                    "name": "Gobind Nagar Naya Gaon - WARD B",
+                    "localname": "Gobind Nagar Naya Gaon - WARD B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_04",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65568a0b-05ec-4309-80df-a5a8e7d5ee75",
+                "boundaryNum": 1,
+                "name": "WARD C",
+                "localname": "WARD C",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-C",
+                "children": [
+                  {
+                    "id": "bac277b6-b1f2-417d-ad55-cbc519c764ed",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD C",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD C",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_06",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cdae84a9-0bf9-4600-b7d9-049a90b7d72c",
+                "boundaryNum": 1,
+                "name": "WARD D",
+                "localname": "WARD D",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-D",
+                "children": [
+                  {
+                    "id": "62274966-1c2c-44c6-81e3-93886f236aca",
+                    "boundaryNum": 1,
+                    "name": "Kansal Ward A Naya Gaon - WARD D",
+                    "localname": "Kansal Ward A Naya Gaon - WARD D",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_07",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31f4bc38-fd80-4a0b-9469-8eb6af4a51c5",
+                "boundaryNum": 1,
+                "name": "WARD E",
+                "localname": "WARD E",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-E",
+                "children": [
+                  {
+                    "id": "5d6f3ba0-2ca7-43a3-a218-da2638af4ea7",
+                    "boundaryNum": 1,
+                    "name": "Tribune Colony Sukhna Enclave Kansal - WARD E",
+                    "localname": "Tribune Colony Sukhna Enclave Kansal - WARD E",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_08",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ae0dd9e9-9ece-49f2-9091-5d7b02bf51ea",
+            "boundaryNum": 1,
+            "name": "Zone 2",
+            "localname": "Zone 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z-2",
+            "children": [
+              {
+                "id": "1611e8cc-c631-43f4-8972-3574aee2ed06",
+                "boundaryNum": 1,
+                "name": "WARD A",
+                "localname": "WARD A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-A",
+                "children": [
+                  {
+                    "id": "faa264b6-4d4a-4285-8552-f7114ccbf661",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD A",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_03",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f18bce59-b249-4149-b992-d69f92ad4598",
+                "boundaryNum": 1,
+                "name": "WARD B",
+                "localname": "WARD B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-B",
+                "children": [
+                  {
+                    "id": "224bd5b2-50d1-4741-a7b9-8dabc09ed192",
+                    "boundaryNum": 1,
+                    "name": "Gobind Nagar Naya Gaon - WARD B",
+                    "localname": "Gobind Nagar Naya Gaon - WARD B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_04",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65568a0b-05ec-4309-80df-a5a8e7d5ee75",
+                "boundaryNum": 1,
+                "name": "WARD C",
+                "localname": "WARD C",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-C",
+                "children": [
+                  {
+                    "id": "bac277b6-b1f2-417d-ad55-cbc519c764ed",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD C",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD C",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_06",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cdae84a9-0bf9-4600-b7d9-049a90b7d72c",
+                "boundaryNum": 1,
+                "name": "WARD D",
+                "localname": "WARD D",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-D",
+                "children": [
+                  {
+                    "id": "62274966-1c2c-44c6-81e3-93886f236aca",
+                    "boundaryNum": 1,
+                    "name": "Kansal Ward A Naya Gaon - WARD D",
+                    "localname": "Kansal Ward A Naya Gaon - WARD D",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_07",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31f4bc38-fd80-4a0b-9469-8eb6af4a51c5",
+                "boundaryNum": 1,
+                "name": "WARD E",
+                "localname": "WARD E",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-E",
+                "children": [
+                  {
+                    "id": "5d6f3ba0-2ca7-43a3-a218-da2638af4ea7",
+                    "boundaryNum": 1,
+                    "name": "Tribune Colony Sukhna Enclave Kansal - WARD E",
+                    "localname": "Tribune Colony Sukhna Enclave Kansal - WARD E",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_08",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ae0dd9e9-9ece-49f2-9091-5d7b02bf51ea",
+            "boundaryNum": 1,
+            "name": "Zone 3",
+            "localname": "Zone 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z-3",
+            "children": [
+              {
+                "id": "1611e8cc-c631-43f4-8972-3574aee2ed06",
+                "boundaryNum": 1,
+                "name": "WARD A",
+                "localname": "WARD A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-A",
+                "children": [
+                  {
+                    "id": "faa264b6-4d4a-4285-8552-f7114ccbf661",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD A",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_03",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f18bce59-b249-4149-b992-d69f92ad4598",
+                "boundaryNum": 1,
+                "name": "WARD B",
+                "localname": "WARD B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-B",
+                "children": [
+                  {
+                    "id": "224bd5b2-50d1-4741-a7b9-8dabc09ed192",
+                    "boundaryNum": 1,
+                    "name": "Gobind Nagar Naya Gaon - WARD B",
+                    "localname": "Gobind Nagar Naya Gaon - WARD B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_04",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65568a0b-05ec-4309-80df-a5a8e7d5ee75",
+                "boundaryNum": 1,
+                "name": "WARD C",
+                "localname": "WARD C",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-C",
+                "children": [
+                  {
+                    "id": "bac277b6-b1f2-417d-ad55-cbc519c764ed",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD C",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD C",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_06",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cdae84a9-0bf9-4600-b7d9-049a90b7d72c",
+                "boundaryNum": 1,
+                "name": "WARD D",
+                "localname": "WARD D",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-D",
+                "children": [
+                  {
+                    "id": "62274966-1c2c-44c6-81e3-93886f236aca",
+                    "boundaryNum": 1,
+                    "name": "Kansal Ward A Naya Gaon - WARD D",
+                    "localname": "Kansal Ward A Naya Gaon - WARD D",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_07",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31f4bc38-fd80-4a0b-9469-8eb6af4a51c5",
+                "boundaryNum": 1,
+                "name": "WARD E",
+                "localname": "WARD E",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-E",
+                "children": [
+                  {
+                    "id": "5d6f3ba0-2ca7-43a3-a218-da2638af4ea7",
+                    "boundaryNum": 1,
+                    "name": "Tribune Colony Sukhna Enclave Kansal - WARD E",
+                    "localname": "Tribune Colony Sukhna Enclave Kansal - WARD E",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_08",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ae0dd9e9-9ece-49f2-9091-5d7b02bf51ea",
+            "boundaryNum": 1,
+            "name": "Zone 4",
+            "localname": "Zone 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z-4",
+            "children": [
+              {
+                "id": "1611e8cc-c631-43f4-8972-3574aee2ed06",
+                "boundaryNum": 1,
+                "name": "WARD A",
+                "localname": "WARD A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-A",
+                "children": [
+                  {
+                    "id": "faa264b6-4d4a-4285-8552-f7114ccbf661",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD A",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_03",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f18bce59-b249-4149-b992-d69f92ad4598",
+                "boundaryNum": 1,
+                "name": "WARD B",
+                "localname": "WARD B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-B",
+                "children": [
+                  {
+                    "id": "224bd5b2-50d1-4741-a7b9-8dabc09ed192",
+                    "boundaryNum": 1,
+                    "name": "Gobind Nagar Naya Gaon - WARD B",
+                    "localname": "Gobind Nagar Naya Gaon - WARD B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_04",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65568a0b-05ec-4309-80df-a5a8e7d5ee75",
+                "boundaryNum": 1,
+                "name": "WARD C",
+                "localname": "WARD C",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-C",
+                "children": [
+                  {
+                    "id": "bac277b6-b1f2-417d-ad55-cbc519c764ed",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD C",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD C",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_06",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cdae84a9-0bf9-4600-b7d9-049a90b7d72c",
+                "boundaryNum": 1,
+                "name": "WARD D",
+                "localname": "WARD D",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-D",
+                "children": [
+                  {
+                    "id": "62274966-1c2c-44c6-81e3-93886f236aca",
+                    "boundaryNum": 1,
+                    "name": "Kansal Ward A Naya Gaon - WARD D",
+                    "localname": "Kansal Ward A Naya Gaon - WARD D",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_07",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31f4bc38-fd80-4a0b-9469-8eb6af4a51c5",
+                "boundaryNum": 1,
+                "name": "WARD E",
+                "localname": "WARD E",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-E",
+                "children": [
+                  {
+                    "id": "5d6f3ba0-2ca7-43a3-a218-da2638af4ea7",
+                    "boundaryNum": 1,
+                    "name": "Tribune Colony Sukhna Enclave Kansal - WARD E",
+                    "localname": "Tribune Colony Sukhna Enclave Kansal - WARD E",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_08",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ae0dd9e9-9ece-49f2-9091-5d7b02bf51ea",
+            "boundaryNum": 1,
+            "name": "Zone 5",
+            "localname": "Zone 5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z-5",
+            "children": [
+              {
+                "id": "1611e8cc-c631-43f4-8972-3574aee2ed06",
+                "boundaryNum": 1,
+                "name": "WARD A",
+                "localname": "WARD A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-A",
+                "children": [
+                  {
+                    "id": "faa264b6-4d4a-4285-8552-f7114ccbf661",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD A",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_03",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f18bce59-b249-4149-b992-d69f92ad4598",
+                "boundaryNum": 1,
+                "name": "WARD B",
+                "localname": "WARD B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-B",
+                "children": [
+                  {
+                    "id": "224bd5b2-50d1-4741-a7b9-8dabc09ed192",
+                    "boundaryNum": 1,
+                    "name": "Gobind Nagar Naya Gaon - WARD B",
+                    "localname": "Gobind Nagar Naya Gaon - WARD B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_04",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65568a0b-05ec-4309-80df-a5a8e7d5ee75",
+                "boundaryNum": 1,
+                "name": "WARD C",
+                "localname": "WARD C",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-C",
+                "children": [
+                  {
+                    "id": "bac277b6-b1f2-417d-ad55-cbc519c764ed",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD C",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD C",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_06",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cdae84a9-0bf9-4600-b7d9-049a90b7d72c",
+                "boundaryNum": 1,
+                "name": "WARD D",
+                "localname": "WARD D",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-D",
+                "children": [
+                  {
+                    "id": "62274966-1c2c-44c6-81e3-93886f236aca",
+                    "boundaryNum": 1,
+                    "name": "Kansal Ward A Naya Gaon - WARD D",
+                    "localname": "Kansal Ward A Naya Gaon - WARD D",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_07",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31f4bc38-fd80-4a0b-9469-8eb6af4a51c5",
+                "boundaryNum": 1,
+                "name": "WARD E",
+                "localname": "WARD E",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-E",
+                "children": [
+                  {
+                    "id": "5d6f3ba0-2ca7-43a3-a218-da2638af4ea7",
+                    "boundaryNum": 1,
+                    "name": "Tribune Colony Sukhna Enclave Kansal - WARD E",
+                    "localname": "Tribune Colony Sukhna Enclave Kansal - WARD E",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_08",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "ae0dd9e9-9ece-49f2-9091-5d7b02bf51ea",
+            "boundaryNum": 1,
+            "name": "Zone 6",
+            "localname": "Zone 6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z-6",
+            "children": [
+              {
+                "id": "1611e8cc-c631-43f4-8972-3574aee2ed06",
+                "boundaryNum": 1,
+                "name": "WARD A",
+                "localname": "WARD A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-A",
+                "children": [
+                  {
+                    "id": "faa264b6-4d4a-4285-8552-f7114ccbf661",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD A",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD A",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_03",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "f18bce59-b249-4149-b992-d69f92ad4598",
+                "boundaryNum": 1,
+                "name": "WARD B",
+                "localname": "WARD B",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-B",
+                "children": [
+                  {
+                    "id": "224bd5b2-50d1-4741-a7b9-8dabc09ed192",
+                    "boundaryNum": 1,
+                    "name": "Gobind Nagar Naya Gaon - WARD B",
+                    "localname": "Gobind Nagar Naya Gaon - WARD B",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_04",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65568a0b-05ec-4309-80df-a5a8e7d5ee75",
+                "boundaryNum": 1,
+                "name": "WARD C",
+                "localname": "WARD C",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-C",
+                "children": [
+                  {
+                    "id": "bac277b6-b1f2-417d-ad55-cbc519c764ed",
+                    "boundaryNum": 1,
+                    "name": "Shivalik Vihar Naya Gaon - WARD C",
+                    "localname": "Shivalik Vihar Naya Gaon - WARD C",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_06",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "cdae84a9-0bf9-4600-b7d9-049a90b7d72c",
+                "boundaryNum": 1,
+                "name": "WARD D",
+                "localname": "WARD D",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-D",
+                "children": [
+                  {
+                    "id": "62274966-1c2c-44c6-81e3-93886f236aca",
+                    "boundaryNum": 1,
+                    "name": "Kansal Ward A Naya Gaon - WARD D",
+                    "localname": "Kansal Ward A Naya Gaon - WARD D",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_07",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31f4bc38-fd80-4a0b-9469-8eb6af4a51c5",
+                "boundaryNum": 1,
+                "name": "WARD E",
+                "localname": "WARD E",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "WARD-E",
+                "children": [
+                  {
+                    "id": "5d6f3ba0-2ca7-43a3-a218-da2638af4ea7",
+                    "boundaryNum": 1,
+                    "name": "Tribune Colony Sukhna Enclave Kansal - WARD E",
+                    "localname": "Tribune Colony Sukhna Enclave Kansal - WARD E",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Ward",
+                    "code": "NG_08",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
