@@ -16,6 +16,19 @@
       ]
     },
     {
+      "module": "DEONAR",
+      "code": "DEONAR",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
+      "active": true,
+      "order": 5,
+      "tenants": [
+        {
+          "code": "mh.mumbai",
+          "name": "Mumbai"
+        }
+      ]
+    },
+    {
       "module": "PGR",
       "code": "PGR",
       "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/PGR.png",
