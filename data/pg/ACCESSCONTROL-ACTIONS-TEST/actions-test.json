@@ -2995,21 +2995,6 @@
          "rightIcon": ""
       },
       {
-         "id": 1557,
-         "name": "OpenComplaints",
-         "url": "url",
-         "displayName": "Open Complaints",
-         "orderNumber": 1,
-         "parentModule": "rainmaker-pgr",
-         "enabled": true,
-         "serviceCode": "PGR",
-         "code": "null",
-         "path": "Complaints.MyComplaints",
-         "navigationURL": "/digit-ui/employee/pgr/inbox",
-         "leftIcon": "action:announcement",
-         "rightIcon": ""
-      },
-      {
          "id": 1558,
          "name": "ClosedComplaints",
          "url": "url",
@@ -3242,26 +3227,6 @@
          "serviceCode": "PGRCUSTOMREPORT",
          "code": "null",
          "path": "PGR Report"
-      },
-      {
-         "id": 1577,
-         "name": "Assess New Property",
-         "url": "url",
-         "displayName": "Assess New Property",
-         "orderNumber": 1,
-         "queryParams": "",
-         "parentModule": "",
-         "enabled": false,
-         "serviceCode": "",
-         "tenantId": "pg",
-         "createdDate": null,
-         "createdBy": null,
-         "lastModifiedDate": null,
-         "lastModifiedBy": null,
-         "path": "Property Tax.Assess New Property",
-         "navigationURL": "/digit-ui/employee/pt/inbox",
-         "leftIcon": "communication:business",
-         "rightIcon": ""
       },
       {
          "id": 1581,
@@ -5541,38 +5506,6 @@
          "leftIcon": "social:people"
       },
       {
-         "id": 1775,
-         "name": "rainmaker-common-complaints",
-         "url": "card",
-         "displayName": "Complaints",
-         "orderNumber": 2,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "",
-         "code": "",
-         "path": "",
-         "navigationURL": "/digit-ui/employee/pgr/inbox",
-         "leftIcon": "action:announcement",
-         "rightIcon": "",
-         "queryParams": ""
-      },
-      {
-         "id": 1776,
-         "name": "rainmaker-common-propertytax",
-         "url": "card",
-         "displayName": "Property Tax",
-         "orderNumber": 2,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "",
-         "code": "",
-         "path": "",
-         "navigationURL": "/digit-ui/employee/pt/inbox",
-         "leftIcon": "action:store",
-         "rightIcon": "",
-         "queryParams": ""
-      },
-      {
          "id": 1777,
          "name": "rainmaker-common-finance",
          "url": "card",
@@ -5948,19 +5881,6 @@
          "path": "TradeLicense",
          "leftIcon": "places:business-center",
          "rightIcon": ""
-      },
-      {
-         "id": 1808,
-         "name": "CollectionRegister",
-         "url": "url",
-         "displayName": "Collection Register",
-         "orderNumber": 1,
-         "enabled": true,
-         "serviceCode": "COLLECTIONS",
-         "code": "null",
-         "leftIcon": "action:description",
-         "navigationURL": "report/rainmaker-common/CollectionRegister",
-         "path": "Reports.Collection Register"
       },
       {
          "id": 1809,
@@ -6810,21 +6730,6 @@
          "path": ""
       },
       {
-         "id": 1879,
-         "name": "BPAStakeHolderSearch",
-         "url": "url",
-         "displayName": "BPA Stake Holder Search",
-         "orderNumber": 1,
-         "parentModule": "rainmaker-bpa",
-         "enabled": true,
-         "serviceCode": "BPAREG",
-         "code": "null",
-         "path": "BPAStakeHolder.Search",
-         "navigationURL": "bpastakeholder/search",
-         "leftIcon": "communication:business",
-         "rightIcon": ""
-      },
-      {
          "id": 1880,
          "name": "BPAStakeHolderHome",
          "url": "url",
@@ -7148,18 +7053,6 @@
          "path": ""
       },
       {
-         "id": 1911,
-         "name": "CollectionRegister",
-         "url": "/report/rainmaker-common/CollectionRegister/metadata/_get",
-         "displayName": "rainmaker-CollectionRegister",
-         "orderNumber": 1,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "report",
-         "code": "null",
-         "path": ""
-      },
-      {
          "id": 1912,
          "name": "StateLevelStatus",
          "url": "/report/rainmaker-tl/StateLevelStatus/_get",
@@ -7244,18 +7137,6 @@
          "path": ""
       },
       {
-         "id": 1921,
-         "name": "CollectionRegister",
-         "url": "/report/rainmaker-common/CollectionRegister/_get",
-         "displayName": "rainmaker-CollectionRegister",
-         "orderNumber": 1,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "report",
-         "code": "null",
-         "path": ""
-      },
-      {
          "id": 1895,
          "name": "Create Property registry",
          "url": "/property-services/property/_create",
@@ -7314,43 +7195,6 @@
          "quickAction": true,
          "leftIcon": "content:add",
          "rightIcon": ""
-      },
-      {
-         "id": 1926,
-         "name": "Assess And Search Properties",
-         "url": "quickAction",
-         "displayName": "Search Property",
-         "orderNumber": 1,
-         "queryParams": "",
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "",
-         "tenantId": "pg",
-         "createdDate": null,
-         "createdBy": null,
-         "lastModifiedDate": null,
-         "lastModifiedBy": null,
-         "path": "Property Tax.Assess And Search Properties",
-         "navigationURL": "/digit-ui/employee/pt/inbox",
-         "quickAction": true,
-         "leftIcon": "communication:business",
-         "rightIcon": ""
-      },
-      {
-         "id": 1927,
-         "name": "rainmaker-common-complaints",
-         "url": "quickAction",
-         "displayName": "Search Complaints",
-         "orderNumber": 2,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "",
-         "code": "",
-         "path": "",
-         "navigationURL": "/digit-ui/employee/pgr/inbox",
-         "leftIcon": "action:announcement",
-         "rightIcon": "",
-         "queryParams": ""
       },
       {
          "id": 1928,
@@ -8734,21 +8578,6 @@
          "serviceCode": "",
          "code": "null",
          "path": ""
-      },
-      {
-         "id": 1555,
-         "name": "AllComplaints",
-         "url": "url",
-         "displayName": "All Complaints",
-         "orderNumber": 1,
-         "parentModule": "rainmaker-pgr",
-         "enabled": true,
-         "serviceCode": "PGR",
-         "code": "null",
-         "path": "AllComplaints",
-         "navigationURL": "/digit-ui/employee/pgr/inbox",
-         "leftIcon": "custom:open-complaints",
-         "rightIcon": ""
       },
       {
          "id": 2047,
@@ -10337,20 +10166,6 @@
       "serviceCode": "Billing-service",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2179,
-      "name": "CurrentBillCancellationSearch",
-      "url": "url",
-      "displayName": "CurrentBillCancellation",
-      "orderNumber": 6,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "BG",
-      "code": "null",
-      "navigationURL": "bills/billSearch",
-      "path": "BillGenie.CurrentBillCancellation",
-      "leftIcon": "action:receipt"
     },
     {
       "id": 2180,
@@ -12007,20 +11822,6 @@
       "serviceCode": "filestore url",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2318,
-      "name": "DownloadBillsSearch",
-      "url": "url",
-      "displayName": "DownloadBills",
-      "orderNumber": 6,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "BG",
-      "code": "null",
-      "navigationURL": "abg/billDownload",
-      "path": "BillGenie.DownloadBills",
-      "leftIcon": "action:assignment"
     },
     {
       "id": 2319,
