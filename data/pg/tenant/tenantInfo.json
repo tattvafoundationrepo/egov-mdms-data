@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "pg.dehradun",
-      "districtCode": "Dhradun",
+      "code": "pg.citya",
+      "districtCode": "CITYA",
       "population": "156716",
       "malePopulation": "82045",
       "femalePopultion": "74671",
@@ -13,8 +13,8 @@
       "languagesSpoken": ["PN", "HN", "EN"]
     },
     {
-      "code": "pg.haldwani",
-      "districtCode": "Haldwani",
+      "code": "pg.cityb",
+      "districtCode": "CITYB",
       "population": "116449",
       "malePopulation": "62554",
       "femalePopultion": "53895",
@@ -24,8 +24,8 @@
     },
   
     {
-      "code": "pg.haridwar",
-      "districtCode": "Haridwar",
+      "code": "pg.cityc",
+      "districtCode": "CITYC",
       "population": "17331",
       "malePopulation": "10521",
       "femalePopultion": "6810",
@@ -34,8 +34,8 @@
       "languagesSpoken": ["GR", "PN", "HN"]
     },
     {
-      "code": "pg.roorkee",
-      "districtCode": "Roorkee",
+      "code": "pg.cityd",
+      "districtCode": "CITYD",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",
@@ -44,8 +44,8 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.rudrapur",
-      "districtCode": "Rudrapur",
+      "code": "pg.citye",
+      "districtCode": "CITYE",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",

@@ -71,23 +71,26 @@
    {
       "module": "Finance",
       "code": "Finance",
-      "active": true,
+      "active": false,
       "order":4,
       "tenants": [
         {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
+	{
           "code": "pg.dehradun"
-        },
-        {
-          "code": "pg.haldwani"
-        },
-	{
-          "code": "pg.haridwar"
-        },      
-	{
-          "code": "pg.roorkee"
-        },
-        {
-          "code": "pg.rudrapur"
         }
       ]
     },
@@ -611,18 +614,6 @@
       {
         "code": "pg.cityc"
       }
-      ]
-    },
-    {
-      "module": "Wwf",
-      "code": "Wwf",
-      "active": true,
-      "order": 1,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        }
-        
       ]
     }
   ]

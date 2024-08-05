@@ -1,5 +1,5 @@
 {
-	"tenantId": "uk.dehradun",
+	"tenantId": "pg.dehradun",
 	"moduleName": "birth-death-service",
 	"hospitalList": [
 		{

@@ -10339,6 +10339,20 @@
       "path": ""
     },
     {
+      "id": 2178,
+      "name": "BillGenieSearch",
+      "url": "url",
+      "displayName": "BillGenie",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BG",
+      "code": "null",
+      "navigationURL": "abg/billSearch",
+      "path": "BillGenie.BillGenie",
+      "leftIcon": "action:receipt"
+    },
+    {
       "id": 2179,
       "name": "CurrentBillCancellationSearch",
       "url": "url",
@@ -15010,76 +15024,7 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Masters.Contractor.Modify Contractor",
          "navigationURL": "services/EGF/contractor/search/edit"
-      },
-      {
-         "id": 2554,
-         "name": "Cash Flow",
-         "navigationURL": "services/EGF/report/cashFlowReport-generateCashFlowReport.action",
-         "url": "url",
-         "parentModule": "EGF",
-         "displayName": "Cash Flow",
-         "orderNumber": 3,
-         "enabled": true,
-         "serviceCode": "FinanceReport",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Reports.Financial Statements.Cash Flow"
-      },
-      {
-         "id": 2555,
-         "name": "Receipts and Paymnents",
-         "navigationURL": "services/EGF/report/receiptsandPaymentsReport-generateReceiptandPaymentsReport.action",
-         "url": "url",
-         "parentModule": "EGF",
-         "displayName": "Receipts and Payments",
-         "orderNumber": 4,
-         "enabled": true,
-         "serviceCode": "FinanceReport",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Reports.Financial Statements.Receipts and Payments"
-      },
-      {
-         "id": 2556,
-         "name": "uddgrantscreate",
-         "url": "url",
-         "displayName": "Create UDD Scheme",
-         "orderNumber": 16,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "FinanceMaster",
-         "navigationURL": "services/EGF/uddgrants/newform",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.UDD Grants.Create UDD Scheme"
-      },
-      {
-         "id": 2557,
-         "name": "uddgrantsview",
-         "url": "url",
-         "displayName": "View UDD Scheme",
-         "orderNumber": 17,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "FinanceMaster",
-         "navigationURL": "services/EGF/uddgrants/search/view",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.UDD Grants.View UDD Scheme"
-      },
-      {
-         "id": 2558,
-         "name": "uddgrantsmodify",
-         "url": "url",
-         "displayName": "Modify UDD Scheme",
-         "orderNumber": 18,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "FinanceMaster",
-         "navigationURL": "services/EGF/uddgrants/search/edit",
-         "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Masters.UDD Grants.Modify UDD Scheme"
       }
+	   
    ]
 }
