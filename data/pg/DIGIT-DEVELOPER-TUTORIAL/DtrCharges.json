@@ -1,9 +1,0 @@
-{
-  "tenantId": "pb",
-  "moduleName": "DTR",
-  "RegistrationCharges": [
-    {
-      "amount": 500
-    }
-  ]
-}

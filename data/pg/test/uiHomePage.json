@@ -1,9 +1,0 @@
-{
-    "tenantId": "pb",
-    "moduleName": "test",
-    "uiHomePage": [
-        {
-           "redirectURL":"attendencemgmt/shghome"
-        }  
-    ]
-}
