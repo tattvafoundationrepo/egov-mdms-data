@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg",
+  "tenantId": "pb",
   "moduleName": "PropertyTax",
   "Penalty": [
     {
@@ -7,21 +7,41 @@
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2018-19",
-      "startingDay": "1/01/2018"
+      "startingDay": "1/01/2018",
+      "mutationPaymentPeriodInMonth": "06"
     },
     {
       "rate": 20,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2015-16",
-      "startingDay": "1/04/2016"
+      "startingDay": "1/04/2016",
+      "mutationPaymentPeriodInMonth": "06"
+
     },
     {
       "rate": 20,
       "minAmount": null,
       "flatAmount": null,
       "fromFY": "2018-19",
-      "startingDay": "11/12/2018"
+      "startingDay": "11/12/2018",
+      "mutationPaymentPeriodInMonth": "06"
+    },
+    {
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "startingDay": "26/09/2019",
+      "mutationPaymentPeriodInMonth": "06"
+    },
+    {
+      "rate": 20,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": "26/09/2020",
+      "mutationPaymentPeriodInMonth": "06"
     }
   ]
 }

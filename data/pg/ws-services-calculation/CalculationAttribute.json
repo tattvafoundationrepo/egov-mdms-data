@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg",
+  "tenantId": "pb",
   "moduleName": "ws-services-calculation",
   "CalculationAttribute": [
     {
@@ -11,6 +11,12 @@
     {
       "name": "Non Metered",
       "code": "NONMETERED",
+      "attribute": "Pipe Size",
+      "active": true
+    },
+    {
+      "name": "Bulk-supply",
+      "code": "Bulk-supply",
       "attribute": "Pipe Size",
       "active": true
     }

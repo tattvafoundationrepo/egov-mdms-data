@@ -1,12 +1,12 @@
 {
-  "tenantId": "pg",
+  "tenantId": "pb",
   "moduleName": "BPA",
   "NocTypeMapping": [
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "serviceType": "NEW_CONSTRUCTION",
       "riskType": "ALL",
-      "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
+      "nocTriggerState": "CITIZEN_APPROVAL_INPROCESS",
       "nocTypes": [
         {
           "type": "AIRPORT_AUTHORITY",
@@ -24,7 +24,7 @@
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "serviceType": "NEW_CONSTRUCTION",
       "riskType": "LOW",
-      "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
+      "nocTriggerState": "CITIZEN_APPROVAL_INPROCESS",
       "nocTypes": [
         {
           "type": "AIRPORT_AUTHORITY",
@@ -42,7 +42,7 @@
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "serviceType": "NEW_CONSTRUCTION",
       "riskType": "ALL",
-      "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
+      "nocTriggerState": "CITIZEN_APPROVAL_INPROCESS",
       "nocTypes": [
         {
           "type": "AIRPORT_AUTHORITY",
@@ -60,7 +60,7 @@
       "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "serviceType": "NEW_CONSTRUCTION",
       "riskType": "LOW",
-      "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
+      "nocTriggerState": "CITIZEN_APPROVAL_INPROCESS",
       "nocTypes": [
         {
           "type": "AIRPORT_AUTHORITY",

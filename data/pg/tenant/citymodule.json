@@ -3,270 +3,53 @@
   "moduleName": "tenant",
   "citymodule": [
     {
-      "module": "PGR",
-      "code": "PGR",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "module": "FSM",
+      "code": "FSM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jalandhar"
         },
         {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.amritsar"
         }
-
+      ]
+    },
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.phagwara"
+        },
+        {
+          "code": "pg.amritsar"
+        }
       ]
     },
     {
       "module": "PT",
       "code": "PT",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jalandhar"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.nawanshahr"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "QuickPayLinks",
-      "code": "QuickPayLinks",
-      "active": true,
-      "order":1,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        }
-      ]
-    },
-   {
-      "module": "Finance",
-      "code": "Finance",
-      "active": false,
-      "order":4,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "TL",
-      "code": "TL",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "FIRENOC",
-      "code": "FIRENOC",
-      "active": false,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "UC",
-      "code": "UC",
-      "active": false,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "BPAREG",
-      "code": "BPAREG",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "BPAAPPLY",
-      "code": "BPAAPPLY",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "PGR.WHATSAPP",
-      "code": "PGR.WHATSAPP",
-      "active": false,
-      "order":4,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        }
-      ]
-    },
-    {
-      "module": "OBPS",
-      "code": "OBPS",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-      ]
-    },
-    {
-      "module": "FSM",
-      "code": "FSM",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        },
-	{
-          "code": "pg.balasore"
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -274,22 +57,16 @@
       "module": "Payment",
       "code": "Payment",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jalandhar"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.phagwara"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -297,22 +74,16 @@
       "module": "Receipts",
       "code": "Receipts",
       "active": true,
-      "order":3,
+      "order": 3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jalandhar"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.phagwara"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -320,22 +91,16 @@
       "module": "NOC",
       "code": "NOC",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jalandhar"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.phagwara"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -343,22 +108,22 @@
       "module": "DSS",
       "code": "DSS",
       "active": true,
-      "order":6,
+      "order": 6,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jalandhar"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.derabassi"
         },
         {
-          "code": "pg.cityc"
+          "code": "pg.nawanshahr"
         },
         {
-          "code": "pg.cityd"
+          "code": "pg.phagwara"
         },
         {
-          "code": "pg.citye"
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -366,22 +131,16 @@
       "module": "Engagement",
       "code": "Engagement",
       "active": true,
-      "order":3,
+      "order": 3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jalandhar"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.phagwara"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -389,22 +148,16 @@
       "module": "MCollect",
       "code": "MCollect",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jalandhar"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.phagwara"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -412,45 +165,213 @@
       "module": "HRMS",
       "code": "HRMS",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jalandhar"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.nawanshahr"
         },
         {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "pg.amritsar"
         }
       ]
     },
     {
-      "module": "CommonPT",
-      "code": "CommonPT",
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
       "active": true,
-      "order":3,
+      "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jalandhar"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.nawanshahr"
         },
         {
-          "code": "pg.cityc"
+          "code": "pg.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "Finance",
+      "code": "Finance",
+      "active": false,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
         },
         {
-          "code": "pg.cityd"
+          "code": "pg.nawanshahr"
         },
         {
-          "code": "pg.citye"
+          "code": "pg.amritsar"
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.nayagaon"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/TL.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.nawanshahr"
+        },
+        {
+          "code": "pg.amritsar"
+        },
+        {
+          "code": "pg.derabassi"
+        }
+      ]
+    },
+    {
+      "module": "FIRENOC",
+      "code": "FIRENOC",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.nawanshahr"
+        },
+        {
+          "code": "pg.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/OBPS.png",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/OBPS.png",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "pg.amritsar"
+        },
+        {
+          "code": "pg.jalandhar"
+        }
+      ]
+    },
+    {
+      "module": "OBPS",
+      "code": "OBPS",
+      "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "pg.amritsar"
+        },
+        {
+          "code": "pg.jalandhar"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "active": false,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "pg.jalandhar",
+          "name": "Jalandhar"
+        },
+        {
+          "code": "pg.phagwara",
+          "name": "Phagwara"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "active": false,
+      "order": 2,
+      "tenants": [
+        {
+          "code": "pg.jalandhar",
+          "name": "Jalandhar"
+        },
+        {
+          "code": "pg.phagwara",
+          "name": "Phagwara"
+        },
+        {
+          "code": "pg.amritsar",
+          "name": "Amritsar"
+        }
+      ]
+    },
+    {
+      "module": "CASE_MANAGEMENT",
+      "code": "CASE_MANAGEMENT",
+      "active": false,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "pg.jalandhar",
+          "name": "Jalandhar"
+        },
+        {
+          "code": "pg.amritsar",
+          "name": "Amritsar"
+        },
+        {
+          "code": "pg.testing",
+          "name": "Testing"
+        }
+      ]
+    },
+    {
+      "module": "WS",
+      "code": "WS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.nawanshahr"
+        },
+        {
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -458,22 +379,207 @@
       "module": "NDSS",
       "code": "NDSS",
       "active": true,
-      "order":5,
+      "order": 5,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "pg.jalandhar"
         },
         {
-          "code": "pg.cityb"
+          "code": "pg.derabassi"
         },
         {
-          "code": "pg.cityc"
+          "code": "pg.nawanshahr"
         },
         {
-          "code": "pg.cityd"
+          "code": "pg.phagwara"
         },
         {
-          "code": "pg.citye"
+          "code": "pg.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "CommonPT",
+      "code": "CommonPT",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.nawanshahr"
+        },
+        {
+          "code": "pg.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "Bills",
+      "code": "Bills",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.phagwara"
+        },
+        {
+          "code": "pg.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "Reports",
+      "code": "Reports",
+      "active": true,
+      "order": 4,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.phagwara"
+        },
+        {
+          "code": "pg.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "SW",
+      "code": "SW",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.nawanshahr"
+        },
+        {
+          "code": "pg.amritsar"
+        }
+      ]
+    },{
+      "module": "CF",
+      "code": "CF",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.nawanshahr"
+        },
+        {
+          "code": "pg.amritsar"
+        }
+      ]
+    },{
+      "module": "CF",
+      "code": "CF",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.nawanshahr"
+        },
+        {
+          "code": "pg.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "BR",
+      "code": "BR",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.nawanshahr"
+        },
+        {
+          "code": "pg.amritsar"
+        }
+      ]
+    },
+{
+      "module": "Works",
+      "code": "Works",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.nawanshahr"
+        },
+        {
+          "code": "pg.amritsar"
+        }
+      ]
+    },{
+      "module": "Death",
+      "code": "Death",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.nawanshahr"
+        },
+        {
+          "code": "pg.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "BillAmendment",
+      "code": "BillAmendment",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.nawanshahr"
+        },
+        {
+          "code": "pg.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "Piramal",
+      "code": "Piramal",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.jalandhar"
+        },
+        {
+          "code": "pg.nawanshahr"
+        },
+        {
+          "code": "pg.amritsar"
         }
       ]
     }

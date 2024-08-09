@@ -1,9 +1,8 @@
 {
-  "tenantId": "pg",
+  "tenantId": "pb",
   "moduleName": "TradeLicense",
   "TradeType": [
     {
-      "name": "Any other manufacturing or store house or plane of business not specified elsewhere form offersive or unwholees smell noise or smoke arise",
       "code": "GOODS.MANUFACTURE.TST-1",
       "uom": null,
       "applicationDocument": [
@@ -31,7 +30,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Atta Chakki",
       "code": "GOODS.MANUFACTURE.TST-2",
       "uom": null,
       "applicationDocument": [
@@ -59,7 +57,195 @@
       "validityPeriod": null
     },
     {
-      "name":"Bitumen",
+      "code": "GOODS.MANUFACTURE.TST-3",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-4",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-5",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-6",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-7",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-8",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "GOODS.MANUFACTURE.TST-9",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
       "code": "GOODS.MANUFACTURE.TST-10",
       "uom": null,
       "applicationDocument": [
@@ -87,7 +273,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Blacksmith",
       "code": "GOODS.MANUFACTURE.TST-11",
       "uom": null,
       "applicationDocument": [
@@ -115,7 +300,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Brick Field Brick Kiln",
       "code": "GOODS.MANUFACTURE.TST-12",
       "uom": null,
       "applicationDocument": [
@@ -143,7 +327,6 @@
       "validityPeriod": null
     },
     {
-       "name":"Bricks or tiles by hand power",
       "code": "GOODS.MANUFACTURE.TST-13",
       "uom": null,
       "applicationDocument": [
@@ -171,7 +354,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Bricks or tiles by mechanical power",
       "code": "GOODS.MANUFACTURE.TST-14",
       "uom": null,
       "applicationDocument": [
@@ -199,7 +381,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Charcoal Kiln",
       "code": "GOODS.MANUFACTURE.TST-15",
       "uom": null,
       "applicationDocument": [
@@ -227,7 +408,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Coaching centers",
       "code": "GOODS.MANUFACTURE.TST-16",
       "uom": null,
       "applicationDocument": [
@@ -255,7 +435,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Coppersmithy",
       "code": "GOODS.MANUFACTURE.TST-17",
       "uom": null,
       "applicationDocument": [
@@ -283,7 +462,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Desi Sharab",
       "code": "GOODS.MANUFACTURE.TST-18",
       "uom": null,
       "applicationDocument": [
@@ -311,7 +489,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Dyeing Printing and Bleaching of Cloth Yarn Leather",
       "code": "GOODS.MANUFACTURE.TST-19",
       "uom": null,
       "applicationDocument": [
@@ -339,7 +516,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Electroplating",
       "code": "GOODS.MANUFACTURE.TST-20",
       "uom": null,
       "applicationDocument": [
@@ -367,7 +543,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Flour Mills",
       "code": "GOODS.MANUFACTURE.TST-21",
       "uom": null,
       "applicationDocument": [
@@ -395,7 +570,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Ghee",
       "code": "GOODS.MANUFACTURE.TST-22",
       "uom": null,
       "applicationDocument": [
@@ -423,7 +597,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Glass Bevelling ,Cutting ,Polishing",
       "code": "GOODS.MANUFACTURE.TST-23",
       "uom": null,
       "applicationDocument": [
@@ -451,7 +624,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Goldsmith,Sliver smith",
       "code": "GOODS.MANUFACTURE.TST-24",
       "uom": null,
       "applicationDocument": [
@@ -479,7 +651,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Grinding Edibles by Mechanical Process",
       "code": "GOODS.MANUFACTURE.TST-25",
       "uom": null,
       "applicationDocument": [
@@ -507,7 +678,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Hemp",
       "code": "GOODS.MANUFACTURE.TST-26",
       "uom": null,
       "applicationDocument": [
@@ -535,7 +705,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Insecticide or disinfectents",
       "code": "GOODS.MANUFACTURE.TST-27",
       "uom": null,
       "applicationDocument": [
@@ -563,7 +732,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Jewelers",
       "code": "GOODS.MANUFACTURE.TST-28",
       "uom": null,
       "applicationDocument": [
@@ -591,7 +759,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Bone meat and Bone powder",
       "code": "GOODS.RETAIL.TST-29",
       "uom": null,
       "applicationDocument": [
@@ -619,7 +786,6 @@
       "validityPeriod": null
     },
     {
-      "name":"fish meat and churby",
       "code": "GOODS.RETAIL.TST-30",
       "uom": null,
       "applicationDocument": [
@@ -647,7 +813,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Building material construction building on hire",
       "code": "GOODS.RETAIL.TST-31",
       "uom": null,
       "applicationDocument": [
@@ -675,7 +840,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Item made with cement",
       "code": "GOODS.RETAIL.TST-32",
       "uom": null,
       "applicationDocument": [
@@ -703,7 +867,6 @@
       "validityPeriod": null
     },
     {
-      "name":"mentholated and denture spirit",
       "code": "GOODS.RETAIL.TST-33",
       "uom": null,
       "applicationDocument": [
@@ -731,7 +894,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Biri leaves",
       "code": "GOODS.RETAIL.TST-34",
       "uom": null,
       "applicationDocument": [
@@ -759,7 +921,6 @@
       "validityPeriod": null
     },
     {
-      "name":"fuel wood coke and hard coke katch kola",
       "code": "GOODS.RETAIL.TST-35",
       "uom": null,
       "applicationDocument": [
@@ -787,7 +948,6 @@
       "validityPeriod": null
     },
     {
-      "name":"teak wood other than fuel wood",
       "code": "GOODS.RETAIL.TST-36",
       "uom": null,
       "applicationDocument": [
@@ -815,7 +975,6 @@
       "validityPeriod": null
     },
     {
-      "name":"coal",
       "code": "GOODS.RETAIL.TST-37",
       "uom": null,
       "applicationDocument": [
@@ -843,7 +1002,6 @@
       "validityPeriod": null
     },
     {
-      "name":"fuel wood",
       "code": "GOODS.RETAIL.TST-38",
       "uom": null,
       "applicationDocument": [
@@ -871,7 +1029,6 @@
       "validityPeriod": null
     },
     {
-      "name":"A store for less than gross match up to 20",
       "code": "GOODS.RETAIL.TST-39",
       "uom": "GROSSUNITS",
       "applicationDocument": [
@@ -899,7 +1056,6 @@
       "validityPeriod": null
     },
     {
-      "name":"cement",
       "code": "GOODS.RETAIL.TST-40",
       "uom": null,
       "applicationDocument": [
@@ -927,7 +1083,6 @@
       "validityPeriod": null
     },
     {
-      "name":"cloth containing nylon terelene synthetic yarn Terri wool woolen",
       "code": "GOODS.RETAIL.TST-41",
       "uom": null,
       "applicationDocument": [
@@ -955,7 +1110,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Druggist Mats and Coconut fibers",
       "code": "GOODS.RETAIL.TST-42",
       "uom": null,
       "applicationDocument": [
@@ -983,7 +1137,6 @@
       "validityPeriod": null
     },
     {
-      "name":"rubber tires vehicle",
       "code": "GOODS.RETAIL.TST-43",
       "uom": null,
       "applicationDocument": [
@@ -1011,7 +1164,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Medicine and drugs",
       "code": "GOODS.RETAIL.TST-44",
       "uom": null,
       "applicationDocument": [
@@ -1039,7 +1191,6 @@
       "validityPeriod": null
     },
     {
-      "name":"optical Surgical goods",
       "code": "GOODS.RETAIL.TST-45",
       "uom": null,
       "applicationDocument": [
@@ -1067,7 +1218,6 @@
       "validityPeriod": null
     },
     {
-      "name":"machinery goods, Vbelts",
       "code": "GOODS.RETAIL.TST-46",
       "uom": null,
       "applicationDocument": [
@@ -1095,7 +1245,6 @@
       "validityPeriod": null
     },
     {
-      "name":"sanitary fitting ",
       "code": "GOODS.RETAIL.TST-47",
       "uom": null,
       "applicationDocument": [
@@ -1123,7 +1272,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Karyana and Desi medicine",
       "code": "GOODS.RETAIL.TST-48",
       "uom": null,
       "applicationDocument": [
@@ -1151,7 +1299,6 @@
       "validityPeriod": null
     },
     {
-      "name":"two wheelers",
       "code": "GOODS.RETAIL.TST-49",
       "uom": null,
       "applicationDocument": [
@@ -1179,7 +1326,6 @@
       "validityPeriod": null
     },
     {
-      "name":"four wheelers",
       "code": "GOODS.RETAIL.TST-50",
       "uom": null,
       "applicationDocument": [
@@ -1207,7 +1353,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Panja, Kassi",
       "code": "GOODS.RETAIL.TST-51",
       "uom": null,
       "applicationDocument": [
@@ -1235,7 +1380,6 @@
       "validityPeriod": null
     },
     {
-      "name":"LPG Gas Cylinder and other Gas cylinder",
       "code": "GOODS.RETAIL.TST-52",
       "uom": null,
       "applicationDocument": [
@@ -1263,7 +1407,6 @@
       "validityPeriod": null
     },
     {
-      "name":"transformer",
       "code": "GOODS.RETAIL.TST-53",
       "uom": null,
       "applicationDocument": [
@@ -1291,7 +1434,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Muniyari General store",
       "code": "GOODS.RETAIL.TST-54",
       "uom": null,
       "applicationDocument": [
@@ -1319,7 +1461,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Watch showroom and shops",
       "code": "GOODS.RETAIL.TST-55",
       "uom": null,
       "applicationDocument": [
@@ -1347,7 +1488,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Dynamite Carbonate",
       "code": "GOODS.RETAIL.TST-56",
       "uom": null,
       "applicationDocument": [
@@ -1375,7 +1515,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Nitro mixure, Sulpher Phosphors",
       "code": "GOODS.RETAIL.TST-57",
       "uom": null,
       "applicationDocument": [
@@ -1403,7 +1542,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Rags",
       "code": "GOODS.RETAIL.TST-58",
       "uom": null,
       "applicationDocument": [
@@ -1431,7 +1569,6 @@
       "validityPeriod": null
     },
     {
-      "name":"new By cycles and spare parts",
       "code": "GOODS.RETAIL.TST-59",
       "uom": null,
       "applicationDocument": [
@@ -1459,7 +1596,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Lottery stall and shop",
       "code": "GOODS.RETAIL.TST-60",
       "uom": null,
       "applicationDocument": [
@@ -1487,7 +1623,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Temporary stall any item",
       "code": "GOODS.RETAIL.TST-61",
       "uom": null,
       "applicationDocument": [
@@ -1515,7 +1650,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Any exhibition in Marriage palace Dharamshala,Hotel,Open place for promotion purpose",
       "code": "GOODS.RETAIL.TST-62",
       "uom": null,
       "applicationDocument": [
@@ -1543,7 +1677,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Cylinder and other than LPG cylinder",
       "code": "GOODS.RETAIL.TST-63",
       "uom": null,
       "applicationDocument": [
@@ -1571,7 +1704,6 @@
       "validityPeriod": null
     },
     {
-      "name":"LPG Gas",
       "code": "GOODS.RETAIL.TST-64",
       "uom": null,
       "applicationDocument": [
@@ -1599,7 +1731,6 @@
       "validityPeriod": null
     },
     {
-      "name":"hoof horns",
       "code": "GOODS.RETAIL.TST-65",
       "uom": null,
       "applicationDocument": [
@@ -1627,7 +1758,6 @@
       "validityPeriod": null
     },
     {
-      "name":"raw wool and raw cotton",
       "code": "GOODS.RETAIL.TST-66",
       "uom": null,
       "applicationDocument": [
@@ -1655,7 +1785,6 @@
       "validityPeriod": null
     },
     {
-      "name":"skin",
       "code": "GOODS.RETAIL.TST-67",
       "uom": null,
       "applicationDocument": [
@@ -1683,7 +1812,6 @@
       "validityPeriod": null
     },
     {
-      "name":"yarn other than waste yarn",
       "code": "GOODS.RETAIL.TST-68",
       "uom": null,
       "applicationDocument": [
@@ -1711,7 +1839,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Skin and tallow",
       "code": "GOODS.RETAIL.TST-69",
       "uom": null,
       "applicationDocument": [
@@ -1739,7 +1866,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Camper",
       "code": "GOODS.RETAIL.TST-70",
       "uom": null,
       "applicationDocument": [
@@ -1767,7 +1893,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Resin dinner batter otherwise known as real",
       "code": "GOODS.RETAIL.TST-71",
       "uom": null,
       "applicationDocument": [
@@ -1795,7 +1920,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Kemp",
       "code": "GOODS.RETAIL.TST-72",
       "uom": null,
       "applicationDocument": [
@@ -1823,7 +1947,6 @@
       "validityPeriod": null
     },
     {
-      "name":"straw",
       "code": "GOODS.RETAIL.TST-73",
       "uom": null,
       "applicationDocument": [
@@ -1851,7 +1974,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Nytromixer, sulpher ,phosphorus blasting powder",
       "code": "GOODS.RETAIL.TST-74",
       "uom": null,
       "applicationDocument": [
@@ -1879,7 +2001,6 @@
       "validityPeriod": null
     },
     {
-      "name":"bamboos",
       "code": "GOODS.RETAIL.TST-75",
       "uom": null,
       "applicationDocument": [
@@ -1907,7 +2028,6 @@
       "validityPeriod": null
     },
     {
-      "name":"dry Leaves and articles made thereof Boedi Leaves",
       "code": "GOODS.RETAIL.TST-76",
       "uom": null,
       "applicationDocument": [
@@ -1935,7 +2055,6 @@
       "validityPeriod": null
     },
     {
-      "name":"English wine and Beer Bar",
       "code": "GOODS.RETAIL.TST-77",
       "uom": null,
       "applicationDocument": [
@@ -1963,7 +2082,6 @@
       "validityPeriod": null
     },
     {
-      "name":"All kinds Hosiery Machines run by Electric Motors and oil Engines",
       "code": "GOODS.RETAIL.TST-78",
       "uom": null,
       "applicationDocument": [
@@ -1991,7 +2109,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Groceries and items domestic",
       "code": "GOODS.RETAIL.TST-79",
       "uom": null,
       "applicationDocument": [
@@ -2019,7 +2136,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Furniture",
       "code": "GOODS.RETAIL.TST-80",
       "uom": null,
       "applicationDocument": [
@@ -2047,7 +2163,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Cattle Feed",
       "code": "GOODS.RETAIL.TST-81",
       "uom": null,
       "applicationDocument": [
@@ -2075,7 +2190,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Fireworks",
       "code": "GOODS.RETAIL.TST-82",
       "uom": null,
       "applicationDocument": [
@@ -2103,7 +2217,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Store for unslacked lime",
       "code": "GOODS.RETAIL.TST-83",
       "uom": null,
       "applicationDocument": [
@@ -2131,7 +2244,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Hydrogenated oil sugar",
       "code": "GOODS.RETAIL.TST-84",
       "uom": null,
       "applicationDocument": [
@@ -2159,7 +2271,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Matchboxes",
       "code": "GOODS.RETAIL.TST-85",
       "uom": null,
       "applicationDocument": [
@@ -2187,7 +2298,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Fireworks",
       "code": "GOODS.RETAIL.TST-86",
       "uom": null,
       "applicationDocument": [
@@ -2215,7 +2325,6 @@
       "validityPeriod": null
     },
     {
-      "name":"tor XRay films",
       "code": "GOODS.RETAIL.TST-87",
       "uom": null,
       "applicationDocument": [
@@ -2243,7 +2352,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Ahata",
       "code": "GOODS.RETAIL.TST-88",
       "uom": null,
       "applicationDocument": [
@@ -2271,7 +2379,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Dessi Sharab",
       "code": "GOODS.RETAIL.TST-89",
       "uom": null,
       "applicationDocument": [
@@ -2298,8 +2405,7 @@
       "type": "TL",
       "validityPeriod": null
     },
-     {
-      "name":"plywood modeling, mica and glass",
+    {
       "code": "GOODS.RETAIL.TST-90",
       "uom": null,
       "applicationDocument": [
@@ -2327,7 +2433,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Hosiery Goods",
       "code": "GOODS.RETAIL.TST-91",
       "uom": null,
       "applicationDocument": [
@@ -2355,7 +2460,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Bardana Store",
       "code": "GOODS.RETAIL.TST-92",
       "uom": null,
       "applicationDocument": [
@@ -2383,7 +2487,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Celluloid Plastic goods",
       "code": "GOODS.RETAIL.TST-93",
       "uom": null,
       "applicationDocument": [
@@ -2411,7 +2514,6 @@
       "validityPeriod": null
     },
     {
-      "name":"tor tar coal and Bitumen",
       "code": "GOODS.RETAIL.TST-94",
       "uom": null,
       "applicationDocument": [
@@ -2439,7 +2541,6 @@
       "validityPeriod": null
     },
     {
-      "name":"mobile, computer",
       "code": "GOODS.RETAIL.TST-95",
       "uom": null,
       "applicationDocument": [
@@ -2467,7 +2568,6 @@
       "validityPeriod": null
     },
     {
-      "name":"vegetable oil and hydrogenated oil shops",
       "code": "GOODS.RETAIL.TST-96",
       "uom": null,
       "applicationDocument": [
@@ -2495,7 +2595,6 @@
       "validityPeriod": null
     },
     {
-      "name":"electronic goods ",
       "code": "GOODS.RETAIL.TST-97",
       "uom": null,
       "applicationDocument": [
@@ -2523,7 +2622,6 @@
       "validityPeriod": null
     },
     {
-      "name":"paper and goods made including books and magazines",
       "code": "GOODS.RETAIL.TST-98",
       "uom": null,
       "applicationDocument": [
@@ -2551,7 +2649,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Silk Cloths and Art Silk",
       "code": "GOODS.RETAIL.TST-99",
       "uom": null,
       "applicationDocument": [
@@ -2579,7 +2676,6 @@
       "validityPeriod": null
     },
     {
-      "name":"gun powder and cartridges",
       "code": "GOODS.RETAIL.TST-100",
       "uom": null,
       "applicationDocument": [
@@ -2607,7 +2703,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Plywood, Mica",
       "code": "GOODS.RETAIL.TST-101",
       "uom": null,
       "applicationDocument": [
@@ -2635,7 +2730,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Candle, Dhoop, Aggarwatti",
       "code": "GOODS.RETAIL.TST-102",
       "uom": null,
       "applicationDocument": [
@@ -2663,7 +2757,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Dynamo, Batteries and spare parts thereof",
       "code": "GOODS.RETAIL.TST-103",
       "uom": null,
       "applicationDocument": [
@@ -2691,7 +2784,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Vartan, Crockery and Gift house",
       "code": "GOODS.RETAIL.TST-104",
       "uom": null,
       "applicationDocument": [
@@ -2719,7 +2811,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Hessian Cloth Jute and goods made thereof, Packing stuff",
       "code": "GOODS.RETAIL.TST-105",
       "uom": null,
       "applicationDocument": [
@@ -2747,7 +2838,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Gold and Silver jewelries, Goldsmith",
       "code": "GOODS.RETAIL.TST-106",
       "uom": null,
       "applicationDocument": [
@@ -2775,7 +2865,6 @@
       "validityPeriod": null
     },
     {
-      "name":"flowers",
       "code": "GOODS.RETAIL.TST-107",
       "uom": null,
       "applicationDocument": [
@@ -2803,7 +2892,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Grass, Chara, Bhusa, Kay Powder and Turri",
       "code": "GOODS.RETAIL.TST-108",
       "uom": null,
       "applicationDocument": [
@@ -2831,7 +2919,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Oil seeds, fodder, Seeds and Cotton seeds",
       "code": "GOODS.RETAIL.TST-109",
       "uom": null,
       "applicationDocument": [
@@ -2859,7 +2946,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Leather goods Leather foam Rexon and articles",
       "code": "GOODS.RETAIL.TST-110",
       "uom": null,
       "applicationDocument": [
@@ -2887,7 +2973,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Tyre ,Tube",
       "code": "GOODS.RETAIL.TST-111",
       "uom": null,
       "applicationDocument": [
@@ -2915,7 +3000,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Insecticides, Patricides and Fertilizers",
       "code": "GOODS.RETAIL.TST-112",
       "uom": null,
       "applicationDocument": [
@@ -2943,7 +3027,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Sirki, Bann, Khazoor, Patta, Munj, Ropes and Nylon Ropes",
       "code": "GOODS.RETAIL.TST-113",
       "uom": null,
       "applicationDocument": [
@@ -2971,7 +3054,6 @@
       "validityPeriod": null
     },
     {
-      "name":"marble, cutting, grinding dressing polishing",
       "code": "GOODS.RETAIL.TST-114",
       "uom": null,
       "applicationDocument": [
@@ -2999,7 +3081,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Video Cassettes",
       "code": "GOODS.RETAIL.TST-115",
       "uom": null,
       "applicationDocument": [
@@ -3027,7 +3108,6 @@
       "validityPeriod": null
     },
     {
-      "name":"photographic films",
       "code": "GOODS.RETAIL.TST-116",
       "uom": null,
       "applicationDocument": [
@@ -3055,7 +3135,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Audio cassettes",
       "code": "GOODS.RETAIL.TST-117",
       "uom": null,
       "applicationDocument": [
@@ -3083,7 +3162,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Electric goods",
       "code": "GOODS.RETAIL.TST-118",
       "uom": null,
       "applicationDocument": [
@@ -3111,7 +3189,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Tobacco, Zarda",
       "code": "GOODS.RETAIL.TST-221",
       "uom": null,
       "applicationDocument": [
@@ -3139,7 +3216,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Leather goods Leather foam Rexon and articles",
       "code": "GOODS.RETAIL.TST-222",
       "uom": null,
       "applicationDocument": [
@@ -3167,7 +3243,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Vegetable oil and hydrogenated oil",
       "code": "GOODS.RETAIL.TST-223",
       "uom": null,
       "applicationDocument": [
@@ -3195,7 +3270,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Cloth containing nylon terelene synthetic yarn Terri wool woolen",
       "code": "GOODS.RETAIL.TST-224",
       "uom": null,
       "applicationDocument": [
@@ -3223,7 +3297,6 @@
       "validityPeriod": null
     },
     {
-      "name":"paints turpentine all kinds spirits colours varnish thinner oil their trading",
       "code": "GOODS.WHOLESALE.TST-119",
       "uom": null,
       "applicationDocument": [
@@ -3251,7 +3324,6 @@
       "validityPeriod": null
     },
     {
-      "name":"For working power looms",
       "code": "GOODS.WHOLESALE.TST-120",
       "uom": null,
       "applicationDocument": [
@@ -3279,7 +3351,6 @@
       "validityPeriod": null
     },
     {
-      "name":"mentholated and denture spirit",
       "code": "GOODS.WHOLESALE.TST-121",
       "uom": null,
       "applicationDocument": [
@@ -3307,7 +3378,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Kerosene oil, Mobil oil crude oil grease and all kinds lubricant oil",
       "code": "GOODS.WHOLESALE.TST-122",
       "uom": null,
       "applicationDocument": [
@@ -3335,7 +3405,6 @@
       "validityPeriod": null
     },
     {
-      "name":"plywood modeling mica and glass",
       "code": "GOODS.WHOLESALE.TST-123",
       "uom": null,
       "applicationDocument": [
@@ -3363,7 +3432,6 @@
       "validityPeriod": null
     },
     {
-      "name":"fuel wood coke and hard coke katch kola",
       "code": "GOODS.WHOLESALE.TST-124",
       "uom": null,
       "applicationDocument": [
@@ -3391,7 +3459,6 @@
       "validityPeriod": null
     },
     {
-      "name":"teak wood other than fuel wood",
       "code": "GOODS.WHOLESALE.TST-125",
       "uom": null,
       "applicationDocument": [
@@ -3419,7 +3486,6 @@
       "validityPeriod": null
     },
     {
-      "name":"coal",
       "code": "GOODS.WHOLESALE.TST-126",
       "uom": null,
       "applicationDocument": [
@@ -3447,7 +3513,6 @@
       "validityPeriod": null
     },
     {
-      "name":"fuel wood",
       "code": "GOODS.WHOLESALE.TST-127",
       "uom": null,
       "applicationDocument": [
@@ -3475,7 +3540,6 @@
       "validityPeriod": null
     },
     {
-      "name":"cement",
       "code": "GOODS.WHOLESALE.TST-128",
       "uom": null,
       "applicationDocument": [
@@ -3503,7 +3567,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Bardana Store",
       "code": "GOODS.WHOLESALE.TST-129",
       "uom": null,
       "applicationDocument": [
@@ -3531,7 +3594,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Celluloid Plastic goods",
       "code": "GOODS.WHOLESALE.TST-130",
       "uom": null,
       "applicationDocument": [
@@ -3559,7 +3621,6 @@
       "validityPeriod": null
     },
     {
-      "name":"tor tar coal and Bitumen",
       "code": "GOODS.WHOLESALE.TST-131",
       "uom": null,
       "applicationDocument": [
@@ -3587,7 +3648,6 @@
       "validityPeriod": null
     },
     {
-      "name":"mobile computer",
       "code": "GOODS.WHOLESALE.TST-132",
       "uom": null,
       "applicationDocument": [
@@ -3615,7 +3675,6 @@
       "validityPeriod": null
     },
     {
-      "name":"sanitary fitting including GI CI Pipes SW Pipes AC Pipes Cement Pipes",
       "code": "GOODS.WHOLESALE.TST-133",
       "uom": null,
       "applicationDocument": [
@@ -3643,7 +3702,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Beer Bar",
       "code": "GOODS.WHOLESALE.TST-134",
       "uom": null,
       "applicationDocument": [
@@ -3671,7 +3729,6 @@
       "validityPeriod": null
     },
     {
-      "name":"English Wine and Beer Wholesale",
       "code": "GOODS.WHOLESALE.TST-135",
       "uom": null,
       "applicationDocument": [
@@ -3699,7 +3756,6 @@
       "validityPeriod": null
     },
     {
-      "name":"electronic goods and spare",
       "code": "GOODS.WHOLESALE.TST-136",
       "uom": null,
       "applicationDocument": [
@@ -3727,7 +3783,6 @@
       "validityPeriod": null
     },
     {
-      "name":"paper and goods made thereof including books and magazines",
       "code": "GOODS.WHOLESALE.TST-137",
       "uom": null,
       "applicationDocument": [
@@ -3755,7 +3810,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Silk Cloths and Art Silk",
       "code": "GOODS.WHOLESALE.TST-138",
       "uom": null,
       "applicationDocument": [
@@ -3783,7 +3837,6 @@
       "validityPeriod": null
     },
     {
-      "name":"gun powder and cartridges",
       "code": "GOODS.WHOLESALE.TST-139",
       "uom": null,
       "applicationDocument": [
@@ -3811,7 +3864,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Beer Bar",
       "code": "GOODS.WHOLESALE.TST-140",
       "uom": null,
       "applicationDocument": [
@@ -3839,7 +3891,6 @@
       "validityPeriod": null
     },
     {
-      "name":"English Wine and Beer Wholesale",
       "code": "GOODS.WHOLESALE.TST-141",
       "uom": null,
       "applicationDocument": [
@@ -3867,7 +3918,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Candle Dhoop Aggarwatti",
       "code": "GOODS.WHOLESALE.TST-142",
       "uom": null,
       "applicationDocument": [
@@ -3895,7 +3945,6 @@
       "validityPeriod": null
     },
     {
-      "name":"waste paper bags",
       "code": "GOODS.WHOLESALE.TST-143",
       "uom": null,
       "applicationDocument": [
@@ -3923,7 +3972,6 @@
       "validityPeriod": null
     },
     {
-      "name":"LPG Gas Cylinder and other Gas cylinder",
       "code": "GOODS.WHOLESALE.TST-144",
       "uom": null,
       "applicationDocument": [
@@ -3951,7 +3999,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Dynamo Batteries",
       "code": "GOODS.WHOLESALE.TST-145",
       "uom": null,
       "applicationDocument": [
@@ -3979,7 +4026,6 @@
       "validityPeriod": null
     },
     {
-      "name":"transformer",
       "code": "GOODS.WHOLESALE.TST-146",
       "uom": null,
       "applicationDocument": [
@@ -4007,7 +4053,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Vartan Crockery and Gift house",
       "code": "GOODS.WHOLESALE.TST-147",
       "uom": null,
       "applicationDocument": [
@@ -4035,7 +4080,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Hessian Cloth Jute and goods made thereof Packing stuff",
       "code": "GOODS.WHOLESALE.TST-148",
       "uom": null,
       "applicationDocument": [
@@ -4063,7 +4107,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Petrol Diesel ",
       "code": "GOODS.WHOLESALE.TST-149",
       "uom": null,
       "applicationDocument": [
@@ -4091,7 +4134,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Gold and Silver jewelries Goldsmith",
       "code": "GOODS.WHOLESALE.TST-150",
       "uom": null,
       "applicationDocument": [
@@ -4119,7 +4161,6 @@
       "validityPeriod": null
     },
     {
-      "name":"flowers",
       "code": "GOODS.WHOLESALE.TST-151",
       "uom": null,
       "applicationDocument": [
@@ -4147,7 +4188,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Grass Chara Bhusa Kay Powder and Turri",
       "code": "GOODS.WHOLESALE.TST-152",
       "uom": null,
       "applicationDocument": [
@@ -4175,7 +4215,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Oil seeds fodder Seeds and Cotton seeds",
       "code": "GOODS.WHOLESALE.TST-153",
       "uom": null,
       "applicationDocument": [
@@ -4203,7 +4242,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Cylinder and other than LPG cylinder",
       "code": "GOODS.WHOLESALE.TST-154",
       "uom": null,
       "applicationDocument": [
@@ -4231,7 +4269,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Leather goods Leather foam Rexon and articles",
       "code": "GOODS.WHOLESALE.TST-155",
       "uom": null,
       "applicationDocument": [
@@ -4259,7 +4296,6 @@
       "validityPeriod": null
     },
     {
-      "name":"TyreTube",
       "code": "GOODS.WHOLESALE.TST-156",
       "uom": null,
       "applicationDocument": [
@@ -4287,7 +4323,6 @@
       "validityPeriod": null
     },
     {
-      "name":"shuttering and pad materials for hire purposes",
       "code": "GOODS.WHOLESALE.TST-157",
       "uom": null,
       "applicationDocument": [
@@ -4315,7 +4350,6 @@
       "validityPeriod": null
     },
     {
-      "name":"cotton in pressed bales",
       "code": "GOODS.WHOLESALE.TST-158",
       "uom": null,
       "applicationDocument": [
@@ -4343,7 +4377,6 @@
       "validityPeriod": null
     },
     {
-      "name":"cloth in pressed bales",
       "code": "GOODS.WHOLESALE.TST-159",
       "uom": null,
       "applicationDocument": [
@@ -4371,7 +4404,6 @@
       "validityPeriod": null
     },
     {
-      "name":"raw wool and raw cotton",
       "code": "GOODS.WHOLESALE.TST-160",
       "uom": null,
       "applicationDocument": [
@@ -4399,7 +4431,6 @@
       "validityPeriod": null
     },
     {
-      "name":"yarn other than waste yarn",
       "code": "GOODS.WHOLESALE.TST-161",
       "uom": null,
       "applicationDocument": [
@@ -4427,7 +4458,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Insecticides Patricides and Fertilizers",
       "code": "GOODS.WHOLESALE.TST-162",
       "uom": null,
       "applicationDocument": [
@@ -4455,7 +4485,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Sirki Bann Khazoor Patta Munj Ropes and Nylon Ropes",
       "code": "GOODS.WHOLESALE.TST-163",
       "uom": null,
       "applicationDocument": [
@@ -4483,7 +4512,6 @@
       "validityPeriod": null
     },
     {
-      "name":"cold store",
       "code": "GOODS.WHOLESALE.TST-164",
       "uom": null,
       "applicationDocument": [
@@ -4511,7 +4539,6 @@
       "validityPeriod": null
     },
     {
-      "name":"marble cutting grinding dressing polishing",
       "code": "GOODS.WHOLESALE.TST-165",
       "uom": null,
       "applicationDocument": [
@@ -4539,7 +4566,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Any other store house place business not specified elsewhere",
       "code": "GOODS.WHOLESALE.TST-166",
       "uom": null,
       "applicationDocument": [
@@ -4567,7 +4593,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Video Cassettes",
       "code": "GOODS.WHOLESALE.TST-167",
       "uom": null,
       "applicationDocument": [
@@ -4595,7 +4620,6 @@
       "validityPeriod": null
     },
     {
-      "name":"photographic films",
       "code": "GOODS.WHOLESALE.TST-168",
       "uom": null,
       "applicationDocument": [
@@ -4623,7 +4647,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Audio cassettes",
       "code": "GOODS.WHOLESALE.TST-169",
       "uom": null,
       "applicationDocument": [
@@ -4651,7 +4674,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Electric goods",
       "code": "GOODS.WHOLESALE.TST-170",
       "uom": null,
       "applicationDocument": [
@@ -4679,7 +4701,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Cattle Feed",
       "code": "GOODS.WHOLESALE.TST-171",
       "uom": null,
       "applicationDocument": [
@@ -4707,7 +4728,6 @@
       "validityPeriod": null
     },
     {
-      "name":"fireworks",
       "code": "GOODS.WHOLESALE.TST-172",
       "uom": null,
       "applicationDocument": [
@@ -4735,7 +4755,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Any other store house not specified elsewhere from which offensive unwholesome smell noise smoke",
       "code": "GOODS.WHOLESALE.TST-173",
       "uom": null,
       "applicationDocument": [
@@ -4763,7 +4782,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Kerosene oil Whole",
       "code": "GOODS.WHOLESALE.TST-174",
       "uom": null,
       "applicationDocument": [
@@ -4791,7 +4809,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Hydrogenated oil sugars",
       "code": "GOODS.WHOLESALE.TST-175",
       "uom": null,
       "applicationDocument": [
@@ -4819,7 +4836,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Non Dangerous Petroleum Product",
       "code": "GOODS.WHOLESALE.TST-176",
       "uom": "GALLONS",
       "applicationDocument": [
@@ -4847,7 +4863,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Non Dangerous Petroleum Product",
       "code": "GOODS.WHOLESALE.TST-177",
       "uom": "GALLONS",
       "applicationDocument": [
@@ -4875,7 +4890,6 @@
       "validityPeriod": null
     },
     {
-      "name":"fireworks",
       "code": "GOODS.WHOLESALE.TST-178",
       "uom": null,
       "applicationDocument": [
@@ -4903,7 +4917,6 @@
       "validityPeriod": null
     },
     {
-      "name":"carton",
       "code": "GOODS.WHOLESALE.TST-179",
       "uom": null,
       "applicationDocument": [
@@ -4931,7 +4944,6 @@
       "validityPeriod": null
     },
     {
-      "name":"English wine",
       "code": "GOODS.WHOLESALE.TST-180",
       "uom": null,
       "applicationDocument": [
@@ -4959,7 +4971,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Dessi Sharab",
       "code": "GOODS.WHOLESALE.TST-181",
       "uom": null,
       "applicationDocument": [
@@ -4987,7 +4998,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Hosiery Goods",
       "code": "GOODS.WHOLESALE.TST-182",
       "uom": null,
       "applicationDocument": [
@@ -5015,7 +5025,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Atta Chakki",
       "code": "SERVICES.GBS.TST-183",
       "uom": null,
       "applicationDocument": [
@@ -5043,7 +5052,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Printing Press",
       "code": "SERVICES.GBS.TST-184",
       "uom": null,
       "applicationDocument": [
@@ -5071,7 +5079,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Tent House",
       "code": "SERVICES.GBS.TST-185",
       "uom": null,
       "applicationDocument": [
@@ -5099,7 +5106,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Cinema films",
       "code": "SERVICES.GBS.TST-186",
       "uom": null,
       "applicationDocument": [
@@ -5127,7 +5133,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Aluminium door fitting fabrivations",
       "code": "SERVICES.GBS.TST-187",
       "uom": null,
       "applicationDocument": [
@@ -5155,7 +5160,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Cable operator",
       "code": "SERVICES.GBS.TST-188",
       "uom": null,
       "applicationDocument": [
@@ -5183,7 +5187,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Cinema Hall",
       "code": "SERVICES.GBS.TST-189",
       "uom": null,
       "applicationDocument": [
@@ -5211,7 +5214,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Circuses, fair magic show",
       "code": "SERVICES.GBS.TST-190",
       "uom": null,
       "applicationDocument": [
@@ -5239,7 +5241,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Dhabha",
       "code": "SERVICES.GBS.TST-191",
       "uom": null,
       "applicationDocument": [
@@ -5267,7 +5268,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Diesel engine services",
       "code": "SERVICES.GBS.TST-192",
       "uom": null,
       "applicationDocument": [
@@ -5295,7 +5295,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Dry cleaning",
       "code": "SERVICES.GBS.TST-193",
       "uom": null,
       "applicationDocument": [
@@ -5323,7 +5322,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Hotel,Restaurant",
       "code": "SERVICES.GBS.TST-194",
       "uom": null,
       "applicationDocument": [
@@ -5351,7 +5349,6 @@
       "validityPeriod": null
     },
     {
-      "name":"junk dealer",
       "code": "SERVICES.GBS.TST-195",
       "uom": null,
       "applicationDocument": [
@@ -5379,7 +5376,6 @@
       "validityPeriod": null
     },
     {
-      "name":"motel",
       "code": "SERVICES.GBS.TST-196",
       "uom": null,
       "applicationDocument": [
@@ -5407,7 +5403,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Nursing home private hospital ultra sound ,CT scan centers",
       "code": "SERVICES.GBS.TST-197",
       "uom": null,
       "applicationDocument": [
@@ -5435,7 +5430,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Public Model School",
       "code": "SERVICES.GBS.TST-198",
       "uom": null,
       "applicationDocument": [
@@ -5463,7 +5457,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Service Station, Workshop",
       "code": "SERVICES.GBS.TST-199",
       "uom": null,
       "applicationDocument": [
@@ -5491,7 +5484,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Testing Lab",
       "code": "SERVICES.GBS.TST-200",
       "uom": null,
       "applicationDocument": [
@@ -5519,7 +5511,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Watch repair",
       "code": "SERVICES.GBS.TST-201",
       "uom": null,
       "applicationDocument": [
@@ -5547,7 +5538,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Welding set",
       "code": "SERVICES.GBS.TST-202",
       "uom": null,
       "applicationDocument": [
@@ -5575,7 +5565,6 @@
       "validityPeriod": null
     },
     {
-      "name":"All Dhaba, Tea shop and Halwai shop",
       "code": "SERVICES.NGBS.TST-203",
       "uom": null,
       "applicationDocument": [
@@ -5603,7 +5592,6 @@
       "validityPeriod": null
     },
     {
-      "name":"All Hotels, Restaurant,Beer,Bar",
       "code": "SERVICES.NGBS.TST-204",
       "uom": null,
       "applicationDocument": [
@@ -5631,7 +5619,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Barbers Shop",
       "code": "SERVICES.NGBS.TST-205",
       "uom": null,
       "applicationDocument": [
@@ -5659,7 +5646,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Beauty Parlour",
       "code": "SERVICES.NGBS.TST-206",
       "uom": null,
       "applicationDocument": [
@@ -5687,7 +5673,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Cinema Circus",
       "code": "SERVICES.NGBS.TST-207",
       "uom": null,
       "applicationDocument": [
@@ -5715,7 +5700,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Computer coaching,training coaching center and cyber cafe",
       "code": "SERVICES.NGBS.TST-208",
       "uom": null,
       "applicationDocument": [
@@ -5743,7 +5727,6 @@
       "validityPeriod": null
     },
     {
-      "name":"gym fitness center",
       "code": "SERVICES.NGBS.TST-209",
       "uom": null,
       "applicationDocument": [
@@ -5771,7 +5754,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Laundry Shop",
       "code": "SERVICES.NGBS.TST-210",
       "uom": null,
       "applicationDocument": [
@@ -5799,7 +5781,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Marriage Palaces",
       "code": "SERVICES.NGBS.TST-211",
       "uom": null,
       "applicationDocument": [
@@ -5827,7 +5808,6 @@
       "validityPeriod": null
     },
     {
-      "name": "Nursing Homes, Private Hospital, Ultra Sound, CT Scan Centre",
       "code": "SERVICES.NGBS.TST-212",
       "uom": null,
       "applicationDocument": [
@@ -5855,7 +5835,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Painter, Flex printing, printing press Screen printing",
       "code": "SERVICES.NGBS.TST-213",
       "uom": null,
       "applicationDocument": [
@@ -5883,7 +5862,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Poultry Forms",
       "code": "SERVICES.NGBS.TST-214",
       "uom": null,
       "applicationDocument": [
@@ -5911,7 +5889,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Printing press",
       "code": "SERVICES.NGBS.TST-215",
       "uom": null,
       "applicationDocument": [
@@ -5939,7 +5916,6 @@
       "validityPeriod": null
     },
     {
-      "name":"property dealer",
       "code": "SERVICES.NGBS.TST-216",
       "uom": null,
       "applicationDocument": [
@@ -5967,7 +5943,6 @@
       "validityPeriod": null
     },
     {
-      "name":"shop tailoring running with electronic instrument",
       "code": "SERVICES.NGBS.TST-217",
       "uom": null,
       "applicationDocument": [
@@ -5995,7 +5970,6 @@
       "validityPeriod": null
     },
     {
-      "name":"Transport and Booking Agency",
       "code": "SERVICES.NGBS.TST-218",
       "uom": null,
       "applicationDocument": [
@@ -6023,8 +5997,34 @@
       "validityPeriod": null
     },
     {
-      "name":"Workshop",
       "code": "SERVICES.NGBS.TST-219",
+      "uom": null,
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "SERVICES.NGBS.TST-220",
       "uom": null,
       "applicationDocument": [
         {
@@ -6088,7 +6088,7 @@
       "active": true,
       "type": "BPA",
       "validityPeriod": 5,
-        "restrictions":{
+      "restrictions":{
         "maxPlotArea":500,
         "maxBulidingheight":15,
         "maxFloors":3
@@ -6132,7 +6132,7 @@
       "active": true,
       "type": "BPA",
       "validityPeriod": 5,
-       "restrictions":{
+      "restrictions":{
         "maxPlotArea":100,
         "maxBulidingheight":10,
         "maxFloors":2

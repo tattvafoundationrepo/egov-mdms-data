@@ -1,17 +1,17 @@
 {
-    "tenantId": "pg",
+    "tenantId": "pb",
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
-        "tenantId": "pg.citya",
-        "reminderInterval": 691200000
-      },
-      {
-        "tenantId": "pg.cityb",
+        "tenantId": "pb.amritsar",
         "reminderInterval": 12345
       },
       {
-        "tenantId": "pg.cityc",
+        "tenantId": "pb.jalandhar",
+        "reminderInterval": 12345
+      },
+      {
+        "tenantId": "pb.mohali",
         "reminderInterval": 12345  
       }
     ]

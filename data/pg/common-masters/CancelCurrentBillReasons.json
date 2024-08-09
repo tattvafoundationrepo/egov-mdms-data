@@ -1,5 +1,5 @@
 {
-    "tenantId": "pg",
+    "tenantId": "pb",
     "moduleName": "common-masters",
     "CancelCurrentBillReasons":
     [
@@ -19,4 +19,4 @@
         "active": true
       }
     ]
-  } 
+  }

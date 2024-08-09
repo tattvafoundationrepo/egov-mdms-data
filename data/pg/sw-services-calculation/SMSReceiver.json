@@ -1,14 +1,19 @@
 {
-    "tenantId": "pg",
-    "moduleName": "sw-services-calculation",
-    "SMSReceiver": [
-      {
-        "firstName": "SUL1",
-        "lastName": null,
-        "serviceName": "Sewerage",
-        "ulbName": "Citya",
-        "mobileNumber": "8123288129",
-        "emailId": "trupti.dadhich@egovernments.org"
-      }
-    ]
-  }
+  "tenantId": "pb",
+  "moduleName": "sw-services-calculation",
+  "SMSReceiver": [
+    {
+      "firstName": "WSEmp1",
+      "lastName": null,
+      "serviceName": "Sewerage",
+      "ulbName": "Amritsar",
+      "mobileNumber": "7382193319",
+      "emailId": "priyanka@egovernments.org"
+    }
+  ]
+}
+
+
+
+
+

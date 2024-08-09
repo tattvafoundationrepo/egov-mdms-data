@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg",
+  "tenantId": "pb",
   "moduleName": "ws-services-calculation",
   "WCBillingSlab": [
     {
@@ -8,7 +8,7 @@
       "connectionType": "Metered",
       "calculationAttribute": "Water consumption",
       "minimumCharge": 100,
-
+      
       "slabs": [
         {
           "from": 0,
@@ -47,7 +47,7 @@
       "buildingType": "NONRESIDENTIAL",
       "calculationAttribute": "Water consumption",
       "connectionType": "Metered",
-
+      
       "minimumCharge": 200,
       "slabs": [
         {
@@ -55,7 +55,7 @@
           "to": 10,
           "charge": 13.31,
           "meterCharge": 532.4
-
+          
         },
         {
           "from": 10,
@@ -88,7 +88,7 @@
       "buildingType": "Commercial and Government",
       "calculationAttribute": "Water consumption",
       "connectionType": "Metered",
-
+      
       "minimumCharge": 200,
       "slabs": [
         {
@@ -96,7 +96,7 @@
           "to": 10,
           "charge": 13.31,
           "meterCharge": 532.4
-
+          
         },
         {
           "from": 10,
@@ -130,7 +130,7 @@
       "calculationAttribute": "Water consumption",
       "connectionType": "Metered",
       "minimumCharge": 150,
-
+      
       "slabs": [
         {
           "from": 0,
@@ -157,7 +157,7 @@
       "buildingType": "RESIDENTIAL",
       "calculationAttribute": "No. of taps",
       "connectionType": "Non Metered",
-
+      
       "minimumCharge": 100,
       "slabs": [
         {
@@ -172,7 +172,7 @@
       "buildingType": "RESIDENTIAL",
       "calculationAttribute": "Pipe Size",
       "connectionType": "Non Metered",
-
+      
       "minimumCharge": 100,
       "slabs": [
         {
@@ -187,7 +187,7 @@
       "buildingType": "NONRESIDENTIAL",
       "calculationAttribute": "Pipe Size",
       "connectionType": "Non Metered",
-
+      
       "minimumCharge": 200,
       "slabs": [
         {
@@ -202,7 +202,7 @@
       "buildingType": "NONRESIDENTIAL",
       "calculationAttribute": "No. of taps",
       "connectionType": "Non Metered",
-
+      
       "minimumCharge": 200,
       "slabs": [
         {
@@ -217,7 +217,7 @@
       "buildingType": "Commercial",
       "calculationAttribute": "Pipe Size",
       "connectionType": "Non Metered",
-
+      
       "minimumCharge": 200,
       "slabs": [
         {
@@ -233,13 +233,13 @@
       "calculationAttribute": "No. of taps",
       "connectionType": "Non Metered",
       "minimumCharge": 200,
-
+      
       "slabs": [
         {
           "from": 0,
           "to": 1000000000,
           "charge": 300
-
+          
         }
       ]
     },
@@ -248,7 +248,7 @@
       "buildingType": "Government",
       "calculationAttribute": "No. of taps",
       "connectionType": "Non Metered",
-
+      
       "minimumCharge": 300,
       "slabs": [
         {
@@ -263,7 +263,7 @@
       "buildingType": "Government",
       "calculationAttribute": "Pipe Size",
       "connectionType": "Non Metered",
-
+      
       "minimumCharge": 300,
       "slabs": [
         {
@@ -278,7 +278,7 @@
       "buildingType": "Partly Commercial",
       "calculationAttribute": "No. of taps",
       "connectionType": "Non Metered",
-
+      
       "minimumCharge": 150,
       "slabs": [
         {
@@ -293,7 +293,7 @@
       "buildingType": "Partly Commercial",
       "calculationAttribute": "Pipe Size",
       "connectionType": "Non Metered",
-
+      
       "minimumCharge": 150,
       "slabs": [
         {
@@ -341,6 +341,81 @@
       "calculationAttribute": "Flat",
       "connectionType": "Non Metered",
       "minimumCharge": 350,
+      "slabs": []
+    },
+    {
+      "id": "20",
+      "buildingType": "MIXED",
+      "connectionType": "Metered",
+      "calculationAttribute": "Water consumption",
+      "minimumCharge": 100,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 10,
+          "charge": 2,
+          "meterCharge": 50
+        },
+        {
+          "from": 10,
+          "to": 20,
+          "charge": 2.5,
+          "meterCharge": 50
+        },
+        {
+          "from": 20,
+          "to": 30,
+          "charge": 8,
+          "meterCharge": 150
+        },
+        {
+          "from": 30,
+          "to": 40,
+          "charge": 12,
+          "meterCharge": 150
+        },
+        {
+          "from": 40,
+          "to": 1000000000,
+          "charge": 15,
+          "meterCharge": 150
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "buildingType": "MIXED",
+      "calculationAttribute": "No. of taps",
+      "connectionType": "Non Metered",
+      "minimumCharge": 100,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 100
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "buildingType": "MIXED",
+      "calculationAttribute": "Pipe Size",
+      "connectionType": "Non Metered",
+      "minimumCharge": 100,
+      "slabs": [
+        {
+          "from": 0,
+          "to": 1000000000,
+          "charge": 150
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "buildingType": "MIXED",
+      "calculationAttribute": "Flat",
+      "connectionType": "Non Metered",
+      "minimumCharge": 250,
       "slabs": []
     }
   ]

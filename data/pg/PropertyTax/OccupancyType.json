@@ -1,10 +1,10 @@
 {
-  "tenantId": "pg",
+  "tenantId": "pb",
   "moduleName": "PropertyTax",
   "OccupancyType":
   [
     {
-      "name": "Tenanted/ Rented",
+      "name": "Rented",
       "code": "RENTED",
       "active": true
     },

@@ -1,5 +1,5 @@
 {
-    "tenantId": "pg",
+    "tenantId": "pb",
     "moduleName": "common-masters",
     "ReceiptStatus":
     [
@@ -16,4 +16,4 @@
         "active": true
       }
     ]
-  } 
+  }

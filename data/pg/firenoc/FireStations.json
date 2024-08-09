@@ -1,31 +1,55 @@
 {
-  "tenantId": "pg",
+  "tenantId": "pb",
   "moduleName": "firenoc",
   "FireStations": [
     {
-      "code": "FS_CITYA_01",
-      "baseTenantId": "pg.citya",
-      "active": true
+      "code": "FS_AMRITSAR_01",
+      "baseTenantId": "pb.amritsar",
+      "active": true,
+      "subDistrict": [
+        "Amritsar",
+        "Baba bakala",
+        "Ajnala"
+      ]
     },
     {
-      "code": "FS_CITYB_01",
-      "baseTenantId": "pg.cityb",
-      "active": true
+      "code": "FS_JALANDHAR_01",
+      "baseTenantId": "pb.jalandhar",
+      "active": true,
+      "subDistrict": [
+        "jalandhar1",
+        "jalandhar2"
+      ]
     },
     {
-      "code": "FS_CITYC_01",
-      "baseTenantId": "pg.cityc",
-      "active": true
+      "code": "pb.sangrur",
+      "baseTenantId": "pb.sangrur",
+      "active": true,
+      "subDistrict": [
+        "Sangrur",
+        "Moonak",
+        "Bhawanigarh"
+      ]
     },
     {
-      "code": "FS_CITYD_01",
-      "baseTenantId": "pg.cityd",
-      "active": true
+      "code": "pb.malerkotla",
+      "baseTenantId": "pb.sangrur",
+      "active": true,
+      "subDistrict": [
+        "Malerkotla",
+        "Ahmedgarh",
+        "Amargarh"
+      ]
     },
     {
-      "code": "FS_CITYE_01",
-      "baseTenantId": "pg.citye",
-      "active": true
+      "code": "pb.sunam",
+      "baseTenantId": "pb.sangrur",
+      "active": true,
+      "subDistrict": [
+        "Sunam",
+        "Lehragaga",
+        "Dirba"
+      ]
     }
   ]
 }

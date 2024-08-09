@@ -1,11 +1,12 @@
+
 {
-  "tenantId": "pg",
+  "tenantId": "pb",
   "moduleName": "PropertyTax",
   "Documents": [
     {
       "code": "OWNER.ADDRESSPROOF",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
       "digit-citizen":true,
       "hasDropdown": true,
@@ -64,7 +65,7 @@
     {
       "code": "OWNER.IDENTITYPROOF",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
       "digit-citizen":true,
       "hasDropdown": true,
@@ -115,9 +116,9 @@
     {
       "code": "OWNER.REGISTRATIONPROOF",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
-      "digit-citizen":true,
+      "digit-citizen":false,
       "hasDropdown": true,
       "additionalDetails": {
         "enabledActions": {
@@ -139,7 +140,7 @@
           }
         }
       },
-      "dropdownData": [
+      "dropdownData":[
         {
           "code": "OWNER.REGISTRATIONPROOF.SALEDEED",
           "active": true
@@ -178,7 +179,6 @@
         },
         {
           "code": "OWNER.REGISTRATIONPROOF.UNREGISTEREDWILLDEED",
-          
           "active": true
         }
       ],
@@ -187,7 +187,7 @@
     {
       "code": "OWNER.SPECIALCATEGORYPROOF",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
       "digit-citizen":true,
       "hasDropdown": true,
@@ -258,13 +258,6 @@
           "parentValue": [
             "WIDOW"
           ]
-        },
-        {
-          "code": "OWNER.SPECIALCATEGORYPROOF.GENERALID",
-          "active": true,
-          "parentValue": [
-            "GENERAL"
-          ]
         }
       ],
       "description": "OWNER.SPECIALCATEGORYPROOF.SPECIALCATEGORYPROOF_DESCRIPTION"
@@ -272,9 +265,9 @@
     {
       "code": "OWNER.USAGEPROOF",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
-      "digit-citizen":true,
+      "digit-citizen":false,
       "hasDropdown": true,
       "additionalDetails": {
         "dropdownFilter": {
@@ -327,13 +320,13 @@
         }
       ],
       "description": "OWNER.USAGEPROOF.USAGEPROOF_DESCRIPTION"
-    },
+    }, 
     {
       "code": "OWNER.CONSTRUCTIONPROOF",
       "documentType": "OWNER",
-      "required": false,
+      "required": true,
       "active": true,
-      "digit-citizen":true,
+      "digit-citizen":false,
       "hasDropdown": true,
       "additionalDetails": {
         "filterCondition": {
@@ -376,7 +369,7 @@
       "documentType": "OWNER",
       "required": true,
       "active": true,
-      "digit-citizen":true,
+      "digit-citizen":false,
       "hasDropdown": true,
       "additionalDetails": {
         "filterCondition": {

@@ -1,5 +1,5 @@
 {
-    "tenantId": "pg",
+    "tenantId": "pb",
     "moduleName": "BPA",
     "ServiceType": [
        {
@@ -9,3 +9,4 @@
       }
     ]
   }
+  

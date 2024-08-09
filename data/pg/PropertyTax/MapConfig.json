@@ -1,12 +1,10 @@
 {
-    "tenantId": "pg",
+    "tenantId": "pb",
     "moduleName": "PropertyTax",
-    "MapConfig": [
-        {
-            "defaultConfig": {
-                "lat": 31.6160638,
-                "lng": 74.8978579
-            }
+    "MapConfig": [{
+        "defaultConfig": {
+            "lat": 31.6160638,
+            "lng": 74.8978579
         }
-    ]
+    }]
 }

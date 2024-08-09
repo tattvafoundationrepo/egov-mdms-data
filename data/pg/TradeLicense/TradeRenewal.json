@@ -1,9 +1,9 @@
 {
-    "tenantId": "pg",
-    "moduleName": "TradeLicense",
-    "TradeRenewal": [
-        {
-            "renewalPeriod": 7889400000
-        }
-    ]
+  "tenantId": "pb",
+  "moduleName": "TradeLicense",
+  "TradeRenewal": [
+    {
+      "renewalPeriod" : 7889400000
+    }
+   ]
 }

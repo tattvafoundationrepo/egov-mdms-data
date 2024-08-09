@@ -38,34 +38,29 @@
       "description": "Grievance Routing Officer"
     },
     {
-      "code": "ASSET_ADMINISTRATOR",
+      "code": "Asset Administrator",
       "name": "Asset Administrator",
       "description": "Asset Administrator"
     },
     {
-      "code": "ULB_OPERATOR",
+      "code": "ULB Operator",
       "name": "ULB Operator",
       "description": "ULB Operator"
     },
     {
-      "code": "EMPLOYEE_ADMIN",
+      "code": "EMPLOYEE ADMIN",
       "name": "EMPLOYEE ADMIN",
       "description": "EMPLOYEE ADMIN"
     },
     {
-      "code": "PROPERTY_APPROVER",
+      "code": "Property Approver",
       "name": "Property Approver",
       "description": "Property Approver"
     },
     {
-      "code": "PROPERTY_VERIFIER",
+      "code": "Property Verifier",
       "name": "Property Verifier",
       "description": "Property Verifier"
-    },
-    {
-      "code": "Financial Administrator",
-      "name": "Financial Administrator",
-      "description": "Financial Administrator"
     },
     {
       "code": "AssetReportViewer",
@@ -126,6 +121,31 @@
       "code": "COLL_REP_VIEW",
       "name": "Collection Report Viewer",
       "description": "Collection Report Viewer can view Reports"
+    },
+    {
+      "code": "testonecode112234324",
+      "name": "test3test2",
+      "description": "test123description"
+    },
+    {
+      "code": "testtwocode11234354",
+      "name": "test4test1",
+      "description": "testcodedescription"
+    },
+    {
+      "code": "testonecode112234324",
+      "name": "test3test21",
+      "description": "test123description"
+    },
+    {
+      "code": "STORE INCHARGE",
+      "name": "Store Incharge",
+      "description": "Incharge of the ULB store"
+    },
+    {
+      "code": "directortestcode112234324",
+      "name": "director123456",
+      "description": "test123description"
     },
     {
       "code": "COMMISSIONER",
@@ -318,6 +338,11 @@
       "description": "Trade license document verifier"
     },
     {
+      "code": "PT_APPROVER",
+      "name": "PT Counter Approver",
+      "description": "PT Approver"
+    },
+    {
       "code": "NOC_CEMP",
       "name": "NoC counter employee",
       "description": "Fire NOC Counter Employee"
@@ -363,6 +388,11 @@
       "description": "BPA Town Planner"
     },
     {
+      "code": "BPA_SUPERVISOR",
+      "name": "BPA Supervisor",
+      "description": "BPA Supervisor"
+    },
+    {
       "code": "ANONYMOUS",
       "name": "Anonymous User",
       "description": "Anonymous User to be used in case of no auth"
@@ -378,11 +408,6 @@
       "description": "BPA Stakeholder workflow document verifier"
     },
     {
-      "code": "BPAREG_EMPLOYEE",
-      "name": "BPAREG Employee",
-      "description": "BPA Stakeholder Employee"
-    },
-    {
       "code": "BPA_APPROVER",
       "name": "BPA Services Approver",
       "description": "BPA Services workflow Approver"
@@ -391,46 +416,6 @@
       "code": "BPA_VERIFIER",
       "name": "BPA Services verifier",
       "description": "BPA Services workflow document & field inspection verifier"
-    },
-    {
-      "code": "HRMS_ADMIN",
-      "name": "HRMS ADMIN",
-      "description": "HRMS Administrator which can create new employees"
-    },
-    {
-      "code": "BPA_SUPERVISOR",
-      "name": "BPA Supervisor",
-      "description": "BPA Supervisor"
-    },
-    {
-      "code": "BPA_FIELD_INSPECTOR",
-      "name": "BPA Field Inspector",
-      "description": "BPA Service field inspector"
-    },
-    {
-      "code": "BPA_NOC_VERIFIER",
-      "name": "BPA NOC Verifier",
-      "description": "BPA Service NOC verifier"
-    },
-    {
-      "code": "PT_CEMP",
-      "name": "PT Counter Employee",
-      "description": "Property Counter Employee"
-    },
-    {
-      "code": "PT_DOC_VERIFIER",
-      "name": "PT Doc Verifier",
-      "description": "Property Document Verifier"
-    },
-    {
-      "code": "PT_FIELD_INSPECTOR",
-      "name": "PT Field Inspector",
-      "description": "Property Field Inspector"
-    },
-    {
-      "code": "PT_APPROVER",
-      "name": "PT Counter Approver",
-      "description": "PT Approver"
     },
     {
       "code": "WS_CEMP",
@@ -483,6 +468,26 @@
       "description": "SW Clerk can activate the connection application"
     },
     {
+      "code": "SYSTEM",
+      "name": "System user",
+      "description": "System user role"
+    },
+    {
+      "code": "BPA_FIELD_INSPECTOR",
+      "name": "BPA Field Inspector",
+      "description": "BPA Service field inspector"
+    },
+    {
+      "code": "BPA_NOC_VERIFIER",
+      "name": "BPA NOC Verifier",
+      "description": "BPA Service NOC verifier"
+    },
+    {
+      "code": "NOC_DEPT_APPROVER",
+      "name": "NOC Department Approver",
+      "description": "NOC application approver"
+    },
+    {
       "code": "FIRE_NOC_APPROVER",
       "name": "Fire Noc Department Approver",
       "description": "Fire Noc application approver"
@@ -496,11 +501,6 @@
       "code": "CFC",
       "name": "Citizen Feedback Centre",
       "description": "Citizen Feedback Centre"
-    },
-    {
-      "code": "HRMS_ADMIN",
-      "name": "HRMS Admin",
-      "description": "HRMS Admin"
     },
     {
       "code": "FSM_CREATOR_EMP",
@@ -553,9 +553,9 @@
       "description": "FSM  Payment Collector"
     },
     {
-      "code": "QA_AUTOMATION",
-      "name": "QA Automation",
-      "description": "QA Automation"
+      "code": "HRMS_ADMIN",
+      "name": "HRMS Admin",
+      "description": "HRMS Admin"
     },
     {
       "code": "UC_EMP",
@@ -563,39 +563,44 @@
       "description": "Universal Miscellaneous Collection Employee"
     },
     {
+      "code": "ANONYMUS",
+      "name": "Any User",
+      "description": "Can Transform the Data"
+    },
+    {
+      "code": "PT_CEMP",
+      "name": "pt emp",
+      "description": "Receipt Register Report"
+    },
+    {
+      "code": "PT_COLLECTION_EMP",
+      "name": "ptcollection emp",
+      "description": "PTCollection Register Report"
+    },
+    {
+      "code": "AUTO_ESCALATE",
+      "name": "autoescalation emp",
+      "description": "Auto Escalation Employee"
+    },
+    {
       "code": "CR_PT",
       "name": "Property Tax Receipt Cancellator",
       "description": "Property Tax Receipt Cancelling Employee"
     },
     {
-      "code": "AUTO_ESCALATE",
-      "name": "Auto Escalation Employee",
-      "description": "Auto Escalation Employee"
-    },
-    {
-      "code": "PT_COLLECTION_EMP",
-      "name": "Property Tax Collection Employee",
-      "description": "PTCollection Register Report"
-    },
-    {
-      "code": "SUPERVISOR",
-      "name": "Auto Escalation Supervisor",
-      "description": "Escalation to particular role"
-    },
-    {
-      "code": "SYSTEM",
-      "name": "System user",
-      "description": "System user role"
-    },
-    {
       "code": "NATADMIN",
-      "name": "National Dashboard Admin",
-      "description": "Admin role that as access over a Nation"
+      "name": "National Dashboard Administrator",
+      "description": "Admin role that as access over a National"
     },
     {
-      "code": "COMMON_EMPLOYEE",
-      "name": "Basic employee roles",
-      "description": "Basic employee roles"
+      "code": "PT_FIELD_INSPECTOR",
+      "name": "PT Field Inspector",
+      "description": "Property Field Inspector"
+    },
+    {
+      "code": "PT_DOC_VERIFIER",
+      "name": "PT Document Inspector",
+      "description": "Property Document Inspector"
     },
     {
       "code": "BND_CEMP",
@@ -606,6 +611,71 @@
       "code": "DASHBOARD_REPORT_VIEWER",
       "name": "Birth and Death Dashboard User",
       "description": "Birth and Death Dashboard User"
+    },
+    {
+      "code": "BIRTH_APPLICATION_CREATOR",
+      "name": "Birth Application Creator",
+      "description": "Birth User that can only create new applications"
+    },
+    {
+      "code": "DEATH_APPLICATION_CREATOR",
+      "name": "Death Application Creator",
+      "description": "Death User that can only create new applications"
+    },
+    {
+      "code": "BIRTH_APPLICATION_VIEWER",
+      "name": "Birth Application Viewer",
+      "description": "Birth User that can only search and view applications"
+    },
+    {
+      "code": "DEATH_APPLICATION_VIEWER",
+      "name": "Death Application Viewer",
+      "description": "Death User that can only search and view applications"
+    },
+    {
+      "code": "BIRTH_REPORT_VIEWER",
+      "name": "Birth Report Viewer",
+      "description": "Birth and Death User that can view tabular reports"
+    },
+    {
+      "code": "DEATH_REPORT_VIEWER",
+      "name": "Death Report Viewer",
+      "description": "Death User that can view tabular reports"
+    },
+    {
+      "code": "BIRTH_APPLICATION_EDITOR",
+      "name": "Birth Application Editor",
+      "description": "Birth User that can edit existing applications"
+    },
+    {
+      "code": "DEATH_APPLICATION_EDITOR",
+      "name": "DEATH Application Editor",
+      "description": "Death User that can edit existing applications"
+    },
+    {
+      "code": "INTERNAL_MICROSERVICE_ROLE",
+      "name": "Internal Microservice Role",
+      "description": "Internal role for plain access"
+    },
+    {
+      "code": "WATER_REPORT_VIEWER",
+      "name": "Water Report Viewer",
+      "description": "Water Connection User that can view reports"
+    },
+    {
+      "code": "SEWERAGE_REPORT_VIEWER",
+      "name": "Sewerage Report Viewer",
+      "description": "Sewerage Connection User that can view reports"
+    },
+    {
+      "code": "OBPS_REPORT_VIEWER",
+      "name": "OBPS Report Viewer",
+      "description": "OBPS User that can view OBPS reports"
+    },
+    {
+      "code": "REINDEXING_ROLE",
+      "name": "Reindexing Role",
+      "description": "Role for reindexing for encrypted data access"
     }
   ]
 }

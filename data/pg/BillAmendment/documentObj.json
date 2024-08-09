@@ -1,62 +1,40 @@
 {
-  "tenantId": "pg",
+  "tenantId": "pb",
   "moduleName": "BillAmendment",
   "documentObj": [
     {
       "allowedDocs": [
         {
           "documentType": "COURTORDER",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "COURT_CASE_SETTLEMENT"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "COURTORDER",
-              "active": true
-            }
-          ],
+          "hasDropDown":true,
+          "dropdownData":[{"code":"COURTORDER","active":true}],
           "required": true
         },
-        {
+           {
           "documentType": "PASTBILLS",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "COURT_CASE_SETTLEMENT"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "PASTBILLS",
-              "active": true
-            }
-          ],
+          "hasDropDown":true,
+          "dropdownData":[{"code":"PASTBILLS","active":true}],
           "required": true
         },
         {
           "documentType": "IDENTITYPROOF",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "COURT_CASE_SETTLEMENT"
           ],
-          "hasDropDown": true,
-          "hasToolTip": true,
+          "hasDropDown":true,
+          "hasToolTip":true,
           "toolTipData": [
             {
               "code": "IDENTITYPROOF.ELECTRICITYBILL",
@@ -105,17 +83,13 @@
         },
         {
           "documentType": "ADDRESSPROOF",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "COURT_CASE_SETTLEMENT"
           ],
-          "hasDropDown": true,
-          "hasToolTip": true,
+          "hasDropDown":true,
+          "hasToolTip":true,
           "toolTipData": [
             {
               "code": "ADDRESSPROOF.ELECTRICITYBILL",
@@ -164,22 +138,13 @@
         },
         {
           "documentType": "SELFDECLARATION",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "COURT_CASE_SETTLEMENT"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "SELFDECLARATION",
-              "active": true
-            }
-          ],
+          "hasDropDown":true,
+          "dropdownData":[{"code":"SELFDECLARATION","active":true}],
           "required": true
         }
       ]
@@ -188,57 +153,35 @@
       "allowedDocs": [
         {
           "documentType": "GOVTNOTIFICATION",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "ARREAR_WRITE_OFF"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "GOVTNOTIFICATION",
-              "active": true
-            }
-          ],
+          "hasDropDown":true,
+          "dropdownData":[{"code":"GOVTNOTIFICATION","active":true}],
           "required": true
         },
         {
           "documentType": "PASTBILLS",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "ARREAR_WRITE_OFF"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "PASTBILLS",
-              "active": true
-            }
-          ],
+          "hasDropDown":true,
+          "dropdownData":[{"code":"PASTBILLS","active":true}],
           "required": true
         },
         {
           "documentType": "IDENTITYPROOF",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "ARREAR_WRITE_OFF"
           ],
-          "hasDropDown": true,
-          "hasToolTip": true,
+          "hasDropDown":true,
+          "hasToolTip":true,
           "toolTipData": [
             {
               "code": "IDENTITYPROOF.ELECTRICITYBILL",
@@ -287,17 +230,13 @@
         },
         {
           "documentType": "ADDRESSPROOF",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "ARREAR_WRITE_OFF"
           ],
-          "hasDropDown": true,
-          "hasToolTip": true,
+          "hasDropDown":true,
+          "hasToolTip":true,
           "toolTipData": [
             {
               "code": "ADDRESSPROOF.ELECTRICITYBILL",
@@ -350,57 +289,35 @@
       "allowedDocs": [
         {
           "documentType": "OFFICENOTEORDER",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "DCB_CORRECTION"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "OFFICENOTEORDER",
-              "active": true
-            }
-          ],
+          "hasDropDown":true,
+          "dropdownData":[{"code":"OFFICENOTEORDER","active":true}],
           "required": true
         },
         {
           "documentType": "PASTBILLS",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "DCB_CORRECTION"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "PASTBILLS",
-              "active": true
-            }
-          ],
+          "hasDropDown":true,
+          "dropdownData":[{"code":"PASTBILLS","active":true}],
           "required": true
         },
         {
           "documentType": "IDENTITYPROOF",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "DCB_CORRECTION"
           ],
-          "hasDropDown": true,
-          "hasToolTip": true,
+          "hasDropDown":true,
+          "hasToolTip":true,
           "toolTipData": [
             {
               "code": "IDENTITYPROOF.ELECTRICITYBILL",
@@ -449,17 +366,13 @@
         },
         {
           "documentType": "ADDRESSPROOF",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "DCB_CORRECTION"
           ],
-          "hasDropDown": true,
-          "hasToolTip": true,
+          "hasDropDown":true,
+          "hasToolTip":true,
           "toolTipData": [
             {
               "code": "ADDRESSPROOF.ELECTRICITYBILL",
@@ -512,57 +425,35 @@
       "allowedDocs": [
         {
           "documentType": "GOVTNOTIFICATION",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "ONE_TIME_SETTLEMENT"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "GOVTNOTIFICATION",
-              "active": true
-            }
-          ],
+          "hasDropDown":true,
+          "dropdownData":[{"code":"GOVTNOTIFICATION","active":true}],
           "required": true
         },
         {
           "documentType": "PASTBILLS",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "ONE_TIME_SETTLEMENT"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "PASTBILLS",
-              "active": true
-            }
-          ],
+          "hasDropDown":true,
+          "dropdownData":[{"code":"PASTBILLS","active":true}],
           "required": true
         },
         {
           "documentType": "IDENTITYPROOF",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "ONE_TIME_SETTLEMENT"
           ],
-          "hasDropDown": true,
-          "hasToolTip": true,
+          "hasDropDown":true,
+          "hasToolTip":true,
           "toolTipData": [
             {
               "code": "IDENTITYPROOF.ELECTRICITYBILL",
@@ -611,17 +502,13 @@
         },
         {
           "documentType": "ADDRESSPROOF",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "ONE_TIME_SETTLEMENT"
           ],
-          "hasDropDown": true,
-          "hasToolTip": true,
+          "hasDropDown":true,
+          "hasToolTip":true,
           "toolTipData": [
             {
               "code": "ADDRESSPROOF.ELECTRICITYBILL",
@@ -674,31 +561,21 @@
       "allowedDocs": [
         {
           "documentType": "OFFICENOTEORDER",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "REMISSION_FOR_PROPERTY_TAX"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "OFFICENOTEORDER",
-              "active": true
-            }
-          ],
+          "hasDropDown":true,
+          "dropdownData":[{"code":"OFFICENOTEORDER","active":true}],
           "required": true
-        },
-        {
+        },        {
           "documentType": "IDENTITYPROOF",
           "demandRevisionBasis": [
             "REMISSION_FOR_PROPERTY_TAX"
           ],
-          "hasDropDown": true,
-          "hasToolTip": true,
+          "hasDropDown":true,
+          "hasToolTip":true,
           "toolTipData": [
             {
               "code": "IDENTITYPROOF.ELECTRICITYBILL",
@@ -747,17 +624,13 @@
         },
         {
           "documentType": "ADDRESSPROOF",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "REMISSION_FOR_PROPERTY_TAX"
           ],
-          "hasDropDown": true,
-          "hasToolTip": true,
+          "hasDropDown":true,
+          "hasToolTip":true,
           "toolTipData": [
             {
               "code": "ADDRESSPROOF.ELECTRICITYBILL",
@@ -802,41 +675,27 @@
               "active": true
             }
           ],
-          "required": true
+          "required": true  
         },
         {
           "documentType": "SELFDECLARATION",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "REMISSION_FOR_PROPERTY_TAX"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "SELFDECLARATION",
-              "active": true
-            }
-          ],
-          "required": true
+          "hasDropDown":true,
+          "dropdownData":[{"code":"SELFDECLARATION","active":true}],
+          "required": true  
         },
         {
           "documentType": "PASTBILLS",
           "demandRevisionBasis": [
             "REMISSION_FOR_PROPERTY_TAX"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "PASTBILLS",
-              "active": true
-            }
-          ],
-          "required": true
+          "hasDropDown":true,
+          "dropdownData":[{"code":"PASTBILLS","active":true}],
+          "required": true  
         }
       ]
     },
@@ -844,22 +703,13 @@
       "allowedDocs": [
         {
           "documentType": "SELFDECLARATION",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "OTHERS"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "SELFDECLARATION",
-              "active": true
-            }
-          ],
+          "hasDropDown":true,
+          "dropdownData":[{"code":"SELFDECLARATION","active":true}],
           "required": true
         },
         {
@@ -867,48 +717,30 @@
           "demandRevisionBasis": [
             "OTHERS"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "SUPPORTINGDOCUMENT",
-              "active": true
-            }
-          ],
+          "hasDropDown":true,
+          "dropdownData":[{"code":"SUPPORTINGDOCUMENT","active":true}],
           "required": true
         },
         {
           "documentType": "PASTBILLS",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "OTHERS"
           ],
-          "hasDropDown": true,
-          "dropdownData": [
-            {
-              "code": "PASTBILLS",
-              "active": true
-            }
-          ],
+          "hasDropDown":true,
+          "dropdownData":[{"code":"PASTBILLS","active":true}],
           "required": true
         },
         {
           "documentType": "IDENTITYPROOF",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "OTHERS"
           ],
-          "hasDropDown": true,
-          "hasToolTip": true,
+          "hasDropDown":true,
+          "hasToolTip":true,
           "toolTipData": [
             {
               "code": "IDENTITYPROOF.ELECTRICITYBILL",
@@ -957,17 +789,13 @@
         },
         {
           "documentType": "ADDRESSPROOF",
-          "maxFileSize": 5000,
-          "allowedFormat": [
-            "image/*",
-            ".png",
-            ".jpeg"
-          ],
+          "maxFileSize":5000,
+          "allowedFormat": ["image/*", ".png", ".jpeg"],
           "demandRevisionBasis": [
             "OTHERS"
           ],
-          "hasDropDown": true,
-          "hasToolTip": true,
+          "hasDropDown":true,
+          "hasToolTip":true,
           "toolTipData": [
             {
               "code": "ADDRESSPROOF.ELECTRICITYBILL",

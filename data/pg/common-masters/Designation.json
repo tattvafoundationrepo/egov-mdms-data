@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg",
+  "tenantId": "pb",
   "moduleName": "common-masters",
   "Designation": [
     {
@@ -167,13 +167,13 @@
     {
       "name": "Accounts Officer",
       "description": "Accounts Officer",
-      "code": "AO",
+      "code": "DESIG_59",
       "active": true
     },
     {
       "name": "Commissioner",
       "description": "Commissioner",
-      "code": "COMM",
+      "code": "DESIG_60",
       "active": true
     }
   ]

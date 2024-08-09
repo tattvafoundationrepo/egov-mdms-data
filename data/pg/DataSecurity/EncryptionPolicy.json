@@ -1,5 +1,5 @@
 {
-    "tenantId" : "pg",
+    "tenantId" : "pb",
     "moduleName" : "DataSecurity",
     "EncryptionPolicy" : [
       {
@@ -99,6 +99,15 @@
             "jsonPath" : "icdcode",
             "type" : "Normal"
           } 
+        ]
+      },
+      {
+        "key" : "Property",
+        "attributeList" : [
+          {
+            "jsonPath" : "address/street",
+            "type" : "Normal"
+          }
         ]
       }
     ]

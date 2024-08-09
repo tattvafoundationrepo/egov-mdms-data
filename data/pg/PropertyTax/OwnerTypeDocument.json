@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg",
+  "tenantId": "pb",
   "moduleName": "PropertyTax",
   "OwnerTypeDocument": [
     {
@@ -31,12 +31,6 @@
       "name": "Defence ID proof",
       "code": "DEFENCEID",
       "ownerTypeCode": "DEFENSE",
-      "active": true
-    },
-    {
-      "name": "General ID proof",
-      "code": "GENERALID",
-      "ownerTypeCode": "GENERAL",
       "active": true
     }
   ]
