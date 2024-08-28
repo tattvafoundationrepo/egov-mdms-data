@@ -9,15 +9,15 @@
       "logoId": "https://ukpfms-digit-repo.s3.ap-south-1.amazonaws.com/logo.png",
       "imageId": "https://ukpfms-digit-repo.s3.ap-south-1.amazonaws.com/logo1.jpg",
       "domainUrl": "www.mcjalandhar.in",
-      "type": "STATE",
+      "type": "CITY",
       "twitterUrl": "https://twitter.com/search?q=%23jalandhar",
-      "facebookUrl": "https://www.facebook.com/city/jalandhar-Maharashtra",
+      "facebookUrl": "https://www.facebook.com/city/jalandhar-Punjab",
       "emailId": "complaints.mcj@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
-      "STATE": {
-        "name": "Maharashtra",
+      "city": {
+        "name": "Mumbai",
         "localName": null,
         "districtCode": null,
         "districtName": null,
@@ -28,19 +28,19 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "1013",
-        "ddrName": "Mumbai-MC"
+        "ddrName": "Jalandhar-MC"
       },
       "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, Jalandhar City-144001",
       "pincode": [],
       "contactNumber": "0181-2227015",
-      "pdfHeader": "MH_PDF_HEADER",
-      "pdfContactDetails": "MH_CONTACT_DETAILS"
+      "pdfHeader": "PB_PDF_HEADER",
+      "pdfContactDetails": "PB_CONTACT_DETAILS"
     },
     {
       "code": "mh.mumbai",
       "name": "Mumbai",
       "description": "Mumbai",
-      "logoId": "https://ukpfms-digit-repo.s3.ap-south-1.amazonaws.com/logo.png",
+      "logoId": "",
       "imageId": "",
       "domainUrl": "www.mcjalandhar.in",
       "type": "CITY",
@@ -65,10 +65,7 @@
         "ddrName": "Jalandhar-MC"
       },
       "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, Jalandhar City-144001",
-      "pincode": [
-        144001, 144002, 144003, 144004, 144005, 144006, 144007, 144008, 144009,
-        144010
-      ],
+      "pincode": [144001,144002,144003,144004,144005,144006,144007,144008,144009,144010],
       "contactNumber": "0181-2227015",
       "pdfHeader": "PB_JALANDHAR_PDF_HEADER",
       "pdfContactDetails": "PB_JALANDHAR_CONTACT_DETAILS"
