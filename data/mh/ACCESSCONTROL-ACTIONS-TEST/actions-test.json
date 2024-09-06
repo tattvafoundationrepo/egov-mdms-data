@@ -21719,7 +21719,7 @@
       "name": "BMC_CITIZEN_MYAPPLICATION",
       "url": "digit-ui-card",
       "displayName": "View applications by Citizen",
-      "orderNumber": 1,
+      "orderNumber": 2,
       "parentModule": "BMC",
       "enabled": true,
       "serviceCode": "",
