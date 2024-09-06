@@ -27141,6 +27141,12 @@
       "actionid": 5005,
       "actioncode": "",
       "tenantId": "mh"
+    },
+	   {
+      "rolecode": "CITIZEN",
+      "actionid": 5005,
+      "actioncode": "",
+      "tenantId": "mh"
     }
 
   ]
