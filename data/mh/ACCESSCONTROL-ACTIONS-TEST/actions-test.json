@@ -21713,6 +21713,22 @@
       "leftIcon": "PersonIcon",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 5005,
+      "name": "BMC_CITIZEN_MYAPPLICATION",
+      "url": "digit-ui-card",
+      "displayName": "View applications by Citizen",
+      "orderNumber": 1,
+      "parentModule": "BMC",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/bmc/allApplications",
+      "leftIcon": "PersonIcon",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
