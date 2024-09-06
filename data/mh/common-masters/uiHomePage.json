@@ -44,6 +44,13 @@
                         "navigationUrl": "/digit-ui/citizen/bmc/aadhaarLogin"
                     },
                     {
+                        "code": "BMC_CITIZEN_APPLICATIONS",
+                        "name": "Application Status",
+                        "label": "BMC_CITIZEN_APPLICATIONS",
+                        "enabled": true,
+                        "navigationUrl": "/digit-ui/citizen/bmc/allApplications"
+                    },
+                    {
                         "code": "CITIZEN_SERVICE_PT",
                         "name": "Property Tax",
                         "label": "MODULE_PT",
