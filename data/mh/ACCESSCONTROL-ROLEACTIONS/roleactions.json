@@ -25470,30 +25470,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2294,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2295,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2296,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2297,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
+    
     
     {
       "rolecode": "CITIZEN",
