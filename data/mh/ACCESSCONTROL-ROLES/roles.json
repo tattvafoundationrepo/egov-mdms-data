@@ -676,6 +676,16 @@
       "code": "BMC_PLANNING_DEPT_USER",
       "name": "Bmc Planning dept user",
       "description": " BMC planner"
+    },
+    {
+      "code": "DEONAR_DEPT_USER",
+      "name": "Deonar Dept User",
+      "description": " Deonar Dept user"
+    },
+    {
+      "code": "EBE_DEPT_USER",
+      "name": "Ebe dept user",
+      "description": "Ebe Dept user"
     }
   ]
 }
