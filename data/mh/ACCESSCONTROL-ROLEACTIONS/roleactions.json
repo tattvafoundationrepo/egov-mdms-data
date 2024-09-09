@@ -25532,12 +25532,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2301,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
+   
     {
       "rolecode": "CITIZEN",
       "actionid": 2302,
