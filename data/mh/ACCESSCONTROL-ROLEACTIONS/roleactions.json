@@ -17984,12 +17984,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1817,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
+   
     {
       "rolecode": "SUPERUSER",
       "actionid": 1820,
@@ -25040,12 +25035,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2255,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
+    
     {
       "rolecode": "CITIZEN",
       "actionid": 2256,
@@ -25220,12 +25210,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2255,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
+   
     {
       "rolecode": "CITIZEN",
       "actionid": 2256,
@@ -25274,12 +25259,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2268,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
+    
     {
       "rolecode": "CITIZEN",
       "actionid": 2269,
@@ -25514,25 +25494,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2298,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2299,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2300,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-   
+    
     {
       "rolecode": "CITIZEN",
       "actionid": 2302,
@@ -25545,24 +25507,8 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2304,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2305,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2306,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
+   
+    
     {
       "rolecode": "CITIZEN",
       "actionid": 2307,
@@ -25581,36 +25527,14 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2310,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2311,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2312,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
+   
     {
       "rolecode": "CITIZEN",
       "actionid": 1957,
       "actioncode": "",
       "tenantId": "mh"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2389,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
+    
     {
       "rolecode": "TL_CEMP",
       "actionid": 2313,
@@ -26373,18 +26297,8 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2365,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2367,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
+    
+   
     {
       "rolecode": "CITIZEN",
       "actionid": 2368,
@@ -26511,12 +26425,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 2377,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
+   
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2378,
@@ -27047,18 +26956,6 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-	   {
-      "rolecode": "APP_VERIFIER",
-      "actionid": 1742,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-    {
-      "rolecode": "APP_VERIFIER",
-      "actionid": 1743,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
     {
       "rolecode": "APP_VERIFIER",
       "actionid": 1729,
@@ -27107,7 +27004,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-	      {
+    {
       "rolecode": "APP_APPROVER",
       "actionid": 1742,
       "actioncode": "",
@@ -27131,18 +27028,17 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-	  {
+    {
       "rolecode": "CITIZEN",
       "actionid": 5005,
       "actioncode": "",
       "tenantId": "mh"
     },
-	   {
-      "rolecode": "CITIZEN",
+    {
+      "rolecode": "SUPERUSER",
       "actionid": 5005,
       "actioncode": "",
       "tenantId": "mh"
     }
-
   ]
 }
