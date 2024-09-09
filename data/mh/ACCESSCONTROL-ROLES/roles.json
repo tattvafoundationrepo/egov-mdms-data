@@ -671,6 +671,11 @@
       "code": "APP_APPROVER",
       "name": "Aplication Approver",
       "description": "Approves BMC Scheme Application."
+    },
+    {
+      "code": "BMC_PLANNING_DEPT_USER",
+      "name": "Bmc Planning dept user",
+      "description": " BMC planner"
     }
   ]
 }
