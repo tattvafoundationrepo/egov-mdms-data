@@ -42,8 +42,8 @@
       ]
     },
     {
-      "module": "PGR",
-      "code": "PGR",
+      "module": "REPORTS",
+      "code": "REPORTS",
       "bannerImage": "https://egov-qa-assets.s3.amazonaws.com/PGR.png",
       "active": true,
       "order": 1,
