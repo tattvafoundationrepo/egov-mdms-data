@@ -21005,6 +21005,44 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/bmc/allApplications"
-    }
+    },
+    {
+        "id": 6001,
+        "name": "EmployeeReport",
+        "url": "url",
+        "displayName": "Employee Report",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": true,
+        "serviceCode": "",
+        "code": "null",
+        "path": "HRMS.Reports.EmployeeReport",
+        "navigationURL": "report/hrms/EmployeeReport",
+        "leftIcon": "action:assignment",
+        "rightIcon": ""
+      },
+      {
+        "id": 6002,
+        "name": "RainmakerHRMS-EmployeeReport-Metadata",
+        "url": "/report/hrms/EmployeeReport/metadata/_get",
+        "displayName": "Rainmaker Employee report",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "EmployeeReport",
+        "code": "null",
+        "path": "Employee Report"
+      },
+      {
+        "id": 6003,
+        "name": "EmployeeReport",
+        "url": "/report/hrms/EmployeeReport/_get",
+        "displayName": "Employee Report",
+        "orderNumber": 0,
+        "enabled": false,
+        "serviceCode": "EmployeeReport",
+        "code": "null",
+        "path": "Employee Report"
+      }
+      
   ]
 }
