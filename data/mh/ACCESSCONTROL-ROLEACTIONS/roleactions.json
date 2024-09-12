@@ -27016,6 +27016,24 @@
       "actionid": 5005,
       "actioncode": "",
       "tenantId": "mh"
+    },
+	   {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 6001,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 6002,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 6003,
+      "actioncode": "",
+      "tenantId": "mh"
     }
   ]
 }
