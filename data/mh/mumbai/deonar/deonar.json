@@ -84,129 +84,129 @@
     "gait": [
         {
             "code": "1",
-            "name": "No Abnormality Detected (NAD)"
-        },
-        {
-            "code": "2",
             "name": "Staggering gait"
         },
         {
-            "code": "3",
+            "code": "2",
             "name": "Circling"
         },
         {
-            "code": "4",
+            "code": "3",
             "name": "Isolated"
         },
         {
-            "code": "5",
+            "code": "4",
             "name": "Other"
+        },
+        {
+            "code": "5",
+            "name": "No Abnormality Detected (NAD)"
         }
     ],
     "posture": [
         {
             "code": "1",
-            "name": "No Abnormality Detected (NAD) (No Abnormality Detected)"
-        },
-        {
-            "code": "2",
             "name": "Downer"
         },
         {
-            "code": "3",
+            "code": "2",
             "name": "Lateral Recumbency"
         },
         {
-            "code": "4",
+            "code": "3",
             "name": "Other"
+        },
+        {
+            "code": "4",
+            "name": "No Abnormality Detected (NAD)"
         }
     ],
     "bodyTemp": [
         {
             "code": "1",
-            "name": "No Abnormality Detected (NAD)"
+            "name": "Other"
         },
         {
             "code": "2",
-            "name": "Other"
+            "name": "No Abnormality Detected (NAD)"
         }
     ],
     "pulseRate": [
         {
             "code": "1",
-            "name": "No Abnormality Detected (NAD)"
+            "name": "Other"
         },
         {
             "code": "2",
-            "name": "Other"
+            "name": "No Abnormality Detected (NAD)"
         }
     ],
     "appetite": [
         {
             "code": "1",
-            "name": "No Abnormality Detected (NAD)"
-        },
-        {
-            "code": "2",
             "name": "Reduced appetite"
         },
         {
-            "code": "3",
+            "code": "2",
             "name": "Anorrhexia"
         },
         {
-            "code": "4",
+            "code": "3",
             "name": "Not Known"
         },
         {
-            "code": "5",
+            "code": "4",
             "name": "Other"
+        },
+        {
+            "code": "5",
+            "name": "No Abnormality Detected (NAD)"
         }
     ],
     "eyes": [
         {
             "code": "1",
-            "name": "No Abnormality Detected (NAD)"
-        },
-        {
-            "code": "2",
             "name": "Swollen"
         },
         {
-            "code": "3",
+            "code": "2",
             "name": "Red Conjunctiva"
         },
         {
-            "code": "4",
+            "code": "3",
             "name": "Lacrimation"
+        },
+        {
+            "code": "4",
+            "name": "No Abnormality Detected (NAD)"
         }
     ],
     "nostrils": [
         {
             "code": "1",
-            "name": "No Abnormality Detected (NAD)"
-        },
-        {
-            "code": "2",
             "name": "Nasal Secretion"
         },
         {
-            "code": "3",
+            "code": "2",
             "name": "Other"
+        },
+        {
+            "code": "3",
+            "name": "No Abnormality Detected (NAD)"
         }
     ],
     "muzzle": [
         {
             "code": "1",
-            "name": "No Abnormality Detected (NAD)"
-        },
-        {
-            "code": "2",
             "name": "Scabs"
         },
         {
-            "code": "3",
+            "code": "2",
             "name": "Others"
+        },
+        {
+            "code": "3",
+            "name": "No Abnormality Detected (NAD)"
         }
     ],
     "opinion": [
