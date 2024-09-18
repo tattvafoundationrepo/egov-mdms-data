@@ -1,174 +1,222 @@
 {
     "tenantId": "mh.mumbai",
     "moduleName": "deonar",
-    "importTypeOptions": [
-        {
-            "name": "IMPORT_TYPE_1",
-            "code": "1"
-        },
-        {
-            "name": "IMPORT_TYPE_2",
-            "code": "2"
-        }
-    ],
-    "traderNameOptions": [
-        {
-            "name": "TRADER_1",
-            "code": "1"
-        },
-        {
-            "name": "TRADER_2",
-            "code": "2"
-        }
-    ],
-    "vehicleTypeOptions": [
-        {
-            "name": "VEHICLE_TYPE_1",
-            "code": "1"
-        },
-        {
-            "name": "VEHICLE_TYPE_2",
-            "code": "2"
-        }
-    ],
-    "shadeNumberOptions": [
-        {
-            "name": "SHADE_1",
-            "code": "1"
-        },
-        {
-            "name": "SHADE_2",
-            "code": "2"
-        }
-    ],
-    "Sex": [
+    "species": [
         {
             "code": "1",
-            "name": "FEMALE"
+            "name": "Caprine"
         },
         {
             "code": "2",
-            "name": "MALE"
+            "name": "Ovine"
         },
         {
             "code": "3",
-            "name": "NAN"
+            "name": "Caprine/Ovine"
+        }
+    ],
+    "breed": [
+        {
+            "code": "1",
+            "name": "Non descripteur (ND)"
+        },
+        {
+            "code": "2",
+            "name": "Other"
+        }
+    ],
+    "sex": [
+        {
+            "code": "1",
+            "name": "Male"
+        },
+        {
+            "code": "2",
+            "name": "Female"
+        },
+        {
+            "code": "3",
+            "name": "Male/Female (mIf)"
         }
     ],
     "bodyColor": [
         {
             "code": "1",
-            "name": "WHITE"
+            "name": "Mixed"
         },
         {
             "code": "2",
-            "name": "BLACK"
+            "name": "Black"
         },
         {
             "code": "3",
-            "name": "BROWN"
+            "name": "White"
         },
         {
             "code": "4",
-            "name": "NAN"
+            "name": "Brown"
+        },
+        {
+            "code": "5",
+            "name": "Other"
+        }
+    ],
+    "pregnancy": [
+        {
+            "code": "1",
+            "name": "Yes"
+        },
+        {
+            "code": "2",
+            "name": "No"
+        }
+    ],
+    "approxAge": [
+        {
+            "code": "1",
+            "name": ">3m"
+        },
+        {
+            "code": "2",
+            "name": "Other"
+        }
+    ],
+    "gait": [
+        {
+            "code": "1",
+            "name": "No Abnormality Detected (NAD)"
+        },
+        {
+            "code": "2",
+            "name": "Staggering gait"
+        },
+        {
+            "code": "3",
+            "name": "Circling"
+        },
+        {
+            "code": "4",
+            "name": "Isolated"
+        },
+        {
+            "code": "5",
+            "name": "Other"
+        }
+    ],
+    "posture": [
+        {
+            "code": "1",
+            "name": "No Abnormality Detected (NAD) (No Abnormality Detected)"
+        },
+        {
+            "code": "2",
+            "name": "Downer"
+        },
+        {
+            "code": "3",
+            "name": "Lateral Recumbency"
+        },
+        {
+            "code": "4",
+            "name": "Other"
+        }
+    ],
+    "bodyTemp": [
+        {
+            "code": "1",
+            "name": "No Abnormality Detected (NAD)"
+        },
+        {
+            "code": "2",
+            "name": "Other"
+        }
+    ],
+    "pulseRate": [
+        {
+            "code": "1",
+            "name": "No Abnormality Detected (NAD)"
+        },
+        {
+            "code": "2",
+            "name": "Other"
+        }
+    ],
+    "appetite": [
+        {
+            "code": "1",
+            "name": "No Abnormality Detected (NAD)"
+        },
+        {
+            "code": "2",
+            "name": "Reduced appetite"
+        },
+        {
+            "code": "3",
+            "name": "Anorrhexia"
+        },
+        {
+            "code": "4",
+            "name": "Not Known"
+        },
+        {
+            "code": "5",
+            "name": "Other"
         }
     ],
     "eyes": [
         {
             "code": "1",
-            "name": "EYES_1"
+            "name": "No Abnormality Detected (NAD)"
         },
         {
             "code": "2",
-            "name": "EYES_2"
+            "name": "Swollen"
         },
         {
             "code": "3",
-            "name": "NAN"
+            "name": "Red Conjunctiva"
+        },
+        {
+            "code": "4",
+            "name": "Lacrimation"
         }
     ],
     "nostrils": [
         {
             "code": "1",
-            "name": "NOSTRILS_1"
+            "name": "No Abnormality Detected (NAD)"
         },
         {
             "code": "2",
-            "name": "NOSTRILS_2"
+            "name": "Nasal Secretion"
         },
         {
             "code": "3",
-            "name": "NAN"
+            "name": "Other"
         }
     ],
     "muzzle": [
         {
             "code": "1",
-            "name": "MUZZLE_1"
+            "name": "No Abnormality Detected (NAD)"
         },
         {
             "code": "2",
-            "name": "MUZZLE_2"
+            "name": "Scabs"
         },
         {
             "code": "3",
-            "name": "NAN"
+            "name": "Others"
         }
     ],
-    "visibleMucusMembrane": [
+    "opinion": [
         {
             "code": "1",
-            "name": "MUCUS_PRESENT"
+            "name": "Fit for slaughter"
         },
         {
             "code": "2",
-            "name": "MUCUS_ABSENT"
-        },
-        {
-            "code": "3",
-            "name": "NAN"
-        }
-    ],
-    "pelvicCavity": [
-        {
-            "code": "1",
-            "name": "OPTION_1"
-        },
-        {
-            "code": "2",
-            "name": "OPTION_2"
-        },
-        {
-            "code": "3",
-            "name": "NAN"
-        }
-    ],
-    "specimenCollection": [
-        {
-            "code": "1",
-            "name": "YES"
-        },
-        {
-            "code": "2",
-            "name": "NO"
-        },
-        {
-            "code": "3",
-            "name": "NAN"
-        }
-    ],
-    "specialObservation": [
-        {
-            "code": "1",
-            "name": "YES"
-        },
-        {
-            "code": "2",
-            "name": "NO"
-        },
-        {
-            "code": "3",
-            "name": "NAN"
+            "name": "Not presented for slaughter"
         }
     ]
 }
