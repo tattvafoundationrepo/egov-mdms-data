@@ -1,0 +1,174 @@
+{
+    "tenantId": "mh.mumbai",
+    "moduleName": "deonar",
+    "importTypeOptions": [
+        {
+            "name": "IMPORT_TYPE_1",
+            "code": "1"
+        },
+        {
+            "name": "IMPORT_TYPE_2",
+            "code": "2"
+        }
+    ],
+    "traderNameOptions": [
+        {
+            "name": "TRADER_1",
+            "code": "1"
+        },
+        {
+            "name": "TRADER_2",
+            "code": "2"
+        }
+    ],
+    "vehicleTypeOptions": [
+        {
+            "name": "VEHICLE_TYPE_1",
+            "code": "1"
+        },
+        {
+            "name": "VEHICLE_TYPE_2",
+            "code": "2"
+        }
+    ],
+    "shadeNumberOptions": [
+        {
+            "name": "SHADE_1",
+            "code": "1"
+        },
+        {
+            "name": "SHADE_2",
+            "code": "2"
+        }
+    ],
+    "Sex": [
+        {
+            "code": "1",
+            "name": "FEMALE"
+        },
+        {
+            "code": "2",
+            "name": "MALE"
+        },
+        {
+            "code": "3",
+            "name": "NAN"
+        }
+    ],
+    "bodyColor": [
+        {
+            "code": "1",
+            "name": "WHITE"
+        },
+        {
+            "code": "2",
+            "name": "BLACK"
+        },
+        {
+            "code": "3",
+            "name": "BROWN"
+        },
+        {
+            "code": "4",
+            "name": "NAN"
+        }
+    ],
+    "eyes": [
+        {
+            "code": "1",
+            "name": "EYES_1"
+        },
+        {
+            "code": "2",
+            "name": "EYES_2"
+        },
+        {
+            "code": "3",
+            "name": "NAN"
+        }
+    ],
+    "nostrils": [
+        {
+            "code": "1",
+            "name": "NOSTRILS_1"
+        },
+        {
+            "code": "2",
+            "name": "NOSTRILS_2"
+        },
+        {
+            "code": "3",
+            "name": "NAN"
+        }
+    ],
+    "muzzle": [
+        {
+            "code": "1",
+            "name": "MUZZLE_1"
+        },
+        {
+            "code": "2",
+            "name": "MUZZLE_2"
+        },
+        {
+            "code": "3",
+            "name": "NAN"
+        }
+    ],
+    "visibleMucusMembrane": [
+        {
+            "code": "1",
+            "name": "MUCUS_PRESENT"
+        },
+        {
+            "code": "2",
+            "name": "MUCUS_ABSENT"
+        },
+        {
+            "code": "3",
+            "name": "NAN"
+        }
+    ],
+    "pelvicCavity": [
+        {
+            "code": "1",
+            "name": "OPTION_1"
+        },
+        {
+            "code": "2",
+            "name": "OPTION_2"
+        },
+        {
+            "code": "3",
+            "name": "NAN"
+        }
+    ],
+    "specimenCollection": [
+        {
+            "code": "1",
+            "name": "YES"
+        },
+        {
+            "code": "2",
+            "name": "NO"
+        },
+        {
+            "code": "3",
+            "name": "NAN"
+        }
+    ],
+    "specialObservation": [
+        {
+            "code": "1",
+            "name": "YES"
+        },
+        {
+            "code": "2",
+            "name": "NO"
+        },
+        {
+            "code": "3",
+            "name": "NAN"
+        }
+    ]
+}
