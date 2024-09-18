@@ -1334,5 +1334,14 @@
 				]
 			}
 		}
+	},
+	"deonar":{
+		"deonar":{
+			"masterName":"Sex",
+			"isStateLevel": false,
+			"uniqueKeys": [
+				"$.code"
+			]
+		}
 	}
 }
