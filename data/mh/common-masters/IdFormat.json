@@ -5,6 +5,11 @@
     {
       "format": "MH-BMC-[cy:yyyy-MM-dd]-[SEQ_EG_BMC_ID]",
       "idname": "bmc.schemeapplicationid"
+    },
+    {
+      "format": "MH-ENQ-[cy:yyyy-MM-dd]-[SEQ_EG_BMC_ID]",
+      "idname": "enq.enquiryid"
     }
+    
   ]
 }
