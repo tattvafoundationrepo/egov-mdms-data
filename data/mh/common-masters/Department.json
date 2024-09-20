@@ -3,69 +3,249 @@
   "moduleName": "common-masters",
   "Department": [
     {
-      "name": "Street Lights",
-      "code": "DEPT_1",
+      "name": "महानगरपालिका चिटणीस खाते",
+      "code": "PA01",
       "active": true
-    },
-    {
-      "name": "Building & Roads",
-      "code": "DEPT_2",
+     },
+     {
+      "name": "लेखा परीक्षक खाते",
+      "code": "PA02",
       "active": true
-    },
-    {
-      "name": "Health & Sanitation",
-      "code": "DEPT_3",
+     },
+     {
+      "name": "मनपा आयुक्त कार्यालय",
+      "code": "PA03",
       "active": true
-    },
-    {
-      "name": "Operation & Maintenance",
-      "code": "DEPT_4",
+     },
+     {
+      "name": "लेखा विभाग",
+      "code": "PA04",
       "active": true
-    },
-    {
-      "name": "Horticulture",
-      "code": "DEPT_5",
+     },
+     {
+      "name": "सुरक्षा खाते",
+      "code": "PA05",
       "active": true
-    },
-    {
-      "name": "Building Branch",
-      "code": "DEPT_6",
+     },
+     {
+      "name": "पाणी पुरवठा व मलनिःसारण खाते",
+      "code": "PA06",
       "active": true
-    },
-    {
-      "name": "Citizen service desk",
-      "code": "DEPT_7",
+     },
+     {
+      "name": "मध्यवर्ती खरेदी प्राधिकरण खाते",
+      "code": "PA07",
       "active": true
-    },
-    {
-      "name": "Complaint Cell",
-      "code": "DEPT_8",
+     },
+     {
+      "name": "कामगार खाते",
+      "code": "PA08",
       "active": true
-    },
-    {
-      "name": "Executive Branch",
-      "code": "DEPT_9",
+     },
+     {
+      "name": "जनसंपर्क आणि संपादक खाते",
+      "code": "PA09",
       "active": true
-    },
-    {
-      "name": "Others",
-      "code": "DEPT_10",
+     },
+     {
+      "name": "मुंबई अग्निशमन दल",
+      "code": "PA10",
       "active": true
-    },
-    {
-      "name": "Tax Branch",
-      "code": "DEPT_13",
+     },
+     {
+      "name": "चौकशी खाते",
+      "code": "PA11",
       "active": true
-    },
-    {
-      "name": "Accounts Branch",
-      "code": "DEPT_25",
+     },
+     {
+      "name": "करनिर्धारण व संकलन खाते",
+      "code": "PA12",
       "active": true
-    },
-    {
-      "name": "Works Branch",
-      "code": "DEPT_35",
+     },
+     {
+      "name": "विधी खाते",
+      "code": "PA13",
       "active": true
-    }
+     },
+     {
+      "name": "घन कचरा व्यवस्थापन खाते",
+      "code": "PA14",
+      "active": true
+     },
+     {
+      "name": "पर्जन्य जलवाहिन्या खाते",
+      "code": "PA15",
+      "active": true
+     },
+     {
+      "name": "यांत्रिकी व विद्युत खाते",
+      "code": "PA16",
+      "active": true
+     },
+     {
+      "name": "विकास व नियोजन खाते",
+      "code": "PA17",
+      "active": true
+     },
+     {
+      "name": "नगर अभियंता खाते",
+      "code": "PA18",
+      "active": true
+     },
+     {
+      "name": "जल अभियंता खाते",
+      "code": "PA19",
+      "active": true
+     },
+     {
+      "name": "पाणी पुरवठा प्रकल्प खाते",
+      "code": "PA20",
+      "active": true
+     },
+     {
+      "name": "मलनि:सारण प्रचालने खाते",
+      "code": "PA21",
+      "active": true
+     },
+     {
+      "name": "मलनि:सारण प्रकल्प",
+      "code": "PA22",
+      "active": true
+     },
+     {
+      "name": "नागरी प्रशि संस्था संशो केंद्र",
+      "code": "PA23",
+      "active": true
+     },
+     {
+      "name": "रस्ते व वाहतुक खाते",
+      "code": "PA24",
+      "active": true
+     },
+     {
+      "name": "प्रकल्प नियोजन व नियंत्रण कक्ष",
+      "code": "PA25",
+      "active": true
+     },
+     {
+      "name": "मुंबई मलनि:सारण प्रकल्प",
+      "code": "PA26",
+      "active": true
+     },
+     {
+      "name": "अनुज्ञापन खाते",
+      "code": "PA27",
+      "active": true
+     },
+     {
+      "name": "शिक्षण खाते",
+      "code": "PA28",
+      "active": true
+     },
+     {
+      "name": "उद्याने व करमणूक खाते",
+      "code": "PA29",
+      "active": true
+     },
+     {
+      "name": "दुकाने व आस्थापना खाते",
+      "code": "PA30",
+      "active": true
+     },
+     {
+      "name": "महानगरपालिका मुद्रणालय़",
+      "code": "PA31",
+      "active": true
+     },
+     {
+      "name": "सार्वजनिक आरोग्य खाते",
+      "code": "PA32",
+      "active": true
+     },
+     {
+      "name": "राएस्मारू व गोसूवैद्यमहाविद्या",
+      "code": "PA33",
+      "active": true
+     },
+     {
+      "name": "लोटिमस रू व वैद्य महाविद्यालय",
+      "code": "PA34",
+      "active": true
+     },
+     {
+      "name": "बायलनायर रू व टोरा वैमहाविद्या",
+      "code": "PA35",
+      "active": true
+     },
+     {
+      "name": "नायर रूग्णालय दंत महाविद्यालय",
+      "code": "PA36",
+      "active": true
+     },
+     {
+      "name": "देवनार पशुवधगृह",
+      "code": "PA37",
+      "active": true
+     },
+     {
+      "name": "नियोजन खाते",
+      "code": "PA38",
+      "active": true
+     },
+     {
+      "name": "मालमत्ता खाते",
+      "code": "PA63",
+      "active": true
+     },
+     {
+      "name": "बाजार खाते",
+      "code": "PA64",
+      "active": true
+     },
+     {
+      "name": "अतिक्रमण व निर्मुलन खाते",
+      "code": "PA65",
+      "active": true
+     },
+     {
+      "name": "माहिती व तंत्रज्ञान खाते",
+      "code": "PA66",
+      "active": true
+     },
+     {
+      "name": "उपनगरीय रूग्णालये",
+      "code": "PA67",
+      "active": true
+     },
+     {
+      "name": "आपत्कालीन व्यवस्थापन खाते",
+      "code": "PA68",
+      "active": true
+     },
+     {
+      "name": "पूल खाते",
+      "code": "PA69",
+      "active": true
+     },
+     {
+      "name": "डॉ रूस्तम न कूपर मनपा वैद्य मह",
+      "code": "PA70",
+      "active": true
+     },
+     {
+      "name": "प्राणीसंग्रहालय",
+      "code": "PA71",
+      "active": true
+     },
+     {
+      "name": "किनारे रस्ता प्रकल्प",
+      "code": "PA72",
+      "active": true
+     },
+     {
+      "name": "इमारत परिरक्षण खाते",
+      "code": "PA73",
+      "active": true
+     }
   ]
 }
