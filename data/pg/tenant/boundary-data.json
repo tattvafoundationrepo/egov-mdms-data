@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pg",
+        "code": "pg.citya",
         "children": [
           {
             "id": "8f047fe7-b9ea-479d-8742-2030ecff37c7",
