@@ -1,4 +1,7 @@
-[
+{
+    "tenantId": "pg",
+    "moduleName": "TradeLicense",
+    "CommonFieldsConfig":[
     {
         "head": "",
         "body": [
@@ -546,3 +549,4 @@
         ]
     }
 ]
+}
