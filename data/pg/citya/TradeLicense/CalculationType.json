@@ -13,6 +13,12 @@
       "accessory":"SUM",
       "financialYear": "2017-18",
       "active": true
+    },
+     {
+      "tradeType": "SUM",
+      "accessory":"SUM",
+      "financialYear": "2024-25",
+      "active": true
     }
 ]
 }
