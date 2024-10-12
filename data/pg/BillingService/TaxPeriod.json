@@ -19,6 +19,14 @@
       "financialYear": "2023-24"
     },
     {
+      "fromDate": 1711946077000,
+      "toDate": 1743395677000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2024",
+      "financialYear": "2024-25"
+    },
+    {
       "fromDate": 1680287400000,
       "toDate": 1711909799000,
       "periodCycle": "ANNUAL",
@@ -145,6 +153,14 @@
       "service": "TL",
       "code": "TLAN2023",
       "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1711946077000,
+      "toDate": 1743395677000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2024",
+      "financialYear": "2024-25"
     },
     {
       "fromDate": 1522540800000,
@@ -593,6 +609,14 @@
       "service": "TL",
       "code": "TLRENEWAL2022",
       "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1711946077000,
+      "toDate": 1743395677000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2024",
+      "financialYear": "2024-25"
     },
     {
       "fromDate": 1680287400000,
