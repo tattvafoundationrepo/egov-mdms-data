@@ -9,7 +9,11 @@
     {
       "format": "MH-ENQ-[cy:yyyy-MM-dd]-[SEQ_EG_ENQ_ID]",
       "idname": "enq.enquiryid"
-    }
+    },
+     {
+      "format": "MH-DEO-[cy:yyyy-MM-dd]-[SEQ_EG_DEO_ID]",
+      "idname": "deonar.paymentid"
+    }  
     
   ]
 }
