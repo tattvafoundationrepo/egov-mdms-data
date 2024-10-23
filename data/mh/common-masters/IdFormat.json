@@ -13,6 +13,10 @@
      {
       "format": "MH-DEO-[cy:yyyy-MM-dd]-[SEQ_EG_DEO_ID]",
       "idname": "deonar.paymentid"
+    },
+    {
+      "format": "MH-DEO-DD-[cy:yyyy-MM-dd]-[SEQ_EG_DD_ID]",
+      "idname": "deonar.ddrefid"
     }  
     
   ]
