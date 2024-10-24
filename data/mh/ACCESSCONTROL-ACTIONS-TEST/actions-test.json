@@ -21021,6 +21021,38 @@
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
+    },
+     {
+      "id": 5007,
+      "name": "rainmaker-localization-screen",
+      "url": "url",
+      "displayName": "Departmental Enquiry",
+      "orderNumber": 7,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "EBE",
+      "navigationURL": "integration/ui-localisation/localization",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 5008,
+      "name": "rainmaker-localization-screen",
+      "url": "url",
+      "displayName": "Deonar",
+      "orderNumber": 8,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "DEONAR",
+      "navigationURL": "integration/ui-localisation/localization",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
     }
       
   ]
