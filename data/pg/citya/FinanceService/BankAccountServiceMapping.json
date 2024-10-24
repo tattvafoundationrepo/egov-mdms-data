@@ -29,6 +29,13 @@
       "bank": "ICICI Bank",
       "bankBranch": "ICIC550",
       "tenantId": "pg.citya"
-    } 
+    },
+    {
+      "businessDetails": "PT",
+      "bankAccount": "909090909090",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICIC550",
+      "tenantId": "pg.citya"
+    }
   ]
 }
