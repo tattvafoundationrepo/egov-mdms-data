@@ -90,7 +90,7 @@
                 "sideOption": {
                     "name": "DASHBOARD_VIEW_ALL_LABEL",
                     "enabled": true,
-                    "navigationUrl": ""
+                    "navigationUrl": "https://www.mcgm.gov.in/irj/portal/anonymous"
                   }
             },
             "whatsAppBannerDesktop":
@@ -99,7 +99,7 @@
                 "name": "WhatsApp Banner Desktop View",
                 "bannerUrl": "https://s3.ap-south-1.amazonaws.com/egov-qa-assets/whatsapp-web.jpg",
                 "enabled": true,
-                "navigationUrl": ""
+                "navigationUrl": "https://www.mcgm.gov.in/irj/portal/anonymous"
             },
             "whatsAppBannerMobile":
             {
@@ -107,7 +107,7 @@
                 "name": "WhatsApp Banner Mobile View",
                 "bannerUrl": "https://s3.ap-south-1.amazonaws.com/egov-qa-assets/whatsapp-mobile.jpg",
                 "enabled": true,
-                "navigationUrl": ""
+                "navigationUrl": "https://www.mcgm.gov.in/irj/portal/anonymous"
             }
         }  
     ]
