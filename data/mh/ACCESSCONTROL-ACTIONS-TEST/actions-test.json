@@ -21053,7 +21053,25 @@
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
+    },
+     {
+      "id": 5009,
+      "name": "rainmaker-common",
+      "url": "url",
+      "displayName": "BMC",
+      "orderNumber": 6,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "BMC.VERIFY",
+      "navigationURL": "integration/ui-localisation/localization",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
     }
+
+
       
   ]
 }
