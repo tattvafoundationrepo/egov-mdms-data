@@ -45,9 +45,6 @@
       "tenantId": "mh"
     },
     {
-      "rolecode": "APP_VERIFIER",
-      "actionid": 5006,
-      "ac
       "rolecode": "RO",
       "actionid": 429,
       "actioncode": "",
