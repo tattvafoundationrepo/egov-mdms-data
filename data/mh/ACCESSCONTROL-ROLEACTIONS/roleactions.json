@@ -26,7 +26,28 @@
       "actioncode": "",
       "tenantId": "mh"
     },
+    { {
+      "rolecode": "SUPERUSER",
+      "actionid": 5006,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
     {
+      "rolecode": "APP_RANDOMIZER",
+      "actionid": 5006,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "APP_APPROVER",
+      "actionid": 5006,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "APP_VERIFIER",
+      "actionid": 5006,
+      "ac
       "rolecode": "RO",
       "actionid": 429,
       "actioncode": "",
@@ -27038,6 +27059,30 @@
     {
       "rolecode": "APP_VERIFIER",
       "actionid": 5006,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+	   {
+      "rolecode": "SUPERUSER",
+      "actionid": 5007,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "APP_RANDOMIZER",
+      "actionid": 5007,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5008,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "APP_VERIFIER",
+      "actionid": 5008,
       "actioncode": "",
       "tenantId": "mh"
     }
