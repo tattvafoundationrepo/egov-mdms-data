@@ -27045,23 +27045,12 @@
       "tenantId": "mh"
     },
     {
-      "rolecode": "APP_RANDOMIZER",
+      "rolecode": "BMC_PLANNING_DEPT_USER",
       "actionid": 5006,
       "actioncode": "",
       "tenantId": "mh"
     },
-    {
-      "rolecode": "APP_APPROVER",
-      "actionid": 5006,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-    {
-      "rolecode": "APP_VERIFIER",
-      "actionid": 5006,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
+    
 	   {
       "rolecode": "SUPERUSER",
       "actionid": 5007,
@@ -27099,7 +27088,7 @@
       "tenantId": "mh"
     },
 	  {
-      "rolecode": "APP_VERIFIER",
+      "rolecode": "BMC_PLANNING_DEPT_USER",
       "actionid": 5009,
       "actioncode": "",
       "tenantId": "mh"
