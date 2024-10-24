@@ -21005,6 +21005,22 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/bmc/allApplications"
+    },
+      {
+      "id": 5006,
+      "name": "rainmaker-localization-screen",
+      "url": "url",
+      "displayName": "Social Welfare",
+      "orderNumber": 6,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "BMC",
+      "navigationURL": "integration/ui-localisation/localization",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
     }
       
   ]
