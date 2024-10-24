@@ -21046,7 +21046,7 @@
     },
     {
       "id": 5009,
-      "name": "rainmaker-BMC",
+      "name": "rainmaker-bmc",
       "url": "url",
       "displayName": "VERIFY APPLICATIONS",
       "orderNumber": 9,
@@ -21062,7 +21062,7 @@
     },
     {
       "id": 5010,
-      "name": "rainmaker-BMC",
+      "name": "rainmaker-bmc",
       "url": "url",
       "displayName": "RANDOMIZE APPLICATIONS",
       "orderNumber": 9,
@@ -21078,7 +21078,7 @@
     },
     {
       "id": 5011,
-      "name": "rainmaker-BMC",
+      "name": "rainmaker-bmc",
       "url": "url",
       "displayName": "APPROVE APPLICATIONS",
       "orderNumber": 9,
