@@ -19963,7 +19963,6 @@
       "code": "null",
       "path": ""
     },
-   
     {
       "id": 2313,
       "name": "WnsReceiptRegisterReport",
@@ -20189,7 +20188,6 @@
       "leftIcon": "custom:library-books",
       "rightIcon": ""
     },
-  
     {
       "id": 2331,
       "name": "BND certificate search",
@@ -20520,7 +20518,6 @@
       "code": "null",
       "path": ""
     },
-    
     {
       "id": 2360,
       "name": "TL",
@@ -20557,7 +20554,6 @@
       "code": "null",
       "path": ""
     },
-   
     {
       "id": 2364,
       "name": "Inbox api for dss search",
@@ -20569,8 +20565,6 @@
       "code": "null",
       "path": ""
     },
-   
-   
     {
       "id": 2368,
       "name": "WS Payment search",
@@ -20679,8 +20673,6 @@
       "code": "null",
       "path": ""
     },
-    
-    
     {
       "id": 2378,
       "name": "Dashboard IFIX",
@@ -20816,8 +20808,6 @@
       "code": "null",
       "path": ""
     },
-   
-   
     {
       "id": 2392,
       "name": "FSM zeropricing Create",
@@ -21006,7 +20996,7 @@
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/bmc/allApplications"
     },
-     {
+    {
       "id": 5006,
       "name": "rainmaker-common",
       "url": "url",
@@ -21054,7 +21044,7 @@
       "rightIcon": "",
       "queryParams": ""
     },
-     {
+    {
       "id": 5009,
       "name": "rainmaker-BMC",
       "url": "url",
@@ -21102,8 +21092,5 @@
       "rightIcon": "",
       "queryParams": ""
     }
-
-
-      
   ]
 }

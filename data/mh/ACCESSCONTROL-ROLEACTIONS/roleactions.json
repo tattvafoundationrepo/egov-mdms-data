@@ -26,7 +26,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    { 
+    {
       "rolecode": "SUPERUSER",
       "actionid": 5006,
       "actioncode": "",
@@ -18002,7 +18002,6 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-   
     {
       "rolecode": "SUPERUSER",
       "actionid": 1820,
@@ -22689,7 +22688,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-     {
+    {
       "rolecode": "CITIZEN",
       "actionid": 2061,
       "actioncode": "",
@@ -25053,7 +25052,6 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    
     {
       "rolecode": "CITIZEN",
       "actionid": 2256,
@@ -25228,7 +25226,6 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-   
     {
       "rolecode": "CITIZEN",
       "actionid": 2256,
@@ -25277,7 +25274,6 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    
     {
       "rolecode": "CITIZEN",
       "actionid": 2269,
@@ -25488,8 +25484,6 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    
-    
     {
       "rolecode": "CITIZEN",
       "actionid": 2302,
@@ -25502,8 +25496,6 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-   
-    
     {
       "rolecode": "CITIZEN",
       "actionid": 2307,
@@ -25522,14 +25514,12 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-   
     {
       "rolecode": "CITIZEN",
       "actionid": 1957,
       "actioncode": "",
       "tenantId": "mh"
     },
-    
     {
       "rolecode": "TL_CEMP",
       "actionid": 2313,
@@ -26292,8 +26282,6 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    
-   
     {
       "rolecode": "CITIZEN",
       "actionid": 2368,
@@ -26420,7 +26408,6 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-   
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2378,
@@ -26451,7 +26438,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-     {
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 2382,
       "actioncode": "",
@@ -26511,19 +26498,19 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-	  {
+    {
       "rolecode": "FSM_EDITOR_EMP",
       "actionid": 2388,
       "actioncode": "",
       "tenantId": "mh"
     },
-	  {
+    {
       "rolecode": "REINDEXING_ROLE",
       "actionid": 1897,
       "actioncode": "",
       "tenantId": "mh"
     },
-	  {
+    {
       "rolecode": "REINDEXING_ROLE",
       "actionid": 695,
       "actioncode": "",
@@ -26637,8 +26624,6 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    
-    
     {
       "rolecode": "TL_CEMP",
       "actionid": 1864,
@@ -26789,31 +26774,31 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-	   {
+    {
       "rolecode": "FSM_ADMIN",
       "actionid": 2392,
       "actioncode": "",
       "tenantId": "mh"
     },
-	 {
+    {
       "rolecode": "FSM_ADMIN",
       "actionid": 2393,
       "actioncode": "",
       "tenantId": "mh"
     },
-	 {
+    {
       "rolecode": "FSM_ADMIN",
       "actionid": 2394,
       "actioncode": "",
       "tenantId": "mh"
     },
-	 {
+    {
       "rolecode": "FSM_CREATOR_EMP",
       "actionid": 2394,
       "actioncode": "",
       "tenantId": "mh"
     },
-	{
+    {
       "rolecode": "CITIZEN",
       "actionid": 2394,
       "actioncode": "",
@@ -26824,7 +26809,7 @@
       "actionid": 2395,
       "actioncode": "",
       "tenantId": "mh"
-    },  
+    },
     {
       "rolecode": "EMPLOYEE",
       "actionid": 2396,
@@ -27035,7 +27020,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-	  {
+    {
       "rolecode": "SUPERUSER",
       "actionid": 5006,
       "actioncode": "",
@@ -27047,8 +27032,7 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-    
-	   {
+    {
       "rolecode": "SUPERUSER",
       "actionid": 5007,
       "actioncode": "",
@@ -27072,56 +27056,38 @@
       "actioncode": "",
       "tenantId": "mh"
     },
-	  {
+    {
       "rolecode": "APP_VERIFIER",
       "actionid": 5009,
       "actioncode": "",
       "tenantId": "mh"
     },
-	  {
+    {
       "rolecode": "SUPERUSER",
       "actionid": 5009,
       "actioncode": "",
       "tenantId": "mh"
     },
-   {
-      "rolecode": "BMC_PLANNING_DEPT_USER",
-      "actionid": 5009,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-	  {
+    {
       "rolecode": "APP_RANDOMIZER",
       "actionid": 5010,
       "actioncode": "",
       "tenantId": "mh"
     },
-	  {
+    {
       "rolecode": "SUPERUSER",
       "actionid": 5010,
       "actioncode": "",
       "tenantId": "mh"
     },
-   {
-      "rolecode": "BMC_PLANNING_DEPT_USER",
-      "actionid": 5010,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-	  {
+    {
       "rolecode": "APP_APPROVER",
       "actionid": 5011,
       "actioncode": "",
       "tenantId": "mh"
     },
-	  {
+    {
       "rolecode": "SUPERUSER",
-      "actionid": 5011,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-   {
-      "rolecode": "BMC_PLANNING_DEPT_USER",
       "actionid": 5011,
       "actioncode": "",
       "tenantId": "mh"
