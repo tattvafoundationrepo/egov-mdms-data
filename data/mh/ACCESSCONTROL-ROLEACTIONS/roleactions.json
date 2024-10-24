@@ -27085,6 +27085,24 @@
       "actionid": 5008,
       "actioncode": "",
       "tenantId": "mh"
-    }
+    },
+	  {
+      "rolecode": "APP_VERIFIER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+	  {
+      "rolecode": "SUPERUSER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+	  {
+      "rolecode": "APP_VERIFIER",
+      "actionid": 5009,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
   ]
 }
