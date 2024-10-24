@@ -21016,7 +21016,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "BMC",
+      "path": "",
       "navigationURL": "integration/ui-localisation/localization",
       "leftIcon": "places:business-center",
       "rightIcon": "",
