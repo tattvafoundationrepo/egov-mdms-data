@@ -27069,7 +27069,7 @@
       "tenantId": "mh"
     },
     {
-      "rolecode": "APP_RANDOMIZER",
+      "rolecode": "EBE_DEPT_USER",
       "actionid": 5007,
       "actioncode": "",
       "tenantId": "mh"
@@ -27081,7 +27081,7 @@
       "tenantId": "mh"
     },
     {
-      "rolecode": "APP_VERIFIER",
+      "rolecode": "DEONAR_DEPT_USER",
       "actionid": 5008,
       "actioncode": "",
       "tenantId": "mh"
