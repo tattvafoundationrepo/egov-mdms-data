@@ -27089,6 +27089,42 @@
       "actionid": 5009,
       "actioncode": "",
       "tenantId": "mh"
+    },
+	  {
+      "rolecode": "APP_RANDOMIZER",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+	  {
+      "rolecode": "SUPERUSER",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+   {
+      "rolecode": "BMC_PLANNING_DEPT_USER",
+      "actionid": 5010,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+	  {
+      "rolecode": "APP_APPROVER",
+      "actionid": 5011,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+	  {
+      "rolecode": "SUPERUSER",
+      "actionid": 5011,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+   {
+      "rolecode": "BMC_PLANNING_DEPT_USER",
+      "actionid": 5011,
+      "actioncode": "",
+      "tenantId": "mh"
     }
   ]
 }
