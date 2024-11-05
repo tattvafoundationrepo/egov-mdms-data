@@ -209,14 +209,36 @@
             "name": "No Abnormality Detected (NAD)"
         }
     ],
-    "opinion": [
+    "AnteMortemInspectionOpinion": [
         {
             "code": "1",
             "name": "Fit for slaughter"
         },
         {
             "code": "2",
-            "name": "Not presented for slaughter"
+            "name": "Not fit for slaughter"
+        },
+        {
+            "code": "3",
+            "name": "Need to re-inspect"
+        },
+        {
+            "code": "4",
+            "name": "Dead"
+        }
+    ],
+    "PostmortemInspectionOpinion": [
+        {
+            "code": "1",
+            "name": "Passed"
+        },
+        {
+            "code": "2",
+            "name": "Complete Condemnation"
+        },
+        {
+            "code": "3",
+            "name": "Partially Condemnation"
         }
     ]
 }
