@@ -1,0 +1,16 @@
+{
+    "tenantId": "gm.brikama",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "gm.brikama"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "gm.brikama"
+        }
+    ]
+}

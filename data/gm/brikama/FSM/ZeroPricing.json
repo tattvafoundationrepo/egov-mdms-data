@@ -1,0 +1,9 @@
+{
+    "tenantId": "gm.brikama",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}
