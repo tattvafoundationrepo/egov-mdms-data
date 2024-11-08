@@ -7,11 +7,11 @@
         "reminderInterval": 12345
       },
       {
-        "tenantId": "pg.cityb",
+        "tenantId": "gm.cityb",
         "reminderInterval": 12345
       },
       {
-        "tenantId": "pg.cityc",
+        "tenantId": "gm.cityc",
         "reminderInterval": 12345  
       }
     ]

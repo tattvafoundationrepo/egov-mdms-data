@@ -111,7 +111,7 @@
       ]
     },
     {
-      "code": "pg.cityb",
+      "code": "gm.cityb",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -167,7 +167,7 @@
       ]
     },
     {
-      "code": "pg.cityb",
+      "code": "gm.cityb",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -873,7 +873,7 @@
       ]
     },
     {
-      "code": "pg.cityb",
+      "code": "gm.cityb",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {
@@ -883,7 +883,7 @@
       ]
     },
     {
-      "code": "pg.balasore",
+      "code": "gm.balasore",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {
