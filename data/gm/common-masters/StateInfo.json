@@ -3,8 +3,8 @@
   "moduleName": "common-masters",
   "StateInfo": [
     {
-      "name": "brikama",
-      "code": "gm.brikama",
+      "name": "Gambia",
+      "code": "gm",
       "qrCodeURL":"https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
       "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
       "logoUrl": "https://staging.digit.org/pg-egov-assets/mseva-logo-colored.png",
