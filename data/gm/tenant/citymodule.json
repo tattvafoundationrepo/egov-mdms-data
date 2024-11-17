@@ -9,6 +9,9 @@
       "active": true,
       "order":2,
       "tenants": [
+	{
+          "code": "gm"
+        },
         {
           "code": "gm.brikama"
         },
@@ -34,6 +37,9 @@
       "active": true,
       "order":1,
       "tenants": [
+	{
+          "code": "gm"
+        },
         {
           "code": "gm.brikama"
         },
@@ -74,6 +80,9 @@
       "active": false,
       "order":4,
       "tenants": [
+	{
+          "code": "gm"
+        },
         {
           "code": "gm.brikama"
         },
@@ -98,6 +107,9 @@
       "active": true,
       "order":2,
       "tenants": [
+	{
+          "code": "gm"
+        },
         {
           "code": "gm.brikama"
         },
@@ -121,6 +133,9 @@
       "active": false,
       "order":2,
       "tenants": [
+	{
+          "code": "gm"
+        },
         {
           "code": "gm.brikama"
         },
@@ -144,6 +159,9 @@
       "active": false,
       "order":2,
       "tenants": [
+	{
+          "code": "gm"
+        },
         {
           "code": "gm.brikama"
         },
@@ -168,6 +186,9 @@
       "active": true,
       "order":2,
       "tenants": [
+	{
+          "code": "gm"
+        },
         {
           "code": "gm.brikama"
         },
