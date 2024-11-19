@@ -688,14 +688,24 @@
       "description": "Ebe Dept user"
     },
     {
-      "code": "DEONAR_DEPT_USER",
-      "name": "Deonar Dept User",
-      "description": " Deonar Dept user"
+      "code": "DEONAR_GENERIC",
+      "name": "Deonar Generic User",
+      "description": "Deonar Generic User"
     },
     {
-      "code": "EBE_DEPT_USER",
-      "name": "Ebe dept user",
-      "description": "Ebe Dept user"
+      "code": "DEONAR_COLLECTION",
+      "name": "Deonar Collection User",
+      "description": "Deonar Collection User"
+    },
+    {
+      "code": "DEONAR_INSPECTION",
+      "name": "Deonar Inspection User",
+      "description": "Deonar Inspection User"
+    },
+    {
+      "code": "DEONAR_COUNTER",
+      "name": "Deonar Counter User",
+      "description": "Deonar Counter User"
     }
   ]
 }
