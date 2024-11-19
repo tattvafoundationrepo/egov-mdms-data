@@ -17,7 +17,11 @@
     {
       "format": "MH-DEO-DD-[cy:yyyy-MM-dd]-[SEQ_EG_DD_ID]",
       "idname": "deonar.ddrefid"
-    }  
+    },
+    {
+      "format": "MH-DEO-PEN-[cy:yyyy-MM-dd]-[SEQ_EG_DD_ID]",
+      "idname": "deonar.penaltyid"
+    }    
     
   ]
 }
