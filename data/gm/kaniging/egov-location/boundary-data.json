@@ -1,0 +1,218 @@
+{
+  "tenantId": "gm.kaniging",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": [
+        {
+          "id": "1",
+          "boundaryNum": 1,
+          "name": "Kanifing Municipal Council",
+          "localname": "Kanifing Municipal Council",
+          "longitude": null,
+          "latitude": null,
+          "label": "City",
+          "code": "gm.kaniging",
+          "children": [
+            {
+              "id": "1",
+              "boundaryNum": 1,
+              "name": "Mangrove",
+              "localname": "Mangrove",
+              "longitude": 13.44639,
+              "latitude": -16.67444,
+              "label": "Zone",
+              "code": "KMC01",
+              "children": [
+                {
+                  "id": "1611e8cc-c631-43f4-8972-3574aee2ed06",
+                  "boundaryNum": 1,
+                  "name": "Mangrove",
+                  "localname": "Mangrove",
+                  "address": "Mangrove",
+                  "longitude": 13.44639,
+                  "latitude": -16.67444,
+                  "label": "Block",
+                  "code": "KMC01_WD01",
+                  "area": "",
+                  "children": [
+                    {
+                      "id": "faa264b6-4d4a-4285-8552-f7114ccbf661",
+                      "boundaryNum": 1,
+                      "name": "Mangrove",
+                      "localname": "Mangrove",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "Ward",
+                      "code": "KMC01_WD01_S01",
+                      "area": "",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "boundaryNum": 2,
+              "name": "Sere Kunda West",
+              "localname": "Sere Kunda West",
+              "longitude": 13.44155,
+              "latitude": -16.70857,
+              "label": "Zone",
+              "code": "KMC02",
+              "children": [
+                {
+                  "id": "1611e8cc-c631-43f4-8972-3574aee32hdhh2",
+                  "boundaryNum": 2,
+                  "name": "Kololi",
+                  "localname": "Kololi",
+                  "address": "Kololi",
+                  "longitude": 13.45,
+                  "latitude": -16.71667,
+                  "label": "Block",
+                  "code": "KMC02_WD01",
+                  "area": "",
+                  "children": [
+                    {
+                      "id": "faa264b6-4d4a-4285-8552-f7114ccbf661",
+                      "boundaryNum": 1,
+                      "name": "Kololi beach",
+                      "localname": "Kololi beach",
+                      "longitude": 13.44727,
+                      "latitude": -16.72368,
+                      "label": "Ward",
+                      "code": "KMC02_WD01_S01",
+                      "area": "",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "1611e8cc-c631-43f4-8972-3574aee32hdhh2",
+                  "boundaryNum": 4,
+                  "name": "Dippa Kunda",
+                  "localname": "Dippa Kunda",
+                  "address": "Dippa Kunda",
+                  "longitude": 13.43813,
+                  "latitude": -16.68793,
+                  "label": "Block",
+                  "code": "KMC02_WD03",
+                  "area": "",
+                  "children": [
+                    {
+                      "id": "faa264b6-4d4a-4285-8552-f7114ccbf661",
+                      "boundaryNum": 5,
+                      "name": "Dippa Kunda",
+                      "localname": "Dippa Kunda",
+                      "longitude": 13.43813,
+                      "latitude": -16.68793,
+                      "label": "Ward",
+                      "code": "KMC02_WD03_S01",
+                      "area": "",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "1611e8cc-c631-43f4-8972-3574aee32hdhh2",
+                  "boundaryNum": 5,
+                  "name": "Sere Kunda and London Corner",
+                  "localname": "Sere Kunda and London Corner",
+                  "address": "Sere Kunda and London Corner",
+                  "longitude": 13.433567,
+                  "latitude": -16.685239,
+                  "label": "Block",
+                  "code": "KMC02_WD04",
+                  "area": "",
+                  "children": [
+                    {
+                      "id": "faa264b6-4d4a-4285-8552-f7114ccbf661",
+                      "boundaryNum": 6,
+                      "name": "Bakoteh",
+                      "localname": "Bakoteh",
+                      "longitude": 13.43,
+                      "latitude": -16.69833,
+                      "label": "Ward",
+                      "code": "KMC02_WD04_S01",
+                      "area": "",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "id": "1611e8cc-c631-43f4-8972-3574aee32hdhh2",
+                  "boundaryNum": 6,
+                  "name": "Latri Kunda Yiringanya",
+                  "localname": "Latri Kunda Yiringanya",
+                  "address": "Latri Kunda Yiringanya",
+                  "longitude": 13.44861,
+                  "latitude": -16.68528,
+                  "label": "Block",
+                  "code": "KMC02_WD05",
+                  "area": "",
+                  "children": [
+                    {
+                      "id": "faa264b6-4d4a-4285-8552-f7114ccbf661",
+                      "boundaryNum": 7,
+                      "name": "Serrekunda West",
+                      "localname": "Serrekunda West",
+                      "longitude": 13.44679,
+                      "latitude": -16.67795,
+                      "label": "Ward",
+                      "code": "KMC02_WD05_S01",
+                      "area": "",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "boundaryNum": 3,
+              "name": "Sere Kunda Central",
+              "localname": "Sere Kunda Central",
+              "longitude": 13.42464,
+              "latitude": -16.67963,
+              "label": "Zone",
+              "code": "KMC03",
+              "children": [
+                {
+                  "id": "1611e8cc-c631-43f4-8972-3574aee32hdhh2",
+                  "boundaryNum": 1,
+                  "name": "Kololi",
+                  "localname": "Kololi",
+                  "address": "Kololi",
+                  "longitude": 13.45,
+                  "latitude": -16.71667,
+                  "label": "Block",
+                  "code": "KMC02_WD01",
+                  "area": "",
+                  "children": [
+                    {
+                      "id": "faa264b6-4d4a-4285-8552-f7114ccbf661",
+                      "boundaryNum": 1,
+                      "name": "Kololi beach",
+                      "localname": "Kololi beach",
+                      "longitude": 13.44727,
+                      "latitude": -16.72368,
+                      "label": "Ward",
+                      "code": "KMC02_WD01_S01",
+                      "area": "",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

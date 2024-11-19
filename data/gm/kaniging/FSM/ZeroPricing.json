@@ -1,0 +1,9 @@
+{
+    "tenantId": "gm.kaniging",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}
