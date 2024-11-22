@@ -3337,7 +3337,7 @@
     {
       "name":"plywood modeling mica and glass",
       "code": "GOODS.WHOLESALE.TST-123",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
