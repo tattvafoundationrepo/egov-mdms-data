@@ -20971,12 +20971,12 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/bmc/aadhaarLogin",
+      "navigationURL": "/digit-ui/citizen/bmc/home",
       "leftIcon": "PersonIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/bmc/aadhaarLogin"
+      "sidebarURL": "/digit-ui/citizen/bmc/home"
     },
     {
       "id": 5005,
