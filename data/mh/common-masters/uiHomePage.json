@@ -35,7 +35,7 @@
                         "name": "Welfare Schemes",
                         "label": "ES_WEL_HEADER_WELFARE",
                         "enabled": true,
-                        "navigationUrl": "/digit-ui/citizen/bmc/aadhaarLogin"
+                        "navigationUrl": "/digit-ui/citizen/bmc/home"
                     }
                 ]
             },
