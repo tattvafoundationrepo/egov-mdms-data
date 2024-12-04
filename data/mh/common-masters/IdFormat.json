@@ -23,7 +23,7 @@
       "idname": "deonar.penaltyid"
     }, 
     {
-      "format": "MH-DEO-GP-[cy:yyyy-MM-dd]-[SEQ_EG_DD_ID]",
+      "format": "MH-DEO-GP-[cy:yyyy-MM-dd]-[SEQ_EG_GP_ID]",
       "idname": "deonar.gatepassid"
     }   
     
