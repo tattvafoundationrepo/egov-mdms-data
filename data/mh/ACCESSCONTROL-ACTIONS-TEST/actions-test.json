@@ -21091,6 +21091,38 @@
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
+    },
+    {
+      "id": 5012,
+      "name": "BMC",
+      "url": "url",
+      "displayName": "REPORTS",
+      "orderNumber": 6,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BMC",
+      "code": "",
+      "path": "BMC.REPORTS",
+      "navigationURL": "integration/ui-localisation/localization",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 5013,
+      "name": "BMC",
+      "url": "url",
+      "displayName": "DASHBOARD",
+      "orderNumber": 6,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "BMC",
+      "code": "",
+      "path": "BMC.REPORTS.DASHBOARD",
+      "navigationURL": "/digit-ui/employee/bmc/inbox",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
     }
   ]
 }
