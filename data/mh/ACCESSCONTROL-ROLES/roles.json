@@ -706,6 +706,21 @@
       "code": "DEONAR_COUNTER",
       "name": "Deonar Counter User",
       "description": "Deonar Counter User"
+    },
+    {
+      "code": "DEONAR_REP_VIEW",
+      "name": "Deonar Report Viewer",
+      "description": "Deonar Report Viewer"
+    },
+    {
+      "code": "BMC_REP_VIEW",
+      "name": "BMC Report Viewer",
+      "description": "BMC Report Viewer"
+    },
+    {
+      "code": "EBE_REP_VIEW",
+      "name": "EBE Report Viewer",
+      "description": "EBE Report Viewer"
     }
   ]
 }
