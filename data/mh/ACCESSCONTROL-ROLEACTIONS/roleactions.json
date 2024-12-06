@@ -27103,6 +27103,18 @@
       "actionid": 5013,
       "actioncode": "",
       "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5012,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "BMC_REP_VIEW",
+      "actionid": 5012,
+      "actioncode": "",
+      "tenantId": "mh"
     }
   ]
 }
