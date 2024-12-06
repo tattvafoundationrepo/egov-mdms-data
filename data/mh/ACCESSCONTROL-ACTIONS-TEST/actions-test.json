@@ -21118,7 +21118,7 @@
       "enabled": true,
       "serviceCode": "BMC",
       "code": "",
-      "path": "REPORTS.BMC.DASHBOARD",
+      "path": "REPORTS.DASHBOARD",
       "navigationURL": "/digit-ui/employee/bmc/inbox",
       "leftIcon": "places:business-center",
       "rightIcon": "",
