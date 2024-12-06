@@ -21097,7 +21097,7 @@
       "name": "BMC",
       "url": "url",
       "displayName": "DASHBOARD",
-      "orderNumber": 11,
+      "orderNumber": 9,
       "parentModule": "",
       "enabled": true,
       "serviceCode": "BMC",
