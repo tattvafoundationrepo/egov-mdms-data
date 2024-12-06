@@ -27091,6 +27091,19 @@
       "actionid": 5011,
       "actioncode": "",
       "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 5013,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    ,
+    {
+      "rolecode": "BMC_REP_VIEW",
+      "actionid": 5013,
+      "actioncode": "",
+      "tenantId": "mh"
     }
   ]
 }
