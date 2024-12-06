@@ -21094,7 +21094,7 @@
     },
     {
       "id": 5012,
-      "name": "BMC",
+      "name": "REPORTS",
       "url": "url",
       "displayName": "REPORTS",
       "orderNumber": 10,
@@ -21110,7 +21110,7 @@
     },
     {
       "id": 5013,
-      "name": "BMC",
+      "name": "REPORTS",
       "url": "url",
       "displayName": "DASHBOARD",
       "orderNumber": 11,
@@ -21118,7 +21118,7 @@
       "enabled": true,
       "serviceCode": "BMC",
       "code": "",
-      "path": "REPORTS.DASHBOARD",
+      "path": "REPORTS.BMC.DASHBOARD",
       "navigationURL": "/digit-ui/employee/bmc/inbox",
       "leftIcon": "places:business-center",
       "rightIcon": "",
