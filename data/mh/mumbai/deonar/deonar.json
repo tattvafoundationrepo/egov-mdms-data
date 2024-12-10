@@ -240,5 +240,15 @@
             "code": "3",
             "name": "Partially Condemnation"
         }
+    ],
+    "slaughterType": [
+        {
+            "code": "1",
+            "name": "Normal"
+        },
+        {
+            "code": "2",
+            "name": "Emergency"
+        }
     ]
 }
