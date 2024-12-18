@@ -1,1 +1,16 @@
-
+{
+    "tenantId": "mh.mumbai",
+    "moduleName": "BMC",
+    "FAQs": [
+        {
+            "code": "1",
+            "question": "WHAT IS BMC",
+            "answer": "BMC IS A DIGITAL PLATFORM"
+        },
+        {
+            "code": "2",
+            "question": "HOW TO USE BMC",
+            "answer": "BMC IS A DIGITAL PLATFORM"
+        }
+    ]
+}
