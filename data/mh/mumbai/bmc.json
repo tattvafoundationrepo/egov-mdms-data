@@ -3,18 +3,89 @@
     "moduleName": "bmc",
     "faqs": [
         {
-            "name": "WHAT IS BMC",
+            "question": "Question-1",
             "answer": [
                 {
-                    "ans": "BMC IS A DIGITAL PLATFORM"
+                    "ans": "Answer-1"
                 }
             ]
         },
         {
-            "name": "HOW TO USE BMC",
+            "question": "Question-2",
             "answer": [
                 {
-                    "ans": "BMC IS A DIGITAL PLATFORM"
+                    "ans": "Answer-2"
+                }
+            ]
+        },
+        {
+            "question": "Question-3",
+            "answer": [
+                {
+                    "ans": "Answer-3"
+                }
+            ]
+        },
+        {
+            "question": "Question-4",
+            "answer": [
+                {
+                    "ans": "Answer-4"
+                }
+            ]
+        },
+        {
+            "question": "Question-5",
+            "answer": [
+                {
+                    "ans": "Answer-5"
+                }
+            ]
+        },
+        {
+            "question": "Question-6",
+            "answer": [
+                {
+                    "ans": "Answer-6"
+                }
+            ]
+        },
+        {
+            "question": "Question-7",
+            "answer": [
+                {
+                    "ans": "Answer-7"
+                }
+            ]
+        },
+        {
+            "question": "Question-8",
+            "answer": [
+                {
+                    "ans": "Answer-8"
+                },
+                {
+                    "point": "Point-1"
+                }
+            ]
+        },
+        {
+            "question": "Question-9",
+            "answer": [
+                {
+                    "point": "Point-1"
+                },
+                {
+                    "point": "Point-2"
+                },
+                {
+                    "point": "Point-3"
+                },
+                {
+                    "point": "Point-4"
+                },
+                {
+                    "point": "Point-5"
                 }
             ]
         }
