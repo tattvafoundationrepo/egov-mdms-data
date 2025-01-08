@@ -21107,6 +21107,38 @@
       "leftIcon": "places:business-center",
       "rightIcon": "",
       "queryParams": ""
-    }
+    },
+    {
+      "id": 6010,
+      "name": "DEONAR",
+      "url": "url",
+      "displayName": "DEONAR ENTRY",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "DEONAR",
+      "code": "",
+      "path": "DEONAR.ENTRY",
+      "navigationURL": "/digit-ui/employee/deonar/securitycheck",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
+    },
+    {
+      "id": 6011,
+      "name": "DEONAR",
+      "url": "url",
+      "displayName": "ASSIGN SHOPKEEPER",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "DEONAR",
+      "code": "",
+      "path": "DEONAR.SHOPKEEPER",
+      "navigationURL": "/digit-ui/employee/deonar/s",
+      "leftIcon": "places:business-center",
+      "rightIcon": "",
+      "queryParams": ""
+    },
   ]
 }
