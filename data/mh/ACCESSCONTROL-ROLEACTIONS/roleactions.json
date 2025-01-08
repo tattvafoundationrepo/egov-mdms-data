@@ -27046,7 +27046,7 @@
     },
     {
       "rolecode": "SUPERUSER",
-      "actionid": 5008,
+      "actionid": 6000,
       "actioncode": "",
       "tenantId": "mh"
     },
@@ -27176,6 +27176,73 @@
       "actionid": 6010,
       "actioncode": "",
       "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 6000,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 6001,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 6002,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 6003,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 6004,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 6005,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 6006,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 6007,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 6008,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 6009,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 6010,
+      "actioncode": "",
+      "tenantId": "mh"
     }
+    
   ]
 }
