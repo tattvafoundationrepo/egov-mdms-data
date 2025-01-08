@@ -721,6 +721,46 @@
       "code": "EBE_REP_VIEW",
       "name": "EBE Report Viewer",
       "description": "EBE Report Viewer"
+    },
+    {
+      "code": "DEONAR_GENERIC_HELKARI",
+      "name": "Deonar Generic Helkari",
+      "description": "Deonar Generic Helkari"
+    },
+    {
+      "code": "DEONAR_COLLECTION_PENALTY",
+      "name": "Deonar Collection Penalty",
+      "description": "Deonar Collection Penalty"
+    },
+    {
+      "code": "DEONAR_SLAUGHTER",
+      "name": "Deonar Slaughter User",
+      "description": "Deonar Slaughter User"
+    },
+    {
+      "code": "DEONAR_COUNTER_GATEPASS",
+      "name": "Deonar Counter Gatepass",
+      "description": "Deonar Counter Gatepass"
+    },
+    {
+      "code": "DEONAR_GENERIC_GAWAL",
+      "name": "Deonar Generic Gawal",
+      "description": "Deonar Generic Gawal"
+    },
+    {
+      "code": "DEONAR_GENERIC_DAWANWALA",
+      "name": "Deonar Generic Dawanwala",
+      "description": "Deonar Generic Dawanwala"
+    },
+    {
+      "code": "DEONAR_GENERIC_SHOPKEEPER",
+      "name": "Deonar Generic Shopkeeper",
+      "description": "Deonar Generic Shopkeeper"
+    },
+    {
+      "code": "DEONAR_GENERIC_CITIZEN",
+      "name": "Deonar Generic Citizen",
+      "description": "Deonar Generic Citizen"
     }
   ]
 }
