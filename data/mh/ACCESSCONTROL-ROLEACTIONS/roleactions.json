@@ -27051,12 +27051,6 @@
       "tenantId": "mh"
     },
     {
-      "rolecode": "DEONAR_DEPT_USER",
-      "actionid": 5008,
-      "actioncode": "",
-      "tenantId": "mh"
-    },
-    {
       "rolecode": "APP_VERIFIER",
       "actionid": 5009,
       "actioncode": "",
@@ -27113,6 +27107,73 @@
     {
       "rolecode": "BMC_REP_VIEW",
       "actionid": 5012,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "DEONAR_DEPT_USER",
+      "actionid": 6000,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "DEONAR_DEPT_USER",
+      "actionid": 6001,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "DEONAR_DEPT_USER",
+      "actionid": 6002,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "DEONAR_DEPT_USER",
+      "actionid": 6003,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "DEONAR_DEPT_USER",
+      "actionid": 6004,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "DEONAR_DEPT_USER",
+      "actionid": 6005,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "DEONAR_DEPT_USER",
+      "actionid": 6006,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "DEONAR_DEPT_USER",
+      "actionid": 6007,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "DEONAR_DEPT_USER",
+      "actionid": 6008,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "DEONAR_DEPT_USER",
+      "actionid": 6009,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    
+    {
+      "rolecode": "DEONAR_DEPT_USER",
+      "actionid": 6010,
       "actioncode": "",
       "tenantId": "mh"
     }
