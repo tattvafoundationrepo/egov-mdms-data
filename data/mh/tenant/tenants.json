@@ -7,7 +7,7 @@
       "name": "Maharashtra",
       "description": "Maharashtra",
       "logoId": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/mSeva+BMC+logo.png",
-      "imageId": " https://gambia-terraform.s3.ap-south-1.amazonaws.com/image.png",
+      "imageId": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/mSeva+BMC+logo.png",
       "domainUrl": "https://www.mcgm.gov.in",
       "type": "STATE",
       "twitterUrl": "https://x.com/mybmc",
