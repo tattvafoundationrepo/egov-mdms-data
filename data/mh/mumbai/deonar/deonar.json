@@ -18,7 +18,7 @@
     "breed": [
         {
             "code": "1",
-            "name": "Non descripteur (ND)"
+            "name": "Non descript (ND)"
         },
         {
             "code": "2",
@@ -45,18 +45,6 @@
             "name": "Mixed"
         },
         {
-            "code": "2",
-            "name": "Black"
-        },
-        {
-            "code": "3",
-            "name": "White"
-        },
-        {
-            "code": "4",
-            "name": "Brown"
-        },
-        {
             "code": "5",
             "name": "Other"
         }
@@ -78,6 +66,10 @@
         },
         {
             "code": "2",
+            "name": "<3m"
+        },
+        {
+            "code": "3",
             "name": "Other"
         }
     ],
@@ -88,11 +80,11 @@
         },
         {
             "code": "2",
-            "name": "Circling"
+            "name": "Circling Movement"
         },
         {
             "code": "3",
-            "name": "Isolated"
+            "name": "Isolated from Flock"
         },
         {
             "code": "4",
@@ -144,7 +136,7 @@
     "appetite": [
         {
             "code": "1",
-            "name": "Reduced appetite"
+            "name": "Reduced Appetite"
         },
         {
             "code": "2",
@@ -152,7 +144,7 @@
         },
         {
             "code": "3",
-            "name": "Not Known"
+            "name": "No Known History"
         },
         {
             "code": "4",
@@ -170,21 +162,25 @@
         },
         {
             "code": "2",
-            "name": "Red Conjunctiva"
+            "name": "Congested Conjunctiva"
         },
         {
             "code": "3",
-            "name": "Lacrimation"
+            "name": "Lacrimation(++)"
         },
         {
             "code": "4",
             "name": "No Abnormality Detected (NAD)"
+        },
+        {
+            "code": "5",
+            "name": "Other"
         }
     ],
     "nostrils": [
         {
             "code": "1",
-            "name": "Nasal Secretion"
+            "name": "Nasal Secretion(++)"
         },
         {
             "code": "2",
@@ -209,46 +205,140 @@
             "name": "No Abnormality Detected (NAD)"
         }
     ],
-    "AnteMortemInspectionOpinion": [
+    "visibleMucusMembranes": [
         {
             "code": "1",
-            "name": "Fit for slaughter"
+            "name": "No Abnormality Detected (NAD)"
         },
         {
             "code": "2",
-            "name": "Not fit for slaughter"
+            "name": "Other"
+        }
+    ],
+    "thoracicCavity": [
+        {
+            "code": "1",
+            "name": "No Abnormality Detected (NAD)"
+        },
+        {
+            "code": "2",
+            "name": "Lungs: Haemorrhages/Congestion"
         },
         {
             "code": "3",
-            "name": "Need to re-inspect"
+            "name": "Lungs: Consolidated"
         },
         {
             "code": "4",
-            "name": "Dead"
+            "name": "Lungs: Abscess (Focal, small)"
+        },
+        {
+            "code": "5",
+            "name": "Lungs: Abscess (Single, Large)"
+        },
+        {
+            "code": "6",
+            "name": "Lungs: Abscess (Multiple)"
+        },
+        {
+            "code": "7",
+            "name": "Lungs: Cysts (focal)"
+        },
+        {
+            "code": "8",
+            "name": "Lungs: Cysts (multiple)"
+        },
+        {
+            "code": "9",
+            "name": "Lungs: Icteric discoloration (++)"
+        },
+        {
+            "code": "10",
+            "name": "Lungs: Icteric discoloration (+++)"
+        },
+        {
+            "code": "11",
+            "name": "Other"
         }
     ],
-    "PostmortemInspectionOpinion": [
+    "abdominalCavity": [
         {
             "code": "1",
-            "name": "Passed"
+            "name": "No Abnormality Detected (NAD)"
         },
         {
             "code": "2",
-            "name": "Complete Condemnation"
+            "name": "Liver: Swollen/Enlarged"
         },
         {
             "code": "3",
-            "name": "Partially Condemnation"
+            "name": "Liver: Abscess (Focal, small)"
+        },
+        {
+            "code": "4",
+            "name": "Liver: Abscess (Single, Large)"
+        },
+        {
+            "code": "5",
+            "name": "Liver: Abscess (Multiple)"
+        },
+        {
+            "code": "6",
+            "name": "Liver: Cysts (focal)"
+        },
+        {
+            "code": "7",
+            "name": "Liver: Cysts (multiple)"
+        },
+        {
+            "code": "8",
+            "name": "Liver: Necrotic patches"
+        },
+        {
+            "code": "9",
+            "name": "Liver: Necrotic tracts (Fasciolar)"
+        },
+        {
+            "code": "10",
+            "name": "Liver: Icteric discoloration (++)"
+        },
+        {
+            "code": "11",
+            "name": "Liver: Icteric discoloration (+++)"
+        },
+        {
+            "code": "12",
+            "name": "Other"
         }
     ],
-    "slaughterType": [
+    "pelvicCavity": [
         {
             "code": "1",
-            "name": "Normal"
+            "name": "No Abnormality Detected (NAD)"
         },
         {
             "code": "2",
-            "name": "Emergency"
+            "name": "Other"
+        }
+    ],
+    "specimenCollection": [
+        {
+            "code": "1",
+            "name": "No"
+        },
+        {
+            "code": "2",
+            "name": "Other"
+        }
+    ],
+    "specialObservation": [
+        {
+            "code": "1",
+            "name": "No"
+        },
+        {
+            "code": "2",
+            "name": "Other"
         }
     ]
 }
