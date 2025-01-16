@@ -13,6 +13,14 @@
         {
             "code": "3",
             "name": "Caprine/Ovine"
+        },
+        {
+            "code": "4",
+            "name": "Porcine"
+        },
+        {
+            "code": "5",
+            "name": "Bovine"
         }
     ],
     "breed": [
@@ -43,6 +51,18 @@
         {
             "code": "1",
             "name": "Mixed"
+        },
+        {
+            "code": "2",
+            "name": "White"
+        },
+        {
+            "code": "3",
+            "name": "Black"
+        },
+        {
+            "code": "4",
+            "name": "Black/White"
         },
         {
             "code": "5",
