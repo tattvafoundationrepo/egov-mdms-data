@@ -146,18 +146,18 @@
       "code": "DESIG_1001",
       "active": true
     },
-   {
+    {
       "name": "Accountant",
       "description": "Accountant",
       "code": "DESIG_58",
       "active": true
     },
-   {
+    {
       "code": "DESIG_24",
       "name": "Assistant Commissioner",
       "description": "Assistant Commissioner",
       "active": true
-    },    
+    },
     {
       "name": "Superintendent",
       "description": "Superintendent",
@@ -174,6 +174,60 @@
       "name": "Commissioner",
       "description": "Commissioner",
       "code": "DESIG_60",
+      "active": true
+    },
+    {
+      "name": "Veterinary Officer",
+      "description": "Veterinary Officer",
+      "code": "DESIG_61",
+      "active": true
+    },
+    {
+      "name": "General Manager",
+      "description": "General Manager",
+      "code": "DESIG_62",
+      "active": true
+    },
+    {
+      "name": "Asst. General Manager",
+      "description": "Asst. General Manager",
+      "code": "DESIG_63",
+      "active": true
+    },
+    {
+      "name": "Sr.Veterinary Officer",
+      "description": "Sr.Veterinary Officer",
+      "code": "DESIG_64",
+      "active": true
+    },
+    {
+      "name": "Inspector",
+      "description": "Inspector",
+      "code": "DESIG_65",
+      "active": true
+    },
+    {
+      "name": "Labour",
+      "description": "Labour",
+      "code": "DESIG_66",
+      "active": true
+    },
+    {
+      "name": "Dawan Assistant",
+      "description": "Dawan Assistant",
+      "code": "DESIG_67",
+      "active": true
+    },
+    {
+      "name": "Divisional Security Officer",
+      "description": "Divisional Security Officer",
+      "code": "DESIG_68",
+      "active": true
+    },
+    {
+      "name": "Security Guard",
+      "description": "Security Guard",
+      "code": "DESIG_69",
       "active": true
     }
   ]
