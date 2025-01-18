@@ -246,6 +246,17 @@
       "name": "इमारत परिरक्षण खाते",
       "code": "PA73",
       "active": true
+     },
+     {
+      "name": "सुरक्षा दल",
+      "code": "PA74",
+      "active": true
+     },
+     
+     {
+      "name": "Deonar",
+      "code": "PA75",
+      "active": true
      }
   ]
 }
