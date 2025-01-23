@@ -17261,7 +17261,7 @@
       "displayName": "Employee Report",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "",
       "code": "null",
       "path": "HRMS.Reports.EmployeeReport",
