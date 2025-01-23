@@ -21019,7 +21019,7 @@
       "displayName": "EBE",
       "orderNumber": 7,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "EBE",
       "code": "",
       "path": "EBE",
