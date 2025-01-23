@@ -229,6 +229,12 @@
       "description": "Security Guard",
       "code": "DESIG_79",
       "active": true
+    },
+     {
+      "name": "Social Development Officer",
+      "description": "Social Development Officer",
+      "code": "DESIG_80",
+      "active": true
     }
   ]
 }
