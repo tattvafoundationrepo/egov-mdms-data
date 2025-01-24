@@ -6,7 +6,7 @@
       "name": "Maharashtra",
       "code": "mh",
       "qrCodeURL": "https://bmc-prod-s3.s3.ap-south-1.amazonaws.com/bmc-images/logo.png",
-      "bannerUrl": "https://ukpfms-digit-repo.s3.ap-south-1.amazonaws.com/build.png",
+      "bannerUrl": "https://bmc-prod-s3.s3.ap-south-1.amazonaws.com/bmc-images/login-back.png",
       "logoUrl": "https://bmc-prod-s3.s3.ap-south-1.amazonaws.com/bmc-images/logo.png",
       "logoUrlWhite": "https://bmc-prod-s3.s3.ap-south-1.amazonaws.com/bmc-images/logo.png",
       "statelogo":"https://bmc-prod-s3.s3.ap-south-1.amazonaws.com/bmc-images/logo.png",
