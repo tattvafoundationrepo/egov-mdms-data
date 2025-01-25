@@ -7,14 +7,14 @@
             {
                 "code": "APP_BANNER_DESKTOP",
                 "name": "App Banner Desktop View",
-                "bannerUrl": "https://s3.ap-south-1.amazonaws.com/egov-qa-assets/app-banner-web.jpg",
+                "bannerUrl": "https://bmc-prod-s3.s3.ap-south-1.amazonaws.com/bmc-images/banner2forsmallscreen.png",
                 "enabled": true
             },
             "appBannerMobile":
             {
                 "code": "APP_BANNER_MOBILE",
                 "name": "App Banner Mobile View",
-                "bannerUrl": "https://s3.ap-south-1.amazonaws.com/egov-qa-assets/app-banner-mobile.jpg",
+                "bannerUrl": "https://bmc-prod-s3.s3.ap-south-1.amazonaws.com/bmc-images/banner2forsmallscreen.png",
                 "enabled": true
             },
             "citizenServicesCard":
@@ -97,7 +97,7 @@
             {
                 "code": "WHATSAPP_BANNER_DESKTOP",
                 "name": "WhatsApp Banner Desktop View",
-                "bannerUrl": "https://s3.ap-south-1.amazonaws.com/egov-qa-assets/whatsapp-web.jpg",
+                "bannerUrl": "https://bmc-prod-s3.s3.ap-south-1.amazonaws.com/bmc-images/banner2forsmallscreen.png",
                 "enabled": true,
                 "navigationUrl": "https://www.mcgm.gov.in/irj/portal/anonymous"
             },
@@ -105,7 +105,7 @@
             {
                 "code": "WHATSAPP_BANNER_MOBILE",
                 "name": "WhatsApp Banner Mobile View",
-                "bannerUrl": "https://s3.ap-south-1.amazonaws.com/egov-qa-assets/whatsapp-mobile.jpg",
+                "bannerUrl": "https://bmc-prod-s3.s3.ap-south-1.amazonaws.com/bmc-images/banner2forsmallscreen.png",
                 "enabled": true,
                 "navigationUrl": "https://www.mcgm.gov.in/irj/portal/anonymous"
             }
