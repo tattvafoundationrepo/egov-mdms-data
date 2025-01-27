@@ -34,6 +34,7 @@
                         "code": "CITIZEN_SERVICE_WEL",
                         "name": "Welfare Schemes",
                         "label": "ES_WEL_HEADER_WELFARE",
+                        "leftIcon": "PersonIcon",
                         "enabled": true,
                         "navigationUrl": "/digit-ui/citizen/bmc/bmc-home"
                     }
