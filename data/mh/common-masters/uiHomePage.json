@@ -3,22 +3,19 @@
     "moduleName": "common-masters",
     "uiHomePage": [
         {
-            "appBannerDesktop": 
-            {
+            "appBannerDesktop": {
                 "code": "APP_BANNER_DESKTOP",
                 "name": "App Banner Desktop View",
                 "bannerUrl": "https://s3.ap-south-1.amazonaws.com/egov-qa-assets/app-banner-web.jpg",
                 "enabled": true
             },
-            "appBannerMobile":
-            {
+            "appBannerMobile": {
                 "code": "APP_BANNER_MOBILE",
                 "name": "App Banner Mobile View",
-                "bannerUrl": "https://s3.ap-south-1.amazonaws.com/egov-qa-assets/app-banner-web.jpg",
+                "bannerUrl": "https://s3.ap-south-1.amazonaws.com/egov-qa-assets/app-banner-mobile.jpg",
                 "enabled": true
             },
-            "citizenServicesCard":
-            {
+            "citizenServicesCard": {
                 "code": "HOME_CITIZEN_SERVICES_CARD",
                 "name": "Home Citizen services Card",
                 "enabled": true,
@@ -27,10 +24,18 @@
                     "name": "DASHBOARD_VIEW_ALL_LABEL",
                     "enabled": true,
                     "navigationUrl": "/digit-ui/citizen/all-services"
-                  },
+                },
+                "props": [
+                    {
+                        "code": "CITIZEN_SERVICE_WEL",
+                        "name": "Welfare Schemes",
+                        "label": "ES_WEL_HEADER_WELFARE",
+                        "enabled": true,
+                        "navigationUrl": "/digit-ui/citizen/bmc/aadhaarLogin"
+                    }
+                ]
             },
-            "informationAndUpdatesCard":
-            {
+            "informationAndUpdatesCard": {
                 "code": "HOME_CITIZEN_INFO_UPDATE_CARD",
                 "name": "Home Citizen Information and Updates card",
                 "enabled": true,
@@ -39,7 +44,7 @@
                     "name": "DASHBOARD_VIEW_ALL_LABEL",
                     "enabled": true,
                     "navigationUrl": ""
-                  },
+                },
                 "props": [
                     {
                         "code": "CITIZEN_MY_CITY",
@@ -71,8 +76,7 @@
                     }
                 ]
             },
-            "whatsNewSection":
-            {
+            "whatsNewSection": {
                 "code": "WHATSNEW",
                 "name": "What's New",
                 "enabled": false,
@@ -81,24 +85,22 @@
                     "name": "DASHBOARD_VIEW_ALL_LABEL",
                     "enabled": true,
                     "navigationUrl": "https://www.mcgm.gov.in/irj/portal/anonymous"
-                  }
+                }
             },
-            "whatsAppBannerDesktop":
-            {
+            "whatsAppBannerDesktop": {
                 "code": "WHATSAPP_BANNER_DESKTOP",
                 "name": "WhatsApp Banner Desktop View",
-                "bannerUrl": "https://bmc-prod-s3.s3.ap-south-1.amazonaws.com/bmc-images/banner2forsmallscreen.png",
+                "bannerUrl": "https://s3.ap-south-1.amazonaws.com/egov-qa-assets/whatsapp-web.jpg",
                 "enabled": true,
                 "navigationUrl": "https://www.mcgm.gov.in/irj/portal/anonymous"
             },
-            "whatsAppBannerMobile":
-            {
+            "whatsAppBannerMobile": {
                 "code": "WHATSAPP_BANNER_MOBILE",
                 "name": "WhatsApp Banner Mobile View",
-                "bannerUrl": "https://bmc-prod-s3.s3.ap-south-1.amazonaws.com/bmc-images/banner2forsmallscreen.png",
+                "bannerUrl": "https://s3.ap-south-1.amazonaws.com/egov-qa-assets/whatsapp-mobile.jpg",
                 "enabled": true,
                 "navigationUrl": "https://www.mcgm.gov.in/irj/portal/anonymous"
             }
-        }  
+        }
     ]
 }
