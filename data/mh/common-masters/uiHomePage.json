@@ -48,7 +48,7 @@
                 "props": [
                     {
                         "code": "CITIZEN_MY_CITY",
-                        "name": "My City",
+                        "name": "Upcomming Scheme",
                         "label": "CS_HEADER_MYCITY",
                         "enabled": true,
                         "navigationUrl": ""
