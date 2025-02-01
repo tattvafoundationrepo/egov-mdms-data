@@ -26,13 +26,7 @@
                     "navigationUrl": "/digit-ui/citizen/all-services"
                 },
                 "props": [
-                    {
-                        "code": "CITIZEN_SERVICE_WEL",
-                        "name": "Welfare Schemes",
-                        "label": "ES_WEL_HEADER_WELFARE",
-                        "enabled": true,
-                        "navigationUrl": "/digit-ui/citizen/bmc/aadhaarLogin"
-                    }
+                    
                 ]
             },
             "informationAndUpdatesCard": {
