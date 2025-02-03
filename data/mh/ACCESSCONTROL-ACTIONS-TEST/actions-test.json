@@ -20975,8 +20975,8 @@
       "leftIcon": "PersonIcon",
       "rightIcon": "",
       "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/bmc/bmc-home"
+      "sidebar": "",
+      "sidebarURL": ""
     },
     {
       "id": 5005,
