@@ -4,7 +4,7 @@
   "TradeType": [
     {
       "code": "GOODS.MANUFACTURE.TST-1",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -31,7 +31,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-2",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -58,7 +58,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-3",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -85,7 +85,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-4",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -112,7 +112,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-5",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -139,7 +139,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-6",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -166,7 +166,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-7",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -193,7 +193,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-8",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -220,7 +220,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-9",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -247,7 +247,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-10",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -274,7 +274,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-11",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -301,7 +301,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-12",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -328,7 +328,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-13",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -355,7 +355,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-14",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -382,7 +382,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-15",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -409,7 +409,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-16",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -436,7 +436,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-17",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -463,7 +463,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-18",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -490,7 +490,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-19",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -517,7 +517,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-20",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -544,7 +544,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-21",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -571,7 +571,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-22",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -598,7 +598,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-23",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -625,7 +625,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-24",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -652,7 +652,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-25",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -679,7 +679,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-26",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -706,7 +706,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-27",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -733,7 +733,7 @@
     },
     {
       "code": "GOODS.MANUFACTURE.TST-28",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -760,7 +760,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-29",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -787,7 +787,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-30",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -814,7 +814,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-31",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -841,7 +841,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-32",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -868,7 +868,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-33",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -895,7 +895,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-34",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -922,7 +922,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-35",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -949,7 +949,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-36",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -976,7 +976,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-37",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1003,7 +1003,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-38",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1057,7 +1057,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-40",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1084,7 +1084,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-41",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1111,7 +1111,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-42",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1138,7 +1138,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-43",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1165,7 +1165,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-44",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1192,7 +1192,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-45",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1219,7 +1219,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-46",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1246,7 +1246,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-47",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1273,7 +1273,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-48",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1300,7 +1300,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-49",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1327,7 +1327,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-50",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1354,7 +1354,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-51",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1381,7 +1381,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-52",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1408,7 +1408,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-53",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1435,7 +1435,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-54",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1462,7 +1462,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-55",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1489,7 +1489,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-56",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1516,7 +1516,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-57",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1543,7 +1543,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-58",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1570,7 +1570,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-59",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1597,7 +1597,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-60",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1624,7 +1624,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-61",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1651,7 +1651,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-62",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1678,7 +1678,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-63",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1705,7 +1705,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-64",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1732,7 +1732,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-65",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1759,7 +1759,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-66",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1786,7 +1786,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-67",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1813,7 +1813,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-68",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1840,7 +1840,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-69",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1867,7 +1867,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-70",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1894,7 +1894,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-71",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1921,7 +1921,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-72",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1948,7 +1948,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-73",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -1975,7 +1975,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-74",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2002,7 +2002,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-75",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2029,7 +2029,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-76",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2056,7 +2056,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-77",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2083,7 +2083,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-78",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2110,7 +2110,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-79",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2137,7 +2137,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-80",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2164,7 +2164,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-81",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2191,7 +2191,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-82",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2218,7 +2218,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-83",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2245,7 +2245,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-84",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2272,7 +2272,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-85",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2299,7 +2299,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-86",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2326,7 +2326,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-87",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2353,7 +2353,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-88",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2380,7 +2380,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-89",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2407,7 +2407,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-90",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2434,7 +2434,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-91",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2461,7 +2461,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-92",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2488,7 +2488,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-93",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2515,7 +2515,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-94",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2542,7 +2542,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-95",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2569,7 +2569,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-96",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2596,7 +2596,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-97",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2623,7 +2623,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-98",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2650,7 +2650,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-99",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2677,7 +2677,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-100",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2704,7 +2704,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-101",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2731,7 +2731,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-102",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2758,7 +2758,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-103",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2785,7 +2785,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-104",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2812,7 +2812,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-105",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2839,7 +2839,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-106",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2866,7 +2866,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-107",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2893,7 +2893,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-108",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2920,7 +2920,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-109",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2947,7 +2947,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-110",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -2974,7 +2974,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-111",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3001,7 +3001,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-112",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3028,7 +3028,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-113",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3055,7 +3055,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-114",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3082,7 +3082,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-115",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3109,7 +3109,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-116",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3136,7 +3136,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-117",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3163,7 +3163,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-118",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3190,7 +3190,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-221",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3217,7 +3217,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-222",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3244,7 +3244,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-223",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3271,7 +3271,7 @@
     },
     {
       "code": "GOODS.RETAIL.TST-224",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3298,7 +3298,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-119",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3325,7 +3325,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-120",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3352,7 +3352,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-121",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3379,7 +3379,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-122",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3406,7 +3406,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-123",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3433,7 +3433,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-124",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3460,7 +3460,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-125",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3487,7 +3487,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-126",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3514,7 +3514,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-127",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3541,7 +3541,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-128",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3568,7 +3568,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-129",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3595,7 +3595,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-130",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3622,7 +3622,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-131",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3649,7 +3649,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-132",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3676,7 +3676,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-133",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3703,7 +3703,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-134",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3730,7 +3730,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-135",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3757,7 +3757,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-136",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3784,7 +3784,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-137",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3811,7 +3811,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-138",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3838,7 +3838,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-139",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3865,7 +3865,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-140",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3892,7 +3892,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-141",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3919,7 +3919,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-142",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3946,7 +3946,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-143",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -3973,7 +3973,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-144",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4000,7 +4000,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-145",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4027,7 +4027,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-146",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4054,7 +4054,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-147",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4081,7 +4081,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-148",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4108,7 +4108,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-149",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4135,7 +4135,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-150",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4162,7 +4162,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-151",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4189,7 +4189,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-152",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4216,7 +4216,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-153",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4243,7 +4243,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-154",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4270,7 +4270,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-155",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4297,7 +4297,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-156",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4324,7 +4324,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-157",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4351,7 +4351,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-158",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4378,7 +4378,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-159",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4405,7 +4405,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-160",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4432,7 +4432,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-161",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4459,7 +4459,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-162",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4486,7 +4486,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-163",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4513,7 +4513,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-164",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4540,7 +4540,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-165",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4567,7 +4567,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-166",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4594,7 +4594,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-167",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4621,7 +4621,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-168",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4648,7 +4648,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-169",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4675,7 +4675,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-170",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4702,7 +4702,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-171",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4729,7 +4729,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-172",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4756,7 +4756,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-173",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4783,7 +4783,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-174",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4810,7 +4810,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-175",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4891,7 +4891,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-178",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4918,7 +4918,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-179",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4945,7 +4945,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-180",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4972,7 +4972,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-181",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -4999,7 +4999,7 @@
     },
     {
       "code": "GOODS.WHOLESALE.TST-182",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5026,7 +5026,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-183",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5053,7 +5053,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-184",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5080,7 +5080,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-185",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5107,7 +5107,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-186",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5134,7 +5134,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-187",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5161,7 +5161,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-188",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5188,7 +5188,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-189",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5215,7 +5215,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-190",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5242,7 +5242,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-191",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5269,7 +5269,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-192",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5296,7 +5296,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-193",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5323,7 +5323,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-194",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5350,7 +5350,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-195",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5377,7 +5377,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-196",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5404,7 +5404,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-197",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5431,7 +5431,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-198",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5458,7 +5458,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-199",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5485,7 +5485,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-200",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5512,7 +5512,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-201",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5539,7 +5539,7 @@
     },
     {
       "code": "SERVICES.GBS.TST-202",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5566,7 +5566,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-203",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5593,7 +5593,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-204",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5620,7 +5620,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-205",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5647,7 +5647,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-206",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5674,7 +5674,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-207",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5701,7 +5701,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-208",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5728,7 +5728,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-209",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5755,7 +5755,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-210",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5782,7 +5782,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-211",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5809,7 +5809,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-212",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5836,7 +5836,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-213",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5863,7 +5863,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-214",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5890,7 +5890,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-215",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5917,7 +5917,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-216",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5944,7 +5944,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-217",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5971,7 +5971,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-218",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -5998,7 +5998,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-219",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -6025,7 +6025,7 @@
     },
     {
       "code": "SERVICES.NGBS.TST-220",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         {
           "applicationType": "NEW",
@@ -6052,7 +6052,7 @@
     },
     {
       "code": "ARCHITECT.CLASSA",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         "OWNERIDPROOF",
         "OWNERSHIPPROOF",
@@ -6065,7 +6065,7 @@
     },
     {
       "code": "BUILDER.CLASSA",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         "OWNERIDPROOF",
         "OWNERSHIPPROOF",
@@ -6078,7 +6078,7 @@
     },
     {
       "code": "ENGINEER.CLASSA",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         "OWNERIDPROOF",
         "OWNERSHIPPROOF",
@@ -6096,7 +6096,7 @@
     },
     {
       "code": "STRUCTURALENGINEER.CLASSA",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         "OWNERIDPROOF",
         "OWNERSHIPPROOF",
@@ -6109,7 +6109,7 @@
     },
     {
       "code": "TOWNPLANNER.CLASSA",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         "OWNERIDPROOF",
         "OWNERSHIPPROOF",
@@ -6122,7 +6122,7 @@
     },
     {
       "code": "SUPERVISOR.CLASSA",
-      "uom": null,
+      "uom": "GROSSUNITS",
       "applicationDocument": [
         "OWNERIDPROOF",
         "OWNERSHIPPROOF",
