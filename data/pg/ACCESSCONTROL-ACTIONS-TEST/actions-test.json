@@ -13374,7 +13374,7 @@
    {
       "id": 2425,
       "name": "FirenocCitizen",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "FireNoc Search",
       "orderNumber": 1,
       "parentModule": "FireNoc",
@@ -13392,7 +13392,7 @@
    {
       "id": 2426,
       "name": "BirthCitizen",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "Birth Search",
       "orderNumber": 1,
       "parentModule": "Birth",
@@ -13410,7 +13410,7 @@
    {
       "id": 2427,
       "name": "DeathCitizen",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "Death Search",
       "orderNumber": 1,
       "parentModule": "Death",
@@ -13593,7 +13593,7 @@
    {
       "id": 2440,
       "name": "ACTION_TEST_WNS_MY_BILLS",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "My Bills",
       "orderNumber": 2,
       "parentModule": "WS",
@@ -13611,7 +13611,7 @@
     {
       "id": 2441,
       "name": "ACTION_TEST_MY_PAYMENTS",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "My Payments",
       "orderNumber": 6,
       "parentModule": "WS",
@@ -13629,7 +13629,7 @@
     {
       "id": 2442,
       "name": "ACTION_TEST_APPLY_NEW_CONNECTION",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "Apply for New Connection",
       "orderNumber": 4,
       "parentModule": "WS",
@@ -13647,7 +13647,7 @@
     {
       "id": 2443,
       "name": "ACTION_TEXT_WS_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "Search & Pay",
       "orderNumber": 1,
       "parentModule": "WS",
@@ -13665,7 +13665,7 @@
     {
       "id": 2444,
       "name": "ACTION_TEXT_WS_MY_APPLICATION",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "My Applications",
       "orderNumber": 5,
       "parentModule": "WS",
@@ -13683,7 +13683,7 @@
     {
       "id": 2445,
       "name": "ACTION_TEXT_WS_MY_CONNECTION",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "My Connections",
       "orderNumber": 3,
       "parentModule": "WS",
@@ -13737,7 +13737,7 @@
     {
       "id": 2448,
       "name": "CS_HOME_APPLY_FOR_DESLUDGING",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "Apply for Emptying of Septic Tank/Pit",
       "orderNumber": 1,
       "parentModule": "FSM",
@@ -13755,7 +13755,7 @@
     {
       "id": 2449,
       "name": "CS_HOME_MY_APPLICATIONS",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "My Applications",
       "orderNumber": 2,
       "parentModule": "FSM",
@@ -13863,7 +13863,7 @@
     {
       "id": 2455,
       "name": "BPA_CITIZEN_HOME_VIEW_APP_BY_CITIZEN_LABEL",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "View applications by Citizen",
       "orderNumber": 1,
       "parentModule": "OBPS",
@@ -13881,7 +13881,7 @@
     {
       "id": 2456,
       "name": "BPA_CITIZEN_HOME_STAKEHOLDER_LOGIN_LABEL",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "Register as a Stakeholder",
       "orderNumber": 2,
       "parentModule": "OBPS",
@@ -13899,7 +13899,7 @@
     {
       "id": 2457,
       "name": "BPA_CITIZEN_HOME_ARCHITECT_LOGIN_LABEL",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "Registered Architect Login",
       "orderNumber": 3,
       "parentModule": "OBPS",
@@ -14034,7 +14034,7 @@
    {
       "id": 2466,
       "name": "PRIVACY_AUDIT_REPORT",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "Privacy Audit Report",
       "orderNumber": 7,
       "parentModule": "WS",
@@ -14081,7 +14081,7 @@
    {
       "id": 2469,
       "name": "WS_FAQ_S",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "FAQs",
       "orderNumber": 8,
       "parentModule": "WS",
@@ -14154,7 +14154,7 @@
    {
       "id": 2473,
       "name": "OBPS_FAQ_S",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "FAQs",
       "orderNumber": 8,
       "parentModule": "OBPS",
