@@ -54,7 +54,7 @@
                         "code": "CITIZEN_SERVICE_WS",
                         "name": "Water & Sewerage",
                         "label": "ACTION_TEST_WATER_AND_SEWERAGE",
-                        "enabled": true,
+                        "enabled": false,
                         "navigationUrl": "/digit-ui/citizen/ws-home"
                     }
                 ]
@@ -75,28 +75,28 @@
                         "code": "CITIZEN_MY_CITY",
                         "name": "My City",
                         "label": "CS_HEADER_MYCITY",
-                        "enabled": true,
+                        "enabled": false,
                         "navigationUrl": ""
                     },
                     {
                         "code": "CITIZEN_EVENTS",
                         "name": "Events",
                         "label": "EVENTS_EVENTS_HEADER",
-                        "enabled": true,
+                        "enabled": false,
                         "navigationUrl": "/digit-ui/citizen/engagement/events"
                     },
                     {
                         "code": "CITIZEN_DOCUMENTS",
                         "name": "Documents",
                         "label": "CS_COMMON_DOCUMENTS",
-                        "enabled": true,
+                        "enabled": false,
                         "navigationUrl": "/digit-ui/citizen/engagement/docs"
                     },
                     {
                         "code": "CITIZEN_SURVEYS",
                         "name": "Surveys",
                         "label": "CS_COMMON_SURVEYS",
-                        "enabled": true,
+                        "enabled": false,
                         "navigationUrl": "/digit-ui/citizen/engagement/surveys/list"
                     }
                 ]
@@ -109,7 +109,7 @@
                 "headerLabel": "DASHBOARD_WHATS_NEW_LABEL",
                 "sideOption": {
                     "name": "DASHBOARD_VIEW_ALL_LABEL",
-                    "enabled": true,
+                    "enabled": false,
                     "navigationUrl": "/digit-ui/citizen/engagement/whats-new"
                   }
             },
@@ -118,7 +118,7 @@
                 "code": "WHATSAPP_BANNER_DESKTOP",
                 "name": "WhatsApp Banner Desktop View",
                 "bannerUrl": "https://uat.digit.org/egov-uat-assets/whatsapp-web.jpg",
-                "enabled": true,
+                "enabled": false,
                 "navigationUrl": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva"
             },
             "whatsAppBannerMobile":
@@ -126,7 +126,7 @@
                 "code": "WHATSAPP_BANNER_MOBILE",
                 "name": "WhatsApp Banner Mobile View",
                 "bannerUrl": "https://uat.digit.org/egov-uat-assets/whatsapp-mobile.jpg",
-                "enabled": true,
+                "enabled": false,
                 "navigationUrl": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva"
             }
         }  
