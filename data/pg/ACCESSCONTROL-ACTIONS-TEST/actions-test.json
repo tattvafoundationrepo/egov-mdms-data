@@ -13953,7 +13953,7 @@
     {
       "id": 2460,
       "name": "ABG_SEARCH_BILL_COMMON_HEADER",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "Search Bills",
       "orderNumber": 1,
       "parentModule": "Bills",
