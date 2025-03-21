@@ -13136,30 +13136,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1879,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "TL_APPROVER",
-      "actionid": 1879,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "TL_CEMP",
-      "actionid": 1879,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "TL_DOC_VERIFIER",
-      "actionid": 1879,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "CITIZEN",
       "actionid": 1880,
       "actioncode": "",
