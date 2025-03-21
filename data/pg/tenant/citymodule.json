@@ -276,23 +276,11 @@
     {
       "module": "DSS",
       "code": "DSS",
-      "active": false,
+      "active": true,
       "order":6,
       "tenants": [
         {
           "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
         }
       ]
     },
