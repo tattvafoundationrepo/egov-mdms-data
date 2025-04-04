@@ -332,7 +332,7 @@
     {
       "module": "CommonPT",
       "code": "CommonPT",
-      "active": true,
+      "active": false,
       "order":3,
       "tenants": [
         {
