@@ -23714,12 +23714,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "STADMIN",
-      "actionid": 2337,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "NATADMIN",
       "actionid": 701,
       "actioncode": "",
