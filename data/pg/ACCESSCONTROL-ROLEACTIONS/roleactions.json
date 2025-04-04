@@ -24021,12 +24021,6 @@
     },
     {
       "rolecode": "STADMIN",
-      "actionid": 2367,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "STADMIN",
       "actionid": 2368,
       "actioncode": "",
       "tenantId": "pg"
