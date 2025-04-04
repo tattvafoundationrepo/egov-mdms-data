@@ -9,31 +9,31 @@
     },
     {
       "code": "INDIVIDUAL.MULTIPLEOWNERS",
-      "active": true
+      "active": false
     },
     {
       "code": "INSTITUTIONALPRIVATE.PRIVATECOMPANY",
-      "active": true
+      "active": false
     },
     {
       "code": "INSTITUTIONALPRIVATE.NGO",
-      "active": true
+      "active": false
     },
     {
       "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
-      "active": true
+      "active": false
     },
     {
       "code": "INSTITUTIONALPRIVATE.PRIVATEBOARD",
-      "active": true
+      "active": false
     },
     {
       "code": "INSTITUTIONALPRIVATE.OTHERSPRIVATEINSTITUITION",
-      "active": true
+      "active": false
     },
     {
       "code": "INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
-      "active": true
+      "active": false
     },
     {
       "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
@@ -41,11 +41,11 @@
     },
     {
       "code": "INSTITUTIONALGOVERNMENT.CENTRALGOVERNMENT",
-      "active": true
+      "active": false
     },
     {
       "code": "INSTITUTIONALGOVERNMENT.OTHERGOVERNMENTINSTITUITION",
-      "active": true
+      "active": false
     }
   ]
 }
