@@ -26,7 +26,7 @@
               "longitude": null,
               "latitude": null,
               "label": "Zone",
-              "code": "JZN1",
+              "code": "KANZN1",
               "children": [
                 {
                   "id": "1c7d8d00-7678-4fd4-8dd2-2802daa7249b",
@@ -36,7 +36,7 @@
                   "longitude": null,
                   "latitude": null,
                   "label": "Block",
-                  "code": "WARD32",
+                  "code": "KANZN1W1",
                   "children": [
                     {
                       "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
@@ -46,7 +46,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC476",
+                      "code": "KLC001",
                       "pincode": [201041, 201042, 201043, 201044, 201045],
                       "area": "Area1",
                       "children": []
@@ -59,7 +59,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC477",
+                      "code": "KLC002",
                       "pincode": [201051, 201052],
                       "area": "Area1",
                       "children": []
@@ -72,7 +72,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC478",
+                      "code": "KLC003",
                       "pincode": [201061, 201062, 201063, 201064],
                       "area": "Area1",
                       "children": []
@@ -85,7 +85,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC479",
+                      "code": "KLC004",
                       "pincode": [201071, 201072, 201073],
                       "area": "Area1",
                       "children": []
@@ -98,7 +98,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC480",
+                      "code": "KLC005",
                       "pincode": [201091, 201092, 201093],
                       "area": "Area1",
                       "children": []
@@ -111,7 +111,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC481",
+                      "code": "KLC006",
                       "pincode": [201131, 201132, 201133],
                       "area": "Area1",
                       "children": []
@@ -124,7 +124,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC482",
+                      "code": "KLC007",
                       "pincode": [201141, 201142, 201143, 201144],
                       "area": "Area1",
                       "children": []
@@ -139,7 +139,7 @@
                   "longitude": null,
                   "latitude": null,
                   "label": "Block",
-                  "code": "WARD33",
+                  "code": "KANZN1W2",
                   "children": [
                     {
                       "id": "f3cabc5a-8596-4c4c-ad05-9863342fa176",
@@ -149,7 +149,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC485",
+                      "code": "KLC008",
                       "pincode":[201081, 201082, 201083],
                       "area": "Area1",
                       "children": []
@@ -162,7 +162,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC486",
+                      "code": "KLC009",
                       "pincode":[201101, 201102, 201103, 201104],
                       "area": "Area1",
                       "children": []
@@ -175,7 +175,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC487",
+                      "code": "KLC010",
                       "pincode":[201111, 201112, 201113,201114],
                       "area": "Area1",
                       "children": []
@@ -188,7 +188,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC488",
+                      "code": "KLC011",
                       "pincode":[201121, 201122, 201123, 201124, 201125],
                       "area": "Area1",
                       "children": []
@@ -203,7 +203,7 @@
                   "longitude": null,
                   "latitude": null,
                   "label": "Block",
-                  "code": "WARD34",
+                  "code": "KANZN1W3",
                   "children": [
                     {
                       "id": "11448ad3-ff6a-4026-8d9a-d3d0cdb75680",
@@ -213,7 +213,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC497",
+                      "code": "KLC012",
                       "pincode":[201011, 201012, 201013, 201014, 201015, 201016, 201017],
                       "area": "Area1",
                       "children": []
@@ -226,7 +226,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC497",
+                        "code": "KLC013",
                         "pincode":[201021, 201022, 201023, 201024, 201025, 201026],
                         "area": "Area1",
                         "children": []
@@ -239,7 +239,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC497",
+                        "code": "KLC014",
                         "pincode":[201031],
                         "area": "Area1",
                         "children": []
@@ -256,7 +256,7 @@
               "longitude": null,
               "latitude": null,
               "label": "Zone",
-              "code": "JZN2",
+              "code": "KANZN2",
               "children": [
                 {
                   "id": "199f5a68-384d-49d4-9e07-504a174ead15",
@@ -266,7 +266,7 @@
                   "longitude": null,
                   "latitude": null,
                   "label": "Block",
-                  "code": "WARD1",
+                  "code": "KANZN2W1",
                   "children": [
                     {
                       "id": "1951084c-7c09-49ca-9642-842ca2c274a3",
@@ -276,7 +276,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC1",
+                      "code": "KLC012",
                       "pincode":[202011, 202012, 202013, 202014],
                       "area": "Area3",
                       "children": []
@@ -289,7 +289,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC2",
+                      "code": "KLC013",
                       "pincode":[202031, 202032, 202033],
                       "area": "Area3",
                       "children": []
@@ -302,7 +302,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC3",
+                      "code": "KLC014",
                       "pincode":[202041, 202042, 202043],
                       "area": "Area3",
                       "children": []
@@ -315,7 +315,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC4",
+                      "code": "KLC015",
                       "pincode":[202081, 202082, 202083, 202084],
                       "area": "Area3",
                       "children": []
@@ -332,7 +332,7 @@
               "longitude": null,
               "latitude": null,
               "label": "Zone",
-              "code": "JZN3",
+              "code": "KANZN3",
               "children": [
                 {
                   "id": "1b7748de-3c8d-456d-b3c9-3cab3aace11d",
@@ -352,7 +352,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC67",
+                      "code": "KLC016",
                       "pincode":[203011, 203012],
                       "area": "Area1",
                       "children": []
@@ -365,7 +365,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC68",
+                      "code": "KLC017",
                       "pincode":[203021, 203022],
                       "area": "Area1",
                       "children": []
@@ -378,7 +378,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC69",
+                      "code": "KLC018",
                       "pincode":[203031, 203032, 203033],
                       "area": "Area1",
                       "children": []
@@ -391,7 +391,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC70",
+                      "code": "KLC019",
                       "pincode":[203041, 203042, 203043],
                       "area": "Area1",
                       "children": []
@@ -404,7 +404,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC71",
+                      "code": "KLC020",
                       "pincode":[203051],
                       "area": "Area1",
                       "children": []
@@ -417,7 +417,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC72",
+                      "code": "KLC021",
                       "pincode":[203081, 203082, 203083, 203084],
                       "area": "Area1",
                       "children": []
@@ -430,7 +430,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC73",
+                      "code": "KLC022",
                       "pincode":[203091, 203092, 203093, 203094],
                       "area": "Area1",
                       "children": []
@@ -443,7 +443,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC74",
+                      "code": "KLC023",
                       "pincode":[203101, 203102],
                       "area": "Area1",
                       "children": []
@@ -456,7 +456,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC75",
+                      "code": "KLC024",
                       "pincode":[203111, 203112, 203113],
                       "area": "Area1",
                       "children": []
@@ -481,7 +481,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC77",
+                      "code": "KLC025",
                       "pincode":[203061, 203062, 203063, 203064],
                       "area": "Area1",
                       "children": []
@@ -494,7 +494,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC78",
+                      "code": "KLC026",
                       "pincode":[203071, 203072, 203073, 203074],
                       "area": "Area1",
                       "children": []
@@ -507,7 +507,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC79",
+                      "code": "KLC027",
                       "pincode":[203121, 203122, 203123],
                       "area": "Area1",
                       "children": []
@@ -524,7 +524,7 @@
               "longitude": null,
               "latitude": null,
               "label": "Zone",
-              "code": "JZN4",
+              "code": "KANZN4",
               "children": [
                 {
                   "id": "dd1762eb-60db-4e05-9458-dbc307b8b2c9",
@@ -544,7 +544,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC104",
+                      "code": "KLC028",
                       "pincode":[204011, 204012, 204013],
                       "area": "Area1",
                       "children": []
@@ -557,7 +557,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC105",
+                      "code": "KLC029",
                       "pincode":[204021, 204022, 204023, 204024],
                       "area": "Area1",
                       "children": []
@@ -570,7 +570,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC106",
+                      "code": "KLC030",
                       "pincode":[204031, 204032],
                       "area": "Area1",
                       "children": []
@@ -583,7 +583,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC107",
+                      "code": "KLC031",
                       "pincode":[204061],
                       "area": "Area1",
                       "children": []
@@ -608,7 +608,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC115",
+                      "code": "KLC032",
                       "pincode":[204041, 204042, 204043],
                       "area": "Area1",
                       "children": []
@@ -621,7 +621,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC116",
+                      "code": "KLC033",
                       "pincode":[204051, 204052],
                       "area": "Area1",
                       "children": []
@@ -634,7 +634,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC117",
+                      "code": "KLC034",
                       "pincode":[204071, 204072, 204073, 204074, 204075],
                       "area": "Area1",
                       "children": []
@@ -651,7 +651,7 @@
               "longitude": null,
               "latitude": null,
               "label": "Zone",
-              "code": "JZN4",
+              "code": "KANZN5",
               "children": [
                 {
                   "id": "dd1762eb-60db-4e05-9458-dbc307b8b2c9",
@@ -671,7 +671,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC104",
+                      "code": "KLC035",
                       "pincode":[206011, 206012, 206013, 206014],
                       "area": "Area1",
                       "children": []
@@ -684,7 +684,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC105",
+                      "code": "KLC036",
                       "pincode":[206021, 206022],
                       "area": "Area1",
                       "children": []
@@ -697,7 +697,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC106",
+                      "code": "KLC037",
                       "pincode":[206031, 206032],
                       "area": "Area1",
                       "children": []
@@ -710,7 +710,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC107",
+                      "code": "KLC038",
                       "pincode":[206041, 206042],
                       "area": "Area1",
                       "children": []
@@ -723,7 +723,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC107",
+                      "code": "KLC039",
                       "pincode":[206071, 206072, 206073],
                       "area": "Area1",
                       "children": []
@@ -736,7 +736,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC107",
+                      "code": "KLC040",
                       "pincode":[206081, 206082, 206083, 206084],
                       "area": "Area1",
                       "children": []
@@ -749,7 +749,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC107",
+                      "code": "KLC041",
                       "pincode":[206131, 206132],
                       "area": "Area1",
                       "children": []
@@ -762,7 +762,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC107",
+                      "code": "KLC042",
                       "pincode":[206141],
                       "area": "Area1",
                       "children": []
@@ -775,7 +775,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC107",
+                      "code": "KLC043",
                       "pincode":[206151],
                       "area": "Area1",
                       "children": []
@@ -788,7 +788,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC107",
+                      "code": "KLC044",
                       "pincode":[206181, 206182, 206183],
                       "area": "Area1",
                       "children": []
@@ -801,7 +801,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC107",
+                      "code": "KLC045",
                       "pincode":[206191, 206192, 206193],
                       "area": "Area1",
                       "children": []
@@ -826,7 +826,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC115",
+                      "code": "KLC046",
                       "pincode":[204051, 204052],
                       "area": "Area1",
                       "children": []
@@ -839,7 +839,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC116",
+                      "code": "KLC047",
                       "pincode":[206061, 206062, 206063],
                       "area": "Area1",
                       "children": []
@@ -852,7 +852,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC117",
+                      "code": "KLC048",
                       "pincode":[206111],
                       "area": "Area1",
                       "children": []
@@ -865,7 +865,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC117",
+                      "code": "KLC049",
                       "pincode":[206121, 206122],
                       "area": "Area1",
                       "children": []
@@ -878,7 +878,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC117",
+                      "code": "KLC050",
                       "pincode":[206161, 206162, 206163, 206164],
                       "area": "Area1",
                       "children": []
@@ -903,7 +903,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC115",
+                      "code": "KLC051",
                       "pincode":[206091],
                       "area": "Area1",
                       "children": []
@@ -916,7 +916,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC116",
+                      "code": "KLC052",
                       "pincode":[206101],
                       "area": "Area1",
                       "children": []
@@ -929,7 +929,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC117",
+                      "code": "KLC053",
                       "pincode":[206171, 206172, 206173],
                       "area": "Area1",
                       "children": []
@@ -942,7 +942,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC117",
+                      "code": "KLC054",
                       "pincode":[206121, 206122],
                       "area": "Area1",
                       "children": []
@@ -955,7 +955,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC117",
+                      "code": "KLC055",
                       "pincode":[206161, 206162, 206163, 206164],
                       "area": "Area1",
                       "children": []
@@ -972,7 +972,7 @@
                 "longitude": null,
                 "latitude": null,
                 "label": "Zone",
-                "code": "JZN3",
+                "code": "KANZN6",
                 "children": [
                     {
                     "id": "1b7748de-3c8d-456d-b3c9-3cab3aace11d",
@@ -982,7 +982,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Block",
-                    "code": "WARD7",
+                    "code": "KANZN6W1",
                     "children": [
                         {
                         "id": "ba500fdf-92b3-4e19-a968-5e1cb2df5049",
@@ -992,7 +992,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC67",
+                        "code": "KLC056",
                         "pincode":[205011,205012],
                         "area": "Area1",
                         "children": []
@@ -1005,7 +1005,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC68",
+                        "code": "KLC057",
                         "pincode":[205021],
                         "area": "Area1",
                         "children": []
@@ -1018,7 +1018,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC69",
+                        "code": "KLC058",
                         "pincode":[205031],
                         "area": "Area1",
                         "children": []
@@ -1031,7 +1031,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC70",
+                        "code": "KLC059",
                         "pincode":[205201,205202,205203,205204],
                         "area": "Area1",
                         "children": []
@@ -1044,7 +1044,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC71",
+                        "code": "KLC060",
                         "pincode":[205211,205212,205213,205214],
                         "area": "Area1",
                         "children": []
@@ -1059,7 +1059,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Block",
-                    "code": "WARD8",
+                    "code": "KANZN6W2",
                     "children": [
                         {
                         "id": "c6120608-c037-4dff-88b4-d9116b38c2a7",
@@ -1069,7 +1069,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC77",
+                        "code": "KLC061",
                         "pincode":[205041,205042,205043,205044,205045],
                         "area": "Area1",
                         "children": []
@@ -1082,7 +1082,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC78",
+                        "code": "KLC062",
                         "pincode":[205081,205082],
                         "area": "Area1",
                         "children": []
@@ -1095,7 +1095,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC79",
+                        "code": "KLC063",
                         "pincode":[205091,205092,205093,205094],
                         "area": "Area1",
                         "children": []
@@ -1108,7 +1108,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC80",
+                        "code": "KLC064",
                         "pincode":[205101],
                         "area": "Area1",
                         "children": []
@@ -1121,7 +1121,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC81",
+                        "code": "KLC065",
                         "pincode":[205111,205112,205113],
                         "area": "Area1",
                         "children": []
@@ -1134,7 +1134,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC82",
+                        "code": "KLC066",
                         "pincode":[205121],
                         "area": "Area1",
                         "children": []
@@ -1147,7 +1147,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC83",
+                        "code": "KLC067",
                         "pincode":[205131],
                         "area": "Area1",
                         "children": []
@@ -1162,7 +1162,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Block",
-                    "code": "WARD9",
+                    "code": "KANZN6W3",
                     "children": [
                         {
                         "id": "ee56fa69-6ab7-4b42-9b6e-e07d38629c5c",
@@ -1172,7 +1172,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC104",
+                        "code": "KLC068",
                         "pincode":[205051,205052],
                         "area": "Area1",
                         "children": []
@@ -1185,7 +1185,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC105",
+                        "code": "KLC069",
                         "pincode":[205061,205062,205063,205064,205065],
                         "area": "Area1",
                         "children": []
@@ -1198,7 +1198,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC106",
+                        "code": "KLC070",
                         "pincode":[205071,205072],
                         "area": "Area1",
                         "children": []
@@ -1213,7 +1213,7 @@
                     "longitude": null,
                     "latitude": null,
                     "label": "Block",
-                    "code": "WARD10",
+                    "code": "KANZN6W4",
                     "children": [
                         {
                         "id": "1458b502-3d3b-4d70-847e-c34118a09edc",
@@ -1223,7 +1223,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC115",
+                        "code": "KLC071",
                         "pincode":[205141,205142,205143,205144],
                         "area": "Area1",
                         "children": []
@@ -1236,7 +1236,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC116",
+                        "code": "KLC072",
                         "pincode":[205151,205152],
                         "area": "Area1",
                         "children": []
@@ -1249,7 +1249,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC117",
+                        "code": "KLC073",
                         "pincode":[205161],
                         "area": "Area1",
                         "children": []
@@ -1262,7 +1262,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC118",
+                        "code": "KLC074",
                         "pincode":[205171,205172,205173],
                         "area": "Area1",
                         "children": []
@@ -1275,7 +1275,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC119",
+                        "code": "KLC075",
                         "pincode":[205181],
                         "area": "Area1",
                         "children": []
@@ -1288,7 +1288,7 @@
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
-                        "code": "JLC120",
+                        "code": "KLC076",
                         "pincode":[205191,205192,205193,205194],
                         "area": "Area1",
                         "children": []
@@ -1305,7 +1305,7 @@
               "longitude": null,
               "latitude": null,
               "label": "Zone",
-              "code": "JZN3",
+              "code": "KANZN7",
               "children": [
                 {
                   "id": "1b7748de-3c8d-456d-b3c9-3cab3aace11d",
@@ -1315,7 +1315,7 @@
                   "longitude": null,
                   "latitude": null,
                   "label": "Block",
-                  "code": "WARD7",
+                  "code": "KANZN7W1",
                   "children": [
                     {
                       "id": "ba500fdf-92b3-4e19-a968-5e1cb2df5049",
@@ -1325,7 +1325,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC67",
+                      "code": "KLC077",
                       "pincode":[207011, 207012],
                       "area": "Area1",
                       "children": []
@@ -1338,7 +1338,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC68",
+                      "code": "KLC078",
                       "pincode":[207021, 207022],
                       "area": "Area1",
                       "children": []
@@ -1351,7 +1351,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC69",
+                      "code": "KLC079",
                       "pincode":[207031, 207032],
                       "area": "Area1",
                       "children": []
@@ -1364,7 +1364,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC70",
+                      "code": "KLC080",
                       "pincode":[207041, 207042, 207043],
                       "area": "Area1",
                       "children": []
@@ -1377,7 +1377,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC71",
+                      "code": "KLC081",
                       "pincode":[207051, 207052],
                       "area": "Area1",
                       "children": []
@@ -1390,7 +1390,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC72",
+                      "code": "KLC082",
                       "pincode":[207061],
                       "area": "Area1",
                       "children": []
@@ -1403,7 +1403,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC73",
+                      "code": "KLC083",
                       "pincode":[207071, 207072],
                       "area": "Area1",
                       "children": []
@@ -1418,7 +1418,7 @@
                   "longitude": null,
                   "latitude": null,
                   "label": "Block",
-                  "code": "WARD8",
+                  "code": "KANZN7W2",
                   "children": [
                     {
                       "id": "c6120608-c037-4dff-88b4-d9116b38c2a7",
@@ -1428,7 +1428,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC77",
+                      "code": "KLC084",
                       "pincode":[207081, 207082, 207083],
                       "area": "Area1",
                       "children": []
@@ -1441,7 +1441,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC78",
+                      "code": "KLC085",
                       "pincode":[207091],
                       "area": "Area1",
                       "children": []
@@ -1454,7 +1454,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC79",
+                      "code": "KLC086",
                       "pincode":[207101, 207102, 207103],
                       "area": "Area1",
                       "children": []
@@ -1467,7 +1467,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC79",
+                      "code": "KLC087",
                       "pincode":[207111, 207112],
                       "area": "Area1",
                       "children": []
@@ -1480,7 +1480,7 @@
                       "longitude": null,
                       "latitude": null,
                       "label": "Locality",
-                      "code": "JLC79",
+                      "code": "KLC088",
                       "pincode":[207121],
                       "area": "Area1",
                       "children": []
