@@ -25736,12 +25736,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "STADMIN",
-      "actionid": 2502,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-	{
       "rolecode": "FSM_CREATOR_EMP",
       "actionid": 2503,
       "actioncode": "",
