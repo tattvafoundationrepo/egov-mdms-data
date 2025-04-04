@@ -6,46 +6,6 @@
     {
       "code": "INDIVIDUAL.SINGLEOWNER",
       "active": true
-    },
-    {
-      "code": "INDIVIDUAL.MULTIPLEOWNERS",
-      "active": false
-    },
-    {
-      "code": "INSTITUTIONALPRIVATE.PRIVATECOMPANY",
-      "active": false
-    },
-    {
-      "code": "INSTITUTIONALPRIVATE.NGO",
-      "active": false
-    },
-    {
-      "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
-      "active": false
-    },
-    {
-      "code": "INSTITUTIONALPRIVATE.PRIVATEBOARD",
-      "active": false
-    },
-    {
-      "code": "INSTITUTIONALPRIVATE.OTHERSPRIVATEINSTITUITION",
-      "active": false
-    },
-    {
-      "code": "INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
-      "active": false
-    },
-    {
-      "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
-      "active": true
-    },
-    {
-      "code": "INSTITUTIONALGOVERNMENT.CENTRALGOVERNMENT",
-      "active": false
-    },
-    {
-      "code": "INSTITUTIONALGOVERNMENT.OTHERGOVERNMENTINSTITUITION",
-      "active": false
     }
   ]
 }
