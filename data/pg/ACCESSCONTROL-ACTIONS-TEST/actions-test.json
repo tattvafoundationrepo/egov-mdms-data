@@ -13917,7 +13917,7 @@
     {
       "id": 2458,
       "name": "PT_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "Search and Pay",
       "orderNumber": 1,
       "parentModule": "CommonPT",
@@ -13935,7 +13935,7 @@
     {
       "id": 2459,
       "name": "PT_CREATE_PROPERTY",
-      "url": "digit-ui-card",
+      "url": "digit-ui-card-temp",
       "displayName": "Create Property",
       "orderNumber": 3,
       "parentModule": "CommonPT",
