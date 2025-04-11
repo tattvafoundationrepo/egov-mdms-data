@@ -5,7 +5,7 @@
     {
       "module": "PGR",
       "code": "PGR",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "bannerImage": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia/high.jpeg",
       "active": true,
       "order":2,
       "tenants": [
@@ -17,7 +17,7 @@
     {
       "module": "PT",
       "code": "PT",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "bannerImage": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia/BRUFUT-Homes.webp",
       "active": true,
       "order":1,
       "tenants": [
@@ -63,7 +63,7 @@
     {
       "module": "TL",
       "code": "TL",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
+      "bannerImage": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia/Gambia-payment-collection.png",
       "active": true,
       "order":2,
       "tenants": [
