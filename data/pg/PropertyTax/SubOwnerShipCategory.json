@@ -8,12 +8,6 @@
       "code": "SINGLEOWNER",
       "active": true,
       "ownerShipCategory": "INDIVIDUAL"
-    },
-    {
-      "name": "Multiple Owners",
-      "code": "MULTIPLEOWNERS",
-      "active": true,
-      "ownerShipCategory": "INDIVIDUAL"
     }
   ]
 }
