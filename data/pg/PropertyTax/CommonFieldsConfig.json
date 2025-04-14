@@ -1,3 +1,6 @@
+
+
+
 {
     "tenantId": "pg",
     "moduleName": "PropertyTax",
@@ -5,6 +8,19 @@
         {
             "head": "ES_NEW_APPLICATION_LOCATION_DETAILS",
             "body": [
+                {
+                    "route": "map",
+                    "component": "PTSelectGeolocation",
+                    "nextStep": "pincode",
+                    "hideInEmployee": true,
+                    "key": "address",
+                    "texts": {
+                        "header": "PT_GEOLOCATON_HEADER",
+                        "cardText": "PT_GEOLOCATION_TEXT",
+                        "nextText": "PT_COMMON_NEXT",
+                        "skipAndContinueText": "CORE_COMMON_SKIP_CONTINUE"
+                    }
+                },
                 {
                     "route": "pincode",
                     "component": "PTSelectPincode",
@@ -195,7 +211,7 @@
                     "nextStep": {
                         "yes": "rental-details",
                         "no": "provide-sub-usage-type",
-                        "vacant": "pincode"
+                        "vacant": "map"
                     },
                     "hideInEmployee": true
                 },
@@ -338,7 +354,7 @@
                     "key": "units",
                     "withoutLabel": true,
                     "nextStep": {
-                        "PT_COMMON_NO": "pincode",
+                        "PT_COMMON_NO": "map",
                         "PT_COMMON_YES": "un-occupied-area"
                     },
                     "hideInEmployee": true
@@ -356,7 +372,7 @@
                     },
                     "key": "units",
                     "withoutLabel": true,
-                    "nextStep": "pincode",
+                    "nextStep": "map",
                     "hideInEmployee": true
                 }
             ]
@@ -542,3 +558,5 @@
         }
     ]
 }
+
+
