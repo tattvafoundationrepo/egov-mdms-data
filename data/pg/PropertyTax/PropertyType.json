@@ -5,17 +5,17 @@
     {
       "name": "Vacant Land",
       "code": "VACANT",
-      "active": true
+      "active": false
     },
     {
       "name": "Built Up",
       "code": "BUILTUP",
-      "active": true
+      "active": false
     },
     {
       "name": "Flat/Part of the building",
       "code": "BUILTUP.SHAREDPROPERTY",
-      "active": true,
+      "active": false,
       "propertyType": "BUILTUP"
     },
     {
