@@ -7,6 +7,11 @@
       "code": "BUILTUP.INDEPENDENTPROPERTY",
       "active": true,
       "propertyType": "BUILTUP"
-    }
+    },
+    {
+      "name": "Built Up",
+      "code": "BUILTUP",
+      "active": true
+    },
   ]
 }
