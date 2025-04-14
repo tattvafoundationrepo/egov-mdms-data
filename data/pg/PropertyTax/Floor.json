@@ -4,22 +4,10 @@
   "Floor":
   [
     {
-      "name": "Fourth Basement",
-      "code": "-4",
-      "description": "floor number of the floor",
-      "active": false
-    },
-    {
-      "name": "Third Basement",
-      "code": "-3",
-      "description": "floor number of the floor",
-      "active": false
-    },
-    {
       "name": "Second Basement",
       "code": "-2",
       "description": "floor number of the floor",
-      "active": false
+      "active": true
     },
     {
       "name": "First Basement",
@@ -43,67 +31,7 @@
       "name": "Second Floor",
       "code": "2",
       "description": "property unoccupied",
-      "active": false
-    },
-    {
-      "name": "Third Floor",
-      "code": "3",
-      "description": "floor number of the floor",
-      "active": false
-    },
-    {
-      "name": "Fourth Floor",
-      "code": "4",
-      "description": "property unoccupied",
-      "active": false
-    },
-    {
-      "name": "Fifth Floor",
-      "code": "5",
-      "description": "floor number of the floor",
-      "active": false
-    },
-    {
-      "name": "Sixth Floor",
-      "code": "6",
-      "description": "property unoccupied",
-      "active": false
-    },
-    {
-      "name": "Seventh Floor",
-      "code": "7",
-      "description": "floor number of the floor",
-      "active": false
-    },
-    {
-      "name": "Eighth Floor",
-      "code": "8",
-      "description": "property unoccupied",
-      "active": false
-    },
-    {
-      "name": "Nineth Floor",
-      "code": "9",
-      "description": "floor number of the floor",
-      "active": false
-    },
-    {
-      "name": "Tenth Floor",
-      "code": "10",
-      "description": "property unoccupied",
-      "active": false
-    },
-    {
-      "name": "Eleventh Floor",
-      "code": "11",
-      "description": "property unoccupied",
-      "active": false
-    },
-    {
-      "name": "Twelveth Floor",
-      "code": "12",
-      "description": "property unoccupied",
-      "active": false
+      "active": true
     }
   ]
 }
