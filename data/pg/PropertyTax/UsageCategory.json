@@ -17,7 +17,7 @@
     {
       "name": "Commercial",
       "code": "NONRESIDENTIAL.COMMERCIAL",
-      "active": true,
+      "active": false,
       "fromFY": "2015-16",
       "exemption": {
         "rate": 0,
