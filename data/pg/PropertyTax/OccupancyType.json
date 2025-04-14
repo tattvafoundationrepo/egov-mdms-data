@@ -6,7 +6,7 @@
     {
       "name": "Tenanted/ Rented",
       "code": "RENTED",
-      "active": true
+      "active": false
     },
     {
       "name": "Self-Occupied",
@@ -16,7 +16,7 @@
     {
       "name": "Unoccupied",
       "code": "UNOCCUPIED",
-      "active": true
+      "active": false
     }
   ]
 }
