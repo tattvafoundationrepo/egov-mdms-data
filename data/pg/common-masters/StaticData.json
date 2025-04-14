@@ -10,10 +10,10 @@
                   "contactOne": "7878787878",
                   "contactTwo": "7979797979"
                 },
-                "serviceCenter": "#44, Sharath Complex, 2nd Cross, 3rd Main, Rajpur Road, Dehradun, UK",
+                "serviceCenter": "Plot 15, Independence Avenue, Kololi, Serrekunda, The Gambia",
                 "staticDataOne": "7-10",
-                "staticDataTwo": "₹500",
-                "viewMapLocation": "https://www.google.com/maps/place/eGovernments+Foundation/@12.928746,77.6257499,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae15ded4726555:0xe85af37e345d61bb!8m2!3d12.9287543!4d77.6279401"
+                "staticDataTwo": "$500",
+                "viewMapLocation": "https://www.google.com/maps/place/Serrekunda,+The+Gambia/@13.4384,-16.6794,15z"
             },
 
             "TL" : {
@@ -22,8 +22,8 @@
                   "contactOne": "7878787878",
                   "contactTwo": "7979797979"
                 },
-                "serviceCenter": "#44, Sharath Complex, 2nd Cross, 3rd Main, Rajpur Road, Dehradun, UK",
-                "viewMapLocation": "https://www.google.com/maps/place/eGovernments+Foundation/@12.928746,77.6257499,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae15ded4726555:0xe85af37e345d61bb!8m2!3d12.9287543!4d77.6279401"
+                "serviceCenter": "Plot 15, Independence Avenue, Kololi, Serrekunda, The Gambia",
+                "viewMapLocation": "https://www.google.com/maps/place/Serrekunda,+The+Gambia/@13.4384,-16.6794,15z"
             },
 
             "MCOLLECT" : {
@@ -32,8 +32,8 @@
                   "contactOne": "7878787878",
                   "contactTwo": "7979797979"
                 },
-                "serviceCenter": "#44, Sharath Complex, 2nd Cross, 3rd Main, Rajpur Road, Dehradun, UK",
-                "viewMapLocation": "https://www.google.com/maps/place/eGovernments+Foundation/@12.928746,77.6257499,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae15ded4726555:0xe85af37e345d61bb!8m2!3d12.9287543!4d77.6279401"
+               "serviceCenter": "Plot 15, Independence Avenue, Kololi, Serrekunda, The Gambia",
+                "viewMapLocation": "https://www.google.com/maps/place/Serrekunda,+The+Gambia/@13.4384,-16.6794,15z"
             },
             "PGR" : {
               "helpline": 
@@ -41,8 +41,8 @@
                 "contactOne": "7878787878",
                 "contactTwo": "7979797979"
               },
-              "serviceCenter": "#44, Sharath Complex, 2nd Cross, 3rd Main, Rajpur Road, Dehradun, UK",
-              "viewMapLocation": "https://www.google.com/maps/place/eGovernments+Foundation/@12.928746,77.6257499,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae15ded4726555:0xe85af37e345d61bb!8m2!3d12.9287543!4d77.6279401"
+             "serviceCenter": "Plot 15, Independence Avenue, Kololi, Serrekunda, The Gambia",
+                "viewMapLocation": "https://www.google.com/maps/place/Serrekunda,+The+Gambia/@13.4384,-16.6794,15z"
           },
           "OBPS" : {
             "helpline": 
