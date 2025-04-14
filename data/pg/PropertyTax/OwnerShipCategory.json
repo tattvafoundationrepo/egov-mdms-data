@@ -12,11 +12,6 @@
       "name": "Individual - SingleOwner",
       "code": "INDIVIDUAL.SINGLEOWNER",
       "active": true
-    },
-    {
-      "name": "Multiple Owners",
-      "code": "INDIVIDUAL.MULTIPLEOWNERS",
-      "active": true
     }
   ]
 }
