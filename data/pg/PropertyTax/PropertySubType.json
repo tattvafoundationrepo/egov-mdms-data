@@ -5,7 +5,7 @@
     {
       "name": "Flat/Part of the building",
       "code": "SHAREDPROPERTY",
-      "active": true,
+      "active": false,
       "propertyType": "BUILTUP"
     },
     {
