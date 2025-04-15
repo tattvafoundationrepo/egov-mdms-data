@@ -46,18 +46,6 @@
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "Challans.Santitation dumping garbage",
-      "code": "CH.Santitation_dumping_garbage",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": false,
-      "type": "Adhoc"
-    },
-    {
       "businessService": "Taxes.Electricity Chungi",
       "code": "TX.Electricity_Chungi",
       "collectionModesNotAllowed": [
@@ -72,56 +60,8 @@
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "Challans.Plastic Challan",
-      "code": "CH.Plastic_Challan",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-    {
-      "businessService": "Challans.Rehri Challan",
-      "code": "CH.Rehri_Challan",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-    {
       "businessService": "Challans.Challan for Misuse of Water",
       "code": "CH.Challan_for_Misuse_of_Water",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-    {
-      "businessService": "Challans.Dengue Challan",
-      "code": "CH.Dengue_Challan",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": true,
-      "type": "Adhoc"
-    },
-    {
-      "businessService": "Challans.Littering Challan",
-      "code": "CH.Littering_Challan",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -160,44 +100,8 @@
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     },
     {
-      "businessService": "SBM garbage plastic polythene challan",
-      "code": "CH.SBM_garbage_plastic_polythene_challan",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": false,
-      "type": "Adhoc"
-    },
-    {
       "businessService": "Challans.Cattle Challan",
       "code": "CH.Cattle_Challan",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": false,
-      "type": "Adhoc"
-    },
-    {
-      "businessService": "Challans.Dairy Animals Challan",
-      "code": "CH.Dairy_Animals_Challan",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
-      "isActive": false,
-      "type": "Adhoc"
-    },
-    {
-      "businessService": "Challans.Bidi & Cigrette Challan",
-      "code": "CH.Bidi_&_Cigrette_Challan",
       "collectionModesNotAllowed": [
         "DD"
       ],
@@ -229,20 +133,7 @@
       "isVoucherCreationEnabled": true,
       "isActive": false
     },
-    {
-      "businessService": "Challans.Collection and Demolition Waste Challan fee",
-      "code": "CH.Collection_and_Demolition_Waste_Challan_fee",
-      "collectionModesNotAllowed": [
-        "DD"
-      ],
-      "partPaymentAllowed": false,
-      "isAdvanceAllowed": false,
-      "demandUpdateTime": 86400000,
-      "isVoucherCreationEnabled": true,
-      "isActive": false,
-      "type": "Adhoc",
-      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
-    },
+
     {
       "businessService": "Challans.Burning of Waste Challan fee",
       "code": "CH.Burning_of_Waste_Challan_fee",
