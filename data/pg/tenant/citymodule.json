@@ -5,7 +5,7 @@
     {
       "module": "PGR",
       "code": "PGR",
-      "bannerImage": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia/high.jpeg",
+      "bannerImage": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia+Images+Final+/Complain_1+%281%29.jpeg",
       "active": true,
       "order":2,
       "tenants": [
@@ -17,7 +17,7 @@
     {
       "module": "PT",
       "code": "PT",
-      "bannerImage": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia/BRUFUT-Homes.webp",
+      "bannerImage": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia+Images+Final+/Property+Tax_Gambia+%281%29+%281%29.jpeg",
       "active": true,
       "order":1,
       "tenants": [
@@ -63,7 +63,7 @@
     {
       "module": "TL",
       "code": "TL",
-      "bannerImage": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia/Gambia-payment-collection.png",
+      "bannerImage": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia+Images+Final+/TL+Banner+Image.jpeg",
       "active": true,
       "order":2,
       "tenants": [
