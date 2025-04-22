@@ -43,10 +43,6 @@
           "active": true
         },
         {
-          "code": "OWNER.ADDRESSPROOF.AADHAAR",
-          "active": false
-        },
-        {
           "code": "OWNER.ADDRESSPROOF.VOTERID",
           "active": false
         },
