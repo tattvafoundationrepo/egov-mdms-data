@@ -9,7 +9,7 @@
     },
     {
       "code": "ACC-2",
-      "uom": "HP",
+      "uom": "GROSSUNITS",
       "active": true
     }
   ]
