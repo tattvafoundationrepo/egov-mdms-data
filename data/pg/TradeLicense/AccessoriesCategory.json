@@ -4,7 +4,7 @@
   "AccessoriesCategory": [
     {
       "code": "ACC_1",
-      "uom": "HP",
+      "uom": "GROSSUNITS",
       "active": true
     },
     {
