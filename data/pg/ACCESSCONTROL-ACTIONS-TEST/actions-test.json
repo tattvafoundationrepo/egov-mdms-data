@@ -7303,7 +7303,7 @@
          "url": "/property-services/property/_create",
          "displayName": "Create Property Registry",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
