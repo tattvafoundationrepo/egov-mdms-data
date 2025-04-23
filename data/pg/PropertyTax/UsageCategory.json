@@ -11,13 +11,13 @@
     {
       "name": "NonResidential",
       "code": "NONRESIDENTIAL",
-      "active": false,
+      "active": true,
       "fromFY": "2015-16"
     },
     {
       "name": "Commercial",
       "code": "NONRESIDENTIAL.COMMERCIAL",
-      "active": false,
+      "active": true,
       "fromFY": "2015-16",
       "exemption": {
         "rate": 0,
@@ -28,7 +28,7 @@
     {
       "name": "Retail",
       "code": "NONRESIDENTIAL.COMMERCIAL.RETAIL",
-      "active": false,
+      "active": true,
       "fromFY": "2015-16",
       "exemption": {
         "rate": 0,
