@@ -3,7 +3,7 @@
   "moduleName": "TradeLicense",
   "AccessoriesCategory": [
     {
-      "code": "ACC-1",
+      "code": "ACC_1",
       "uom": "HP",
       "active": true
     },
