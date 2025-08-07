@@ -119,7 +119,7 @@
                 "name": "WhatsApp Banner Desktop View",
                 "bannerUrl": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia+Images+Final+/Image+for+Landing+page+below+section.png",
                 "enabled": true,
-                "navigationUrl": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva"
+                "navigationUrl": ""
             },
             "whatsAppBannerMobile":
             {
@@ -127,7 +127,7 @@
                 "name": "WhatsApp Banner Mobile View",
                 "bannerUrl": "https://gambia-terraform.s3.ap-south-1.amazonaws.com/Gambia+Images+Final+/Image+for+Landing+page+below+section.png",
                 "enabled": true,
-                "navigationUrl": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva"
+                "navigationUrl": ""
             }
         }  
     ]
