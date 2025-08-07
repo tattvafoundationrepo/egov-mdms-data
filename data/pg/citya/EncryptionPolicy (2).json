@@ -1,0 +1,196 @@
+{
+    "tenantId" : "pg",
+    "moduleName" : "DataSecurity",
+    "EncryptionPolicy" : [
+      {
+        "key" : "User",
+        "attributeList" : [
+          {
+            "jsonPath" : "name",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "mobileNumber",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "emailId",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "username",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "altContactNumber",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "pan",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "aadhaarNumber",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "guardian",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "permanentAddress/address",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "correspondenceAddress/address",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "addresses/*/address",
+            "type" : "Normal"
+          }
+        ]
+      },
+      {
+        "key" : "UserSearchCriteria",
+        "attributeList" : [
+          {
+            "jsonPath" : "userName",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "name",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "mobileNumber",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "aadhaarNumber",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "pan",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "emailId",
+            "type" : "Normal"
+          }
+        ]
+      },
+      {
+        "key" : "BndDetail",
+        "attributeList" : [
+          {
+            "jsonPath" : "mobileno",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "emailid",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "aadharno",
+            "type" : "Normal"
+          },
+          {
+            "jsonPath" : "icdcode",
+            "type" : "Normal"
+          } 
+        ]
+      },
+        {
+      "key": "MiscReceipt",
+      "attributeList": [
+        { "jsonPath": "ulb", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "receiptnumber", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "receiptdate", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "g8issuedate", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "g8receiptno", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "status", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "servicecategory", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "cgst", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "tax", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "fieldcollection", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "sgst", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "ddorchequenumber", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "collectiontype", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "collectorname", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "totalamount", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "paymentmode", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] }
+      ]
+    },
+    {
+      "key": "MiscReceiptRegister",
+      "attributeList": [
+        { "jsonPath": "challanno", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "receiptnumber", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "receiptdate", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "consumername", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "servicecategory", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "tax", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "fieldcollection", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "cgst", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "sgst", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "securitydeposit", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "totalamount", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "transactionorchequenumber", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "banktxnNo", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "ddchequedate", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "name", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "paymentmode", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "GLCode", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "g8issuedate", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "g8receiptno", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "status", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "comments", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] }
+      ]
+    },
+    {
+      "key": "MiscReceiptCB",
+      "attributeList": [
+        { "jsonPath": "consumername", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "mobilenumber", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "receiptdate", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "receiptnumber", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "payername", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "servicecategory", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "amount", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "name", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] }
+      ]
+    },
+    {
+      "key": "MiscReceiptCBCancelled",
+      "attributeList": [
+        { "jsonPath": "ulb", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "receiptnumber", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "receiptdate", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "servicecategory", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "tax", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "fieldcollection", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "cgst", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "sgst", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "securitydeposit", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "ddorchequenumber", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "ddchequedate", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "collectiontype", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "name", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "totalamount", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "paymentmode", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] }
+      ]
+    },
+    {
+      "key": "ChallanStatusRegistry",
+      "attributeList": [
+        { "jsonPath": "challanno", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "consumername", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "servicecategory", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "amount", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "applicationstatus", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] },
+        { "jsonPath": "challandate", "type": "Normal", "roles": ["EMPLOYEE","FINANCE_ADMIN"] }
+      ]
+    }
+    ]
+}
