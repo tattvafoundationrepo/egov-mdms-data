@@ -1,5 +1,5 @@
 {
-  "tenantId": "gm",
+  "tenantId": "pg",
   "moduleName": "DataSecurity",
   "DecryptionABAC": [
     {
@@ -1623,6 +1623,162 @@
           ]
         }
       ]
+    },
+    {
+  "key": "MiscReceiptRegister",
+  "roleAttributeAccessList": [
+    {
+      "roleCode": "EMPLOYEE",
+      "attributeAccessList": [
+        {
+          "attribute": {
+            "jsonPath": "*/name"
+          },
+          "accessType": "PLAIN"
+        },
+        {
+          "attribute": {
+            "jsonPath": "*/consumername"
+          },
+          "accessType": "PLAIN"
+        }
+      ]
+    },
+    {
+      "roleCode": "UC_EMP",
+      "attributeAccessList": [
+        {
+          "attribute": {
+            "jsonPath": "*/name"
+          },
+          "accessType": "PLAIN"
+        },
+        {
+          "attribute": {
+            "jsonPath": "*/consumername"
+          },
+          "accessType": "PLAIN"
+        }
+      ]
     }
+  ]
+},
+{
+  "key": "MiscReceiptCBCancelled",
+  "roleAttributeAccessList": [
+    {
+      "roleCode": "EMPLOYEE",
+      "attributeAccessList": [
+        {
+          "attribute": {
+            "jsonPath": "*/name"
+          },
+          "accessType": "PLAIN"
+        }
+      ]
+    },
+    {
+      "roleCode": "UC_EMP",
+      "attributeAccessList": [
+        {
+          "attribute": {
+            "jsonPath": "*/name"
+          },
+          "accessType": "PLAIN"
+        }
+      ]
+    }
+  ]
+},
+{
+  "key": "MiscReceiptCB",
+  "roleAttributeAccessList": [
+    {
+      "roleCode": "EMPLOYEE",
+      "attributeAccessList": [
+        {
+          "attribute": {
+            "jsonPath": "*/name"
+          },
+          "accessType": "PLAIN"
+        },
+        {
+          "attribute": {
+            "jsonPath": "*/consumername"
+          },
+          "accessType": "PLAIN"
+        },
+        {
+          "attribute": {
+            "jsonPath": "*/payername"
+          },
+          "accessType": "PLAIN"
+        },
+        {
+          "attribute": {
+            "jsonPath": "*/mobilenumber"
+          },
+          "accessType": "PLAIN"
+        }
+      ]
+    },
+    {
+      "roleCode": "UC_EMP",
+      "attributeAccessList": [
+        {
+          "attribute": {
+            "jsonPath": "*/name"
+          },
+          "accessType": "PLAIN"
+        },
+        {
+          "attribute": {
+            "jsonPath": "*/consumername"
+          },
+          "accessType": "PLAIN"
+        },
+        {
+          "attribute": {
+            "jsonPath": "*/payername"
+          },
+          "accessType": "PLAIN"
+        },
+        {
+          "attribute": {
+            "jsonPath": "*/mobilenumber"
+          },
+          "accessType": "PLAIN"
+        }
+      ]
+    }
+  ]
+},
+{
+  "key": "ChallanStatusRegistry",
+  "roleAttributeAccessList": [
+    {
+      "roleCode": "EMPLOYEE",
+      "attributeAccessList": [
+        {
+          "attribute": {
+            "jsonPath": "*/consumername"
+          },
+          "accessType": "PLAIN"
+        }
+      ]
+    },
+    {
+      "roleCode": "UC_EMP",
+      "attributeAccessList": [
+        {
+          "attribute": {
+            "jsonPath": "*/consumername"
+          },
+          "accessType": "PLAIN"
+        }
+      ]
+    }
+  ]
+}
   ]
 }
