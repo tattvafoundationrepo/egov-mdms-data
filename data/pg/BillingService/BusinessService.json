@@ -147,6 +147,20 @@
       "isActive": false,
       "type": "Adhoc",
       "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
+    },
+    {
+      "businessService": "Taxes.Emarket Property Fees",
+      "code": "TX.Emarket_Property_Fees",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc",
+      "billGineiURL" : "egov-searcher/bill-genie/mcollectbills/_get"
     }
   ]
 }
