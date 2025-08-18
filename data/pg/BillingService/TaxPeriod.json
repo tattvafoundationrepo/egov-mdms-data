@@ -3224,6 +3224,22 @@
       "service": "CH.Burning_of_Waste_Challan_fee",
       "code": "TXPTAN2022",
       "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Emarket_Property_Fees",
+      "code": "TXPTAN2024",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1648751400000,
+      "toDate": 1680287399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Emarket_Property_Fees",
+      "code": "TXPTAN2025",
+      "financialYear": "2025-26"
     }
   ]
 }
