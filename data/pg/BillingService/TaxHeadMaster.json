@@ -2672,6 +2672,27 @@
 "isActualDemand": false,
 "order": "0",
 "isRequired": false
-}
+},
+    
+{
+      "category": "TAX",
+      "service": "TX.Emarket_Property_Fees",
+      "name": "TX.EMARKET_PROPERTY_FEES_TAX",
+      "code": "TX.EMARKET_PROPERTY_FEES_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.Emarket_Property_Fees",
+      "name": "TX.EMARKET_PROPERTY_FEES_FIELD_FEE",
+      "code": "TX.EMARKET_PROPERTY_FEES_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    }
   ]
 }
