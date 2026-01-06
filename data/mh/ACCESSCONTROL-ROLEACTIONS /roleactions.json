@@ -27099,6 +27099,18 @@
       "actionid": 1730,
       "actioncode": "",
       "tenantId": "mh"
+    },
+	{
+      "rolecode": "APP_ACCOUNTS",
+      "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "mh"
+    },
+    {
+      "rolecode": "APP_ACCOUNTS",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "mh"
     }
   ]
 }
