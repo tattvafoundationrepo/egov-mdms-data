@@ -1333,5 +1333,13 @@
 				]
 			}
 		}
+	},
+	"Analytics": {
+	  "DashboardDefinition": {
+	    "masterName": "DashboardDefinition",
+	    "isStateLevel": true,
+	    "uniqueKeys": ["code"]
+	  }
 	}
+
 }
